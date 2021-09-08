@@ -13,8 +13,9 @@ fIDBAC integrated an accuracy bacterial identification, automated strain typing 
  Python packages that need to be installed :"Biopython scipy skbio gzip Levenshtein".
 * perl
 * R
-* [NCBI BLAST+](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST)
+* NCBI BLAST+
   
 ## Download data
-
+ Download Type strains genome and gene files in [12784.genome.txt](https://github.com/DMicrobe/fIDBAC/blob/master/12784.genome.txt), \
+ Download kmerdb and close snp data [here](http://fbac.dmicrobe.cn/about/)
 ## Test
