@@ -1,0 +1,22 @@
+#db and softwave for fIDBAC.pl
+kmerdb = /public/Users/liangq/software/fBac_bin/fIDBAC_pipeline/kmerdb/Type202102_DB
+type= /public/Database/Bacteria/Type/rename/type.dir.filter.rename.list
+rename = /public/Users/liangq/software/fBac_bin/fIDBAC_pipeline/db/equivalent
+pubMLSTdb=/public/Database/PubMLST
+pubMLST_list=/public/Database/PubMLST/species.lst
+ANIcalculator=/public/Biosoft/ANIcalculator_v1/ANIcalculator
+orthoANI=/public/Users/liangq/pipeline/fBac_bin/0.Online/Average_Nucleotide_Identity/ANI/ANI.pl
+LPSN=/public/Database/Bacteria/Species.tax
+blast=/public/Biosoft/miniconda3/envs/Gene/bin/blastn
+kmerfinder=/public/Biosoft/kmer-finder/findTemplate
+prokka=/public/Biosoft/miniconda3/envs/Gene/bin/prokka
+fastANI=/public/Biosoft/miniconda3/bin/fastANI
+db_16=/public/Database/16S/16S.V3.fa
+blastn=/public/Biosoft/miniconda3/envs/py36/bin/blastn
+blastp=/public/Biosoft/miniconda3/envs/py36/bin/blastp
+rnammer=/public/Biosoft/rnammer-1.2/rnammer
+python2=/public/Biosoft/miniconda2/bin/python
+python3=/public/Biosoft/Python-3.8.6/local/bin/python3
+Rscript=/public/Biosoft/miniconda3/envs/R3.5/bin/Rscript
+VFDBdb=/public/Database/VFDB/20190311/VFDB.fa
+VFDBanno =/public/Database/VFDB/20190311/VFDB.fa.annot.xls

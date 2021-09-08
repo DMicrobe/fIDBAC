@@ -1,0 +1,12 @@
+Software	Website								Notes
+--------	-------								-----
+Python2&Python3
+R	http://www.r-project.org/
+NCBI BLAST+	ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST
+FastANI		https://github.com/ParBLiSS/FastANI				Required version: 1.1+
+HMMer 3.0+	http://hmmer.janelia.org/software
+Prodigal	http://prodigal.ornl.gov
+Prokka		https://github.com/tseemann/prokka	1.14.6
+RGI	https://card.mcmaster.ca/
+Phylip	https://evolution.genetics.washington.edu/phylip.html
+MUMmer	http://mummer.sourceforge.net/	3.23

@@ -1,0 +1,119 @@
+<HTML><TITLE>Readseq Usage</TITLE><BODY><PRE>
+
+  Read & reformat biosequences, Java command-line version
+  Usage: jre -cp readseq.jar run [options] input-file(s)
+
+  Options
+    -a[ll]              select All sequences
+    -c[aselower]        change to lower case
+    -C[ASEUPPER]        change to UPPER CASE
+    -degap[=-]          remove gap symbols
+    -i[tem=2,3,4]       select Item number(s) from several
+    -l[ist]             List sequences only
+    -o[utput=]out.seq   redirect Output
+    -p[ipe]             Pipe (command line, <stdin, >stdout)
+    -t[ranslate=]io     translate input symbol [i] to output symbol [o]
+                        use several -tio to translate several symbols
+    -v[erbose]          Verbose progress
+    -f[ormat=]#         Format number for output,  or
+    -f[ormat=]Name      Format name for output
+          see Formats   list below for names and numbers
+    -inform[at]=#       input format number,  or
+    -inform[at]=Name    input format name.  Assume input data is this format
+    -ch[ecksum]         calculate & print checksum of sequences
+
+   Document field and Feature table extraction:
+    -feat[ures]=exon,CDS...   extract sequence of selected features
+    -nofeat[ures]=repeat_region,intron... remove sequence of selected features 
+    -field=AC,ID...      include selected document fields in output
+    -nofield=COMMENT,... remove selected document fields from output 
+
+   Pretty format options:
+    -wid[th]=#            sequence line width
+    -tab=#                left indent
+    -col[space]=#         column space within sequence line on output
+    -gap[count]           count gap chars in sequence numbers
+    -nameleft, -nameright[=#]   name on left/right side [=max width]
+    -nametop              name at top/bottom
+    -numleft, -numright   seq index on left/right side
+    -numtop, -numbot      index on top/bottom
+    -match[=.]            use match base for 2..n species
+    -inter[line=#]        blank line(s) between sequence blocks
+
+This program requires a Java runtime (jre) program, version 1.1.x 
+The leading '-' on option is optional if '=' is present.  All non-options
+(no leading '-' or embedded '=') are used as input file names.
+These options and call format are compatible with the classic readseq (v.1992)
+with exception of no -reverse option.
+
+</PRE>
+<HR>
+<P><I><B>Readseq version 2.0.10 (27 May 2000)</B></I></P>
+<P>Home of this package is 
+<A href="http://iubio.bio.indiana.edu/soft/molbio/readseq/java/">http://iubio.bio.indiana.edu/soft/molbio/readseq/java/</A></P>
+<P>An instance of the Web form for this is 
+<A href="http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi">http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi</A></P>
+<P>For further information on feature tables, see 
+<A href="http://www.ncbi.nlm.nih.gov/collab/FT/index.html">http://www.ncbi.nlm.nih.gov/collab/FT/index.html</A></P>
+<HR>
+<B>Known biosequence formats:</B><BR>
+<TABLE bgcolor="white" border=0 CELLSPACING=0 CELLPADDING=4><TR bgcolor="lightblue"><TH>ID</TH><TH>Name</TH><TH>Read</TH><TH>Write</TH><TH>Int'leaf</TH><TH>Document</TH><TH>Content-type</TH><TH>Suffix</TH></TR>
+<TR><TD>1</TD><TD>IG|Stanford</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/ig</TD><TD>.ig</TD></TR>
+<TR><TD>2</TD><TD>GenBank|GB</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>yes </TD><TD>biosequence/genbank</TD><TD>.gb</TD></TR>
+<TR><TD>3</TD><TD>NBRF</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/nbrf</TD><TD>.nbrf</TD></TR>
+<TR><TD>4</TD><TD>EMBL</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>yes </TD><TD>biosequence/embl</TD><TD>.embl</TD></TR>
+<TR><TD>5</TD><TD>GCG</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/gcg</TD><TD>.gcg</TD></TR>
+<TR><TD>6</TD><TD>DNAStrider</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/strider</TD><TD>.strider</TD></TR>
+<TR><TD>7</TD><TD>Fitch</TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/fitch</TD><TD>.fitch</TD></TR>
+<TR><TD>8</TD><TD>Pearson|Fasta</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/fasta</TD><TD>.fasta</TD></TR>
+<TR><TD>9</TD><TD>Zuker</TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/zuker</TD><TD>.zuker</TD></TR>
+<TR><TD>10</TD><TD>Olsen</TD><TD>-- </TD><TD>-- </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/olsen</TD><TD>.olsen</TD></TR>
+<TR><TD>11</TD><TD>Phylip3.2</TD><TD>yes </TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/phylip2</TD><TD>.phylip2</TD></TR>
+<TR><TD>12</TD><TD>Phylip|Phylip4</TD><TD>yes </TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/phylip</TD><TD>.phylip</TD></TR>
+<TR><TD>13</TD><TD>Plain|Raw</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/plain</TD><TD>.seq</TD></TR>
+<TR><TD>14</TD><TD>PIR|CODATA</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/codata</TD><TD>.pir</TD></TR>
+<TR><TD>15</TD><TD>MSF</TD><TD>yes </TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/msf</TD><TD>.msf</TD></TR>
+<TR><TD>16</TD><TD>PAUP|NEXUS</TD><TD>yes </TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/nexus</TD><TD>.nexus</TD></TR>
+<TR><TD>17</TD><TD>Pretty</TD><TD>-- </TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/pretty</TD><TD>.pretty</TD></TR>
+<TR><TD>18</TD><TD>XML</TD><TD>yes </TD><TD>yes </TD><TD>-- </TD><TD>yes </TD><TD>biosequence/xml</TD><TD>.xml</TD></TR>
+<TR><TD>19</TD><TD>BLAST</TD><TD>yes </TD><TD>-- </TD><TD>yes </TD><TD>-- </TD><TD>biosequence/blast</TD><TD>.blast</TD></TR>
+<TR><TD>20</TD><TD>SCF</TD><TD>yes </TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/scf</TD><TD>.scf</TD></TR>
+<TR><TD>21</TD><TD>ASN.1</TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>-- </TD><TD>biosequence/asn1</TD><TD>.asn</TD></TR>
+</TABLE>
+&nbsp;&nbsp; (Int'leaf = interleaved format; Document = documentation is parsed)
+<HR>
+<P>Also available in this package:</P>
+<P>For the current help document, use <BR>jre -cp readseq.jar help</P>
+<PRE>
+
+  Graphic interface to Readseq (Java swing)
+  Usage:
+    java -cp readseq.jar iubio.readseq.app (java version 1.2)
+    jre -cp readseq.jar:/path/to/swingall.jar iubio.readseq.app (java version 1.1.x)
+  Readseq version 2.0.10 (27 May 2000)
+
+  Java Foundation Classes (Swing) are required for this interface
+  This is available for Java versions 1.1.7 and newer at
+     http://java.sun.com/products/jfc/download.html
+  Put the swingall.jar of this package in your classpath, as with
+    jre -cp readseq.jar:swingall.jar iubio.readseq.app (java version 1.1.x)
+
+  Macintosh users: See also Readseq.macapp, a small Mac Java application
+  to launch readseq.jar without a jre commandline.
+
+<HR>
+
+  HTTP server common gateway interface to Readseq
+  Usage (example as cgi on unix system):
+  Install shell script like this as '/cgi-bin/readseq.cgi' for your web server
+    #!/bin/sh
+    envtemp=/tmp/rseq$$.env
+    env > ${envtemp}
+    /usr/java/bin/jre -cp readseq.jar iubio.readseq.cgi env=${envtemp}
+    /bin/rm ${envtemp}
+
+  Readseq version 2.0.10 (27 May 2000)
+  See also iubio.readseq.run.usage()
+
+</PRE>
+</BODY></HTML>

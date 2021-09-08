@@ -1,0 +1,12 @@
+
+rseq.mcp is the CodeWarrior project file to recompile readseq source.
+See http://www.metrowerks.com/ for this multi-platform (macos, mswin,
+solaris, linux) java/... development tool.
+
+rseq.mcp.xml is a text dump of the project for those w/o codewarrior.
+
+Be advised that readseq java source will not recompile with sun's
+JavaC simple minded compiler, as it does not comform to the constraint
+of that compiler that each public interface or class must be in
+a folder/file of the same name.
+

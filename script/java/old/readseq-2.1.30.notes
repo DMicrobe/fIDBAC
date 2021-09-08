@@ -1,0 +1,8 @@
+readseq-2.1.30 updates:
+  enabled -nofeature= behaviour to act correctly to remove feature locations
+from others.  Now requires both -feature=xxx and -nofeature=yyy options.
+For example, this removes coding sequences from a source GenBank record:
+ java -jar readseq.jar -format=fasta -pipe -nofeature=CDS -feature=source genbank-sequence.gb
+
+Prior to this -nofeature= acted same as -feature= option.
+

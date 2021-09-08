@@ -1,0 +1,98 @@
+<HTML>
+<HEAD>
+  <TITLE>Readseq: Read &amp; reformat biosequences</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+
+<H1>Readseq: Read &amp; reformat biosequences
+.. <a href="/cgi-bin/readseq.cgi">web service</a>
+</H1>
+
+Readseq was written originally around 1989 a component of a
+sequence analysis program, but when I added a small,
+simple command-line interface, it took on a life of its own as a
+conversion program for bioinformatics. It's main contribution to
+bioinformatics is it takes on the job of guessing what your input
+biosequence data format is, and converting it to what your
+software knows how to handle.
+
+See here <a href="readseq-help.html">readseq-help.html</a> 
+and <a href="Readseq2-help.html">Readseq2-help.html</a> for extended help.
+
+<p>
+What you need to use it is 
+<ol>
+<li><a href="readseq.jar">readseq.jar</a> the java archive of this program.
+	(<B><I>don't</I> unpack this jar</B> on your computer).
+	
+<li>a Java runtime system on your computer, versions 1.1,1.2,1.3,1.4,1.5.
+
+<li>for OLD MacOS 9-, take also <a href="ReadseqApp.hqx">ReadseqApp</a>, 
+  a small Mac application to run readseq without a command line
+  (B>do un-binhex and un-stuffit</B> this one).
+	
+</ol>
+
+<p> 
+This version includes a <B>Graphic User Interface (GUI)</B> for those who
+prefer not to learn the many command line options, or who's
+workstation lacks a command-line interface (which probably
+includes most but the hardy bioinformaticians :).
+Double-click the readseq.jar file to launch or Run as <br>
+<ol>
+<B>java -jar readseq.jar</B> <br>
+</ol>
+If you do like command line interfaces, see the docs, the brief doc is
+<ol>
+<B>java -cp readseq.jar help</B> <br>
+<B>java -cp readseq.jar run</B> -- for command-line <br>
+<B>java -cp readseq.jar app</B> -- for GUI application <br>
+<B>java -cp readseq.jar cgi</B> -- for web CGI app<br>
+</ol>
+
+<p>
+This version includes a <B>Common Gateway Interface (CGI)</B> for use from a 
+web server.  One web server where you can find this is
+<a href="http://iubio.bio.indiana.edu/cgi-bin/readseq.cgi">IUBio Archive</a>.
+See the extended help for details and installing your own readseq web cgi, 
+or see readseq.jsp for web JSP.
+<p>
+
+This version also includes the same old <B>Command Line Interface (CLI)</B>
+that the 1992 version supported, so you can drop it in place of the
+older, slower, bugger, less functional Readseq from that decade.
+
+<p>
+Programmers will find the <B>source code</B> here also, in
+<a href="readseq-source.zip">readseq-source.zip</a>,
+with JavaDoc generated documents in <a href="readseq-javadocs.zip">readseq-javadocs.zip</a>.
+<br>
+You will find a nearly identical source version bundled with other
+iubio java source. This is split into
+java 1.3/javac-compatible source code 
+(one public class/file, file name == public class name)
+at this folder,
+<br>
+<a href="http://iubio.bio.indiana.edu/soft/molbio/java/source/">
+http://iubio.bio.indiana.edu/soft/molbio/java/source/ </a>
+as iubio-javalib.tar.gz
+<br>
+with expectation in summer 2002 this will become
+reference readseq source.
+ 
+<p>
+Home of this package is <a
+href="http://iubio.bio.indiana.edu/soft/molbio/readseq/java/">
+http://iubio.bio.indiana.edu/soft/molbio/readseq/java/</a>
+
+<p>
+Anyone can use Readseq. There are no copyright restrictions,
+it is in the PUBLIC DOMAIN.
+
+<p>
+-- Don Gilbert
+<BR>software@bio.indiana.edu, May 2001
+<BR>Bioinformatics group, 
+Biology Department &amp; Cntr. Genomics &amp; Bioinformatics, 
+<BR>Indiana University, Bloomington, Indiana
+

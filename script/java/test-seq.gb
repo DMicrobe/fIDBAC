@@ -1,0 +1,1984 @@
+GBINV.SEQ          Genetic Sequence Data Bank
+                         15 June 1997
+
+               NCBI-GenBank Flat File Release 101.0
+
+                      Invertebrate Sequences
+
+   27363 loci,  95938006 bases, from   27363 reported sequences
+
+LOCUS       AA18SRN      1079 bp    DNA             INV       11-OCT-1993
+DEFINITION  A.australis gene for 18S ribosomal RNA (partial).
+ACCESSION   X74761
+NID         g407086
+KEYWORDS    18S ribosomal RNA.
+SOURCE      Sahara scorpion.
+  ORGANISM  Androctonus australis
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Chelicerata; Arachnida; Scorpiones; Buthidae; Androctonus.
+REFERENCE   1  (bases 1 to 1079)
+  AUTHORS   Chalwatzis,N., Baur,A. and Zimmermann,F.K.
+  TITLE     A 18S ribosomal RNA gene fragment of the scorpion Androctonus
+            australis compared with the b spider Eurypelma californica
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1079)
+  AUTHORS   Chalwatzis,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-1993) N. Chalwatzis, TH-Darmstadt, Inst. fuer
+            Mikrobiologie/Genetik, Schnittspahnstr. 10, 64287 Darmstadt, FRG
+FEATURES             Location/Qualifiers
+     source          1..1079
+                     /organism="Androctonus australis"
+                     /dev_stage="adult"
+                     /tissue_type="muscle"
+                     /clone="pNCO1Aa18S"
+     rRNA            <1..>1079
+                     /product="18S ribosomal RNA"
+BASE COUNT      276 a    246 c    295 g    262 t
+ORIGIN      
+        1 cagcagccgc ggtaatacca gctccaatag cgtatattaa agttgttgtg gttaaaaagc
+       61 tcgtagttgg atctcagatc cggagctgcg gtccaccgcc cggtggttac tgtagcgacc
+      121 ggacgtttgg ccggattcct ttgatgctct ttgccgagtg tcttgggtgt ccggcacgtt
+      181 tactttgaaa aaattagagt gctcaaagca ggcgtaccgc ctgaataatg gtgcatggaa
+      241 taatggaata agacctcgtc tctattttgt tggttttcgg aaaacgagga aatgattaag
+      301 agggacagac gggggcattc gtattgcgac gctagaggtg aaattcttgg accgtcgcaa
+      361 gacgaactac tgcgaaagca tttgccaaga atgttttcat taatcaagaa cgaaagttag
+      421 aggttcgaag gcgatcagat accgccctag ttctaaccat aaacgatgcc aaccagcaat
+      481 ccgcctgagt tcctcaaatg actcggcggg cagcttccgg gaaaccaaag tgtttgggtt
+      541 ccaggggaag tatggttgca aagctgaaac ttaaaggaat tgacggaagg gcaccaccag
+      601 gagtggagcc tgcggcttaa tttgactcaa cacgggaaaa cttacccggc ccggacactg
+      661 gaaggattga cagattaaga gctctttctt gattcagtgg atggtggtgc atggccgttc
+      721 ttagttggtg gagcgatttg tctggttaat tccgataacg aacgagactc tagcctacta
+      781 aatagacgaa cgatcactgg agtcgttcga tcttcttaga gggacaagcg gcttttagcc
+      841 gcacgagaca gagcaataac aggtctgtga tgcccttaga tgtccggggc cgcacgcgcg
+      901 ctacactgaa ggaatcagcg tgcgtttacc cctgtccggc aggactgggt aacccgatca
+      961 acctccttcg tgatagggat aggggcttgt aattcttgcc cttgaacgag gaattcccag
+     1021 taagcacgag tcataagctc gtgttgatta cgtccctgcc ctttgcacac accgcccgt
+//
+LOCUS       AA18SRRN     1812 bp    DNA             INV       01-MAR-1994
+DEFINITION  A.australis gene for 18S ribosomal RNA.
+ACCESSION   X77908
+NID         g457449
+KEYWORDS    18S ribosomal RNA.
+SOURCE      Sahara scorpion.
+  ORGANISM  Androctonus australis
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Chelicerata; Arachnida; Scorpiones; Buthidae; Androctonus.
+REFERENCE   1  (bases 1 to 1812)
+  AUTHORS   Chalwatzis,N., Kinzelbach,R. and Zimmermann,F.K.
+  TITLE     Complete sequence of a Scorpion 18S rRNA gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1812)
+  AUTHORS   Chalwatzis,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-1994) N. Chalwatzis, Technische Hochschule
+            Darmstadt, Institute fuer Mikrobiologie, Schnittspahnstr. 10, 64
+            287 Darmstadt, FRG
+FEATURES             Location/Qualifiers
+     source          1..1812
+                     /organism="Androctonus australis"
+                     /dev_stage="adult"
+                     /clone="pNC07And18S"
+     primer_bind     1..22
+                     /note="PCR primer 18S0000"
+     primer_bind     1785..1812
+                     /note="PCR primer 18S1900"
+BASE COUNT      470 a    410 c    491 g    441 t
+ORIGIN      
+        1 tacctggtgg atcctgccag tagtcatatg cttgtctcaa agattaagcc atgcatgtct
+       61 aagtacatac cgaaataagg tgaaaccgcg aatggctcat taaatcagtt acggttcctt
+      121 agactgtact ttcctacttg gataactgtg gtaattctag agctaataca tgcatcagag
+      181 ctccgacctt cggggacgag cgcatttatt agaccaagac caatcggact taggtccgca
+      241 aactgtggtg actctggata actttgagct gatcgcacgg tctagcaccg gcgacgtatc
+      301 tttcaagtgt ctgccttatc aactttcgat ggtaggttat gcgcctacca tggtcgttac
+      361 gggtaacggg gaatcagggt tcgattccgg agagggagcc tgagaaacgg ctaccacatc
+      421 caaggaaggc agcaggcgcg caaattaccc actcccggca cggggaggta gtgacgaaaa
+      481 ataacaatac gggactctat tgaggccccg taattggaat gggtacaatc taaacccttt
+      541 aacgagtatc cattggaggg caagtctggt gccagcagcc gcggtaattc cagctccaat
+      601 agcgtatatt aaagttgttg tggttaaaaa gctcgtagtc ggatctcaga tccggagctg
+      661 cggtccaccg cccggtggtt actgtagcga ccggacgttt ggccggattc ctttgatgct
+      721 ctttgccgag tgtcttgggt gtccggcacg tttactttga aaaaattaga gtgctcaaag
+      781 caggcgtacc gcctgaataa tggtgcatgg aataatggaa taagacctcg tctctatttt
+      841 gttggttttc ggaaaacgag gaaatgatta agagggacag acgggggcat tcgtattgcg
+      901 acgctagagg tgaaattctt ggaccgtcgc aagacgaact actgcgaaag catttgccaa
+      961 gaatgttttc attaatcaag aacgaaagtt agaggttcga aggcgatcag ataccgccct
+     1021 agttctaacc ataaacgatg ccaaccagca atccgcctga gttcctcaaa tgactcggcg
+     1081 ggcagcttcc gggaaaccaa agtgtttggg ttccagggga agtatggttg caaagctgaa
+     1141 acttaaagga attgacggaa gggcaccacc aggagtggag cttgcggctt aatttgactc
+     1201 aacacgggaa aacttacccg gcccggacac tggaaggatt gacagattaa gagctctttc
+     1261 ttgattcagt ggatggtggt gcatggccgt tcttagttgg tggagcgatt tgtctggtta
+     1321 attccgataa cgaacgagac tctagcctac taaatagacg aacgatcact ggagtcgttc
+     1381 gatcttctta gagggacaag cggcttttag ccgcacgaga cagagcaata acaggtctgt
+     1441 gatgccctta gatgtccggg gccgcacgcg cgctacactg aaggaatcag cgtgcgttta
+     1501 cccctgtccg gcaggactgg gtaacccgat caacctcctt cgtgataggg ataggggctt
+     1561 gtaattcttg cccttgaacg aggaattccc agtaagcacg agtcataagc tcgtgttgat
+     1621 tacgtccctg ccctttgtac acaccgcccg tcgctactac cgattgaatg atttagtgag
+     1681 gtcttcggac tggcgctcgg agcggcctta ctggtcgcgc cggcgtgccg gaaagatgac
+     1741 cgaacttgat tatttagagg aagtaaaagt cgtaacaagg tttccggagg tgaacctgca
+     1801 gaaggatcat ta
+//
+LOCUS       AA18SRRNA    1950 bp    DNA             INV       05-SEP-1991
+DEFINITION  Aedes albopictus gene for 18s rRNA.
+ACCESSION   X57172
+NID         g5552
+KEYWORDS    18S ribosomal RNA.
+SOURCE      forest day mosquito.
+  ORGANISM  Aedes albopictus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Insecta; Pterygota; Diptera; Nematocera; Culicoidea;
+            Culicidae; Aedes.
+REFERENCE   1  (bases 1 to 1950)
+  AUTHORS   Baldridge,G.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-1991) G.D. Baldridge, UNIVERSITY OF MINNESOTA,
+            DEPT OF ENTOMOLOGY, HODSON HALL, 1980 FOLWELL AVE, ST PAUL
+            MINNESOTA 55108, U S A
+REFERENCE   2  (bases 1 to 1950)
+  AUTHORS   Baldridge,G.D. and Fallon,A.M.
+  TITLE     Nucleotide sequence of a mosquito 18S ribosomal RNA gene
+  JOURNAL   Biochim. Biophys. Acta 1089 (3), 396-400 (1991)
+  MEDLINE   91316143
+FEATURES             Location/Qualifiers
+     source          1..1950
+                     /organism="Aedes albopictus"
+                     /dev_stage="larvae"
+                     /cell_line="ATC-15"
+                     /clone_lib="EMBL3"
+                     /clone="E5"
+                     /chromosome="3"
+     rRNA            1..1950
+                     /product="18S rRNA"
+BASE COUNT      545 a    399 c    495 g    511 t
+ORIGIN      
+        1 attctggttg atcctaccag taatatacgc ttgtctcaaa ggttaagcca tgcatgtcta
+       61 agtacaaaca gatttaatgt gaaaccgcat aaggctcagt ataacagcta taatttacaa
+      121 gatcatttaa ctagttactt ggataactgt ggaaaatcta gagctaatac atgcaaaatg
+      181 caggaacctc gcggaacctg tgcaattatt agtcaaacca atcgtcctcc gtgacgctgg
+      241 agttgaaatc tggataattt tgctgatcgt atggtctcgc accgacgaca gatctttcaa
+      301 atatctgccc tatcaactat tgatggtagt atagaggact accatggttg caacgggtaa
+      361 cggggaatca gggttcgatt ccggagaggg agcctgagaa atggctacca catccaagga
+      421 aggcagcagg cgcgtaaatt acccaatccc ggcacgggga ggtagtgacg agaaataaca
+      481 atataagact cttttatgac gtcttataat tggaatgagt tgagcataaa tccttcaaca
+      541 aggatcaagt ggagggcaag tctggtgcca gcagccgcgg taattccagc tccactagcg
+      601 tatattaaaa ttgttgcggt taaaacgttc gaagtttatt cttgtccaac acgggtgcta
+      661 ctcctttatg atggcagtag gtcactggat tgttgcgact ataagactgg gtgcgcccgt
+      721 cggcctcgcg gtcggcgcgg tcgtagtgtg gcgctgatgc ctttcatcgg gtgcagtgtt
+      781 tccgcaagcc cagctgctat taccttgaac aaattagagt gctctaagca ggctatccta
+      841 cggccgagaa taacttgcat ggaataatgg aatatgacct cggtcttaat attcattggt
+      901 ttgtaatcag atcaagaggt aatgattaac agaagtagtt gggggcatta gtattacggc
+      961 gcgagaggtg aaattcgtag accgtcgtaa gactaactaa agcgaaacga tttgccatgg
+     1021 atgctttcat taatcaagaa cgaaagttag aggatcgagg cgattagata ccgccctagt
+     1081 tctaaccgta aactatgcca attagcaatt gggagacgct acattatggt gctctcagta
+     1141 gcttccggga aaccaaaatt aggttccggg ggaagtatgg ttgcaaagtt gaaacttaaa
+     1201 ggaattgacg gaagggcacc accaggagtg gagcctgcgc ttaatttgac tcaacacggg
+     1261 aaaacttacc aggtccgaac ttattgaggt aagacagatt aatagctctt tctcaaaatt
+     1321 aagggtagtg gtgcatggcc gttcttagtt cgtggaatga tttgtctggt taattccgat
+     1381 aacgaacgtg actcaatcaa attaaataga acgctatcag cagtcagatg tttgataccg
+     1441 acggttcggg caacggtcgc tcgcgcgtcg cgctcggccg gcggtgtagt gtgacctgat
+     1501 aatacgtcaa cccatcgtgg ttgacttctg cttaatagga caatttgtgt tcagcaaaat
+     1561 gagattgagc gataacaggt ccgtgatgcc cttagatgtt ctgggctgca cgcgcgctac
+     1621 aatgtgcgca gcaacgcgta tccttgcccg aaagggccgg gaaatcgctt aaatgcgcat
+     1681 ttagtcggga tgaaatggtc catatgaacc tggaattcca gtaagtgctg gtcattagct
+     1741 agcgttgatt acgtccctgc cctttgtaca caccgcccgt cgctactacc gatggattat
+     1801 ttagtgaggt ctttgaaggt gaacatttgc tagtccctcg ggattacatt tgaatcgctg
+     1861 aagttgaccg aacttgaccg aacttgatga tttagaggaa gtaaaagtcg taacaaggtt
+     1921 tccgtaggtg aacctgcgga aggatcatta 
+//
+LOCUS       AA58SRRN      155 bp    DNA             INV       06-APR-1994
+DEFINITION  Aedes albopictus gene for 5.8S ribosomal RNA.
+ACCESSION   Z16413
+NID         g296930
+KEYWORDS    5.8S ribosomal RNA; ribosomal RNA.
+SOURCE      forest day mosquito.
+  ORGANISM  Aedes albopictus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Insecta; Pterygota; Diptera; Nematocera; Culicoidea;
+            Culicidae; Aedes.
+REFERENCE   1  (bases 1 to 155)
+  AUTHORS   Kjer,K.M., Baldridge,G.D. and Fallon,A.M.
+  TITLE     Mosquito large subunit ribosomal RNA: simultaneous alignment of
+            primary and secondary structure
+  JOURNAL   Biochim. Biophys. Acta 1217 (2), 147-155 (1994)
+  MEDLINE   94153990
+REFERENCE   2  (bases 1 to 155)
+  AUTHORS   Kjer,K.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-1992) Karl M Kjer, Entomology, University of
+            Minnesota, 219 Hodson Hall, 1980 Folwell Avenue, St. Paul,
+            Minnesota 55108, USA
+FEATURES             Location/Qualifiers
+     source          1..155
+                     /organism="Aedes albopictus"
+                     /strain="N/A"
+                     /isolate="cell culture"
+                     /tissue_type="minced neonate larvae"
+                     /cell_line="C7-10"
+                     /clone="C7-10"
+     rRNA            1..155
+                     /product="5.8S ribosomal RNA"
+BASE COUNT       44 a     41 c     38 g     32 t
+ORIGIN      
+        1 aaccctaggc aggggatcac tcggctcgtg gatcgatgaa gaccgcagct aaatgcgcgt
+       61 cagaatgtga actgcaggac acatgaacac cgacacgttg aacgcatatt gcacatcgta
+      121 cctccagtac gatgtacaca tttttgagtg cctac
+//
+LOCUS       AAAAGC        348 bp    mRNA            INV       28-NOV-1994
+DEFINITION  Anadara trapezia alpha globin mRNA, 3' end.
+ACCESSION   L24375
+NID         g402358
+KEYWORDS    globin.
+SOURCE      Anadara trapezia blood cDNA to mRNA.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 348)
+  AUTHORS   Nassif,N.T., Mackinlay,A.G. and Thompson,E.O.
+  TITLE     PCR amplification of partial mRNA sequences encoding the alpha- and
+            beta-globin chains of the bivalve mollusc Anadara trapezia:
+            correction of the C-terminal amino acid sequence of the alpha-chain
+  JOURNAL   Comp. Biochem. Physiol. B, Comp. Biochem. 105 (2), 283-287 (1993)
+  MEDLINE   93365272
+FEATURES             Location/Qualifiers
+     source          1..348
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            1..63
+                     /note="Bases 1-30 are PCR-primer sequence and have not
+                     been determined independently"
+                     /number=2
+     CDS             join(<31..63,64..177)
+                     /codon_start=1
+                     /product="alpha globin"
+                     /db_xref="PID:g402359"
+                     /translation="INRKISGDAFGSIIEPMKETLKARMGSYYSDDVAGAWAALIGVV
+                     QAAL"
+     exon            64..177
+                     /number=3
+     3'UTR           178..>348
+     polyA_signal    340..345
+BASE COUNT      103 a     54 c     73 g    118 t
+ORIGIN      
+        1 tgtgttgtag aaaaatttgc cgtcaaccat atcaacagga aaatcagcgg tgacgcattc
+       61 gggtcaatca ttgaaccaat gaaggagaca ctgaaggcca ggatgggcag ttattacagt
+      121 gatgatgtcg ctggagcatg ggccgctctg attggtgtag ttcaggctgc tttgtaaact
+      181 atccggataa tggacctgtc tcgtttgaca ttacattgga acaatgtttg atgttagata
+      241 aggaactaat atacaatttt atcaattaac ttcgtcattg atgttatttt tgtttttatc
+      301 tataatatga tatttgttat tagttttcct ctataattca aataaaac
+//
+LOCUS       AAABDA       1759 bp    DNA             INV       05-AUG-1992
+DEFINITION  A.aegypti abd-A gene for abdominal-A protein homologue (partial).
+ACCESSION   X67132
+NID         g5553
+KEYWORDS    abdominal-A gene.
+SOURCE      yellow fever mosquito.
+  ORGANISM  Aedes aegypti
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Insecta; Pterygota; Diptera; Nematocera; Culicoidea;
+            Culicidae; Aedes.
+REFERENCE   1  (bases 1 to 1759)
+  AUTHORS   Eggleston,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUN-1992) P. Eggleston, Wolfson Unit of Molecular
+            Genetics, Liverpool School of Tropical Medicine, Pembroke Place,
+            Liverpool, L3 5QA, UK
+REFERENCE   2  (bases 1018 to 1299)
+  AUTHORS   Eggleston,P.
+  TITLE     Identification of the abdominal-A homologue from Aedes aegypti and
+            structural comparisons among related genes
+  JOURNAL   Nucleic Acids Res. 20 (15), 4095 (1992)
+  MEDLINE   92375703
+FEATURES             Location/Qualifiers
+     source          1..1759
+                     /organism="Aedes aegypti"
+                     /strain="Bangkok"
+                     /dev_stage="4th instar larvae"
+                     /clone="lambda B3"
+     intron          <1..1015
+     exon            1016..1239
+                     /gene="abd-A"
+     CDS             1016..1239
+                     /partial
+                     /gene="abd-A"
+                     /codon_start=3
+                     /product="abdominal-A homologue"
+                     /db_xref="PID:g5554"
+                     /db_xref="SWISS-PROT:P29552"
+                     /translation="PNGCPRRRGRQTYTRFQTLELEKEFHFNHYLTRRRRIEIAHALC
+                     LTERQIKIWFQNRRMKLKKELRAVKEINEQ"
+     gene            1016..1239
+                     /gene="abd-A"
+     misc_feature    1033..1212
+                     /gene="abd-A"
+                     /note="homeodomain"
+     intron          1240..>1759
+BASE COUNT      518 a    430 c    328 g    483 t
+ORIGIN      
+        1 gaattcgtgt tcaactcaag atttcccatg catttgccag caatattaaa catcatccat
+       61 cttcccgaac ggcatccttt atggaataaa ataattcctc acgttcctct caatccgtgt
+      121 gccgattaat gagtttgcgt tcagcaggca tccaactatg ccctctccgg gggagtctct
+      181 acgctacgta tcgctcatgc ttgatgaaaa gacaatagct tcattacgaa tccttaccac
+      241 gaccggcaac agacagagca aagaggcagc ggcagcggta tcttgcagag ccaaggatca
+      301 acatggctct agaatttaat atcgtagccc ataaataatc atccctcgct ccgcccaact
+      361 cctggcctca acccccgagt gaaagcgctc tttctcctgc catagcagtt gcacgatatc
+      421 aaagcgtcga gggaactatc caacacgact gattcccttc ttttcttctc gcgcgcagtg
+      481 gaatcgaata tttacgacta tcatatttta tcatcaatac tccttgtaac atacgacccc
+      541 tcctctgccc atcggtcggt tctaatcgcc gcgccgtcgt ccgtgcctag cctagggaaa
+      601 agggtgtgaa agcggccatc ttaagtcaat taactggtcg ttagaagcat ttcttcccct
+      661 gcgaggctca ccaccaaaaa cgcgaagtat tactcgatgt tacattgctt caaagaaaag
+      721 gcgcactgca tacaaagaaa agagttactc agctgaacga gatcgacatc atcgaccgaa
+      781 acaacacaaa gaactcgact tcttgaattt tattacccct ttccgttctt gaactttctt
+      841 ttcctttgtt tcgaaaactt tcaccacagc ggtagatcct gttgtctttt acttgaaacg
+      901 aattacgtaa ggatactgac atacgcactt tcattcaact ccgttcttca ttacaccttt
+      961 ttccaaaagc gcaaaaaaaa catcaaagca caacactact atctctcatt cgcaggtccc
+     1021 aacggatgcc cgcgtcgacg aggccggcaa acgtacaccc gcttccagac gctcgagctg
+     1081 gagaaagagt tccacttcaa ccactacctg acccggcgac ggaggatcga aattgcgcac
+     1141 gccctgtgtc tgaccgagcg gcagatcaaa atctggttcc aaaatcgccg gatgaagctg
+     1201 aagaaggaac tgcgggcggt gaaggaaatt aacgaacagg tgagttggag gttttaccgg
+     1261 ttgcagcaag gttttggatt acggagtaat tgttggtctg attacacagc gtaacaaaaa
+     1321 tgacattttt gcgtgtctca agaatcaaat tatgtgtctc tagtagattt ggggttgctg
+     1381 aatctgatgc cattctcaga aatgttccag cagtacattt ttagctacag gtcgccaaag
+     1441 ttgtataaaa cactggtttt attaacgttt acatgaaatt taaggtacaa ttcatcatac
+     1501 ttttttggta atctaatcca ccaaacatgc aaaatagaac ttgaactttc atttcagaca
+     1561 taatttgatt gaaattgcgc gattaaattt cgataaaacc gattttttca acatgcttgc
+     1621 agtctccata caaaattctt cgtttcttct atatggcaaa atacaacaat tctctaaacc
+     1681 ataaaaaaat aacttttccg tatcgaaagt aatacaaact ttgatgataa gtattgttat
+     1741 acacataaag tttgaattc
+//
+LOCUS       AAABGLOB     2138 bp    DNA             INV       09-FEB-1995
+DEFINITION  Anadara trapezia beta globin gene, complete cds.
+ACCESSION   L16978
+NID         g303944
+KEYWORDS    .
+SOURCE      Anadara trapezia.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 2138)
+  AUTHORS   Nassif,N.T., Glenn,W.K. and Mackinlay,A.G.
+  TITLE     The organization of the beta-globin gene of the bivalve mollusc
+            Anadara trapezia and its evolutionary relationship to other
+            invertebrate and vertebrate globin genes
+  JOURNAL   J. Mol. Evol. 39 (1), 47-55 (1994)
+  MEDLINE   94343542
+FEATURES             Location/Qualifiers
+     source          1..2138
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     CDS             join(1..125,886..1105,1796..1909)
+                     /codon_start=1
+                     /product="beta globin"
+                     /db_xref="PID:g303945"
+                     /translation="MSTVAELANAVVSNADQKDLLRLSWGVLSVDMEGTGLMLMANLF
+                     KTSSAARTKFARLGDVSAGKDNSKLRGHSITLMYALQNFIDALDNVDRLKCVVEKFAV
+                     NHINRQISADEFGEIVGPLRQTLKARMGSYFDEDTVSAWASLVAVVQAAL"
+     exon            <1..125
+                     /note="bases 1 to 29 are PCR-primer sequence and have not
+                     been determined independently"
+                     /number=1
+     intron          126..885
+     exon            886..1105
+                     /number=2
+     intron          1106..1795
+     exon            1796..1909
+                     /number=3
+     3'UTR           1910..>2045
+     polyA_signal    2040..2045
+BASE COUNT      674 a    320 c    377 g    767 t
+ORIGIN      
+        1 atgagtactg tggccgagtt ggcgaatgct gttgtcagca atgccgatca aaaagatttg
+       61 ctgagactta gctggggagt attatccgtt gatatggaag gtacaggatt gatgcttatg
+      121 gcgaagtaag aacacttaag aatatatgtt ttagcaattt ttatttcaat tcatgaaatg
+      181 acattcttat catgttattt caagggttaa tgcaaaattg cgtgtcaaat gaaatacaat
+      241 gagcagaaat gtcatttcta atatatacaa ttcttttgtt taataaatat tttgtaccct
+      301 tatttgtttt aatcccttcc atacctgctt gtgtgagaaa atgtatctca tatggccaca
+      361 tgacactgtg agggacatta taagtgatac atatcaaagt tctgtccaca tgaattgcaa
+      421 aacaattgct tctgcatcgt ttatcgaata gagatacagt catattgtaa acatagcaaa
+      481 tagttgacgg aaataaatac atgccaccct tcataataac ctatgtagtt taacgttatt
+      541 ttatttattg cgaacatgta atggggatct gtttcgtttt atcttgttaa gttaaaaaat
+      601 aaaagacaaa tcttaacatc aaaattgtct ctgctacctg gacagaaagg atatttgttt
+      661 caaacaaatt tagccaatgt tcccgtgttt catcagaatt atccagttac aagtttttac
+      721 ttatgtttag gaagttagtt agtatgtttt gatttctttc aaaaattatt attattctat
+      781 gagtgattgt acctggtaaa tctaagtgaa acggtaacta tattcaatat ttgtttttaa
+      841 agatgtttct tcaattataa acggctcctt ttgatatatt ttcagtttgt ttaaaacaag
+      901 ttcagcagcc aggacaaaat tcgctcgtct tggagacgta tcagctggta aagataacag
+      961 caagctgaga ggtcattcta tcaccttgat gtacgccctc cagaacttca tcgatgctct
+     1021 cgacaatgta gacagattaa agtgtgttgt agaaaaattt gctgtaaacc acatcaacag
+     1081 acaaatatct gctgacgaat ttggggtaag ctctttcaaa gctctttaaa atattttagt
+     1141 tttcattata aattggtcgt tgataaagaa tgacatctta tggacgtgta tttatcgtta
+     1201 catcttaacc tccaagtagt ttgctgaaag gtttgatgat gttttgtacg gcggtttaat
+     1261 atatgtctgt ttttgcaaag aatttggacg gatgagaaac atatattaca gtatacatcg
+     1321 ttaatttcat aaatgtagtg atttagaata tcaattgtaa gattatgtct tcactttcct
+     1381 cgtgagagcg cacgaagtta atctgatttg taattttcaa gtttttacta tgctttggga
+     1441 ttgtgatttg gaatgtttgt tttttgaata cgtatcatga gttttattac tactttagct
+     1501 aggttctaag atttactccg tttgaagaag atcgggatag aaaattgact tggtcgggaa
+     1561 cacgacttga atatagataa tcacgcagta ttttctgttt taaaaaggcc aaatattcta
+     1621 gtgaagaaac ttaaaaatcg ttttcctctg ttaggattag gaacctttta tgcatattgt
+     1681 cttctgttaa catttctgtc cattcaactg taaatgcaag taaattattt tacagtgggg
+     1741 agaacaatcc ctatcaacca cccaatcaat caatcaatat ttatttacat tacaggaaat
+     1801 agttggcccc ttaaggcaaa cattaaaggc taggatggga agttatttcg atgaagatac
+     1861 tgtttctgca tgggcttcac ttgttgctgt tgtccaggct gcattataaa tttgtacacc
+     1921 acaagtaaca gcaataataa gatgacatta acccagtttt cagtgtgtta ccatggccac
+     1981 agaaagatga aattcaacaa ttcttatttt gtttgtgctt tgtattctcg cagagttcaa
+     2041 ataaactttt agcatttatt gatattttgt ttaagtttat ttctctattt agaaattatc
+     2101 ataaaatggt tatttcaaca ttgtaagcaa aatttaaa
+//
+LOCUS       AAACT         327 bp    RNA             INV       13-MAR-1997
+DEFINITION  A.assectella mRNA for actin (partial).
+ACCESSION   X91505
+NID         g1882996
+KEYWORDS    actin.
+SOURCE      Acrolepiopsis assectella.
+  ORGANISM  Acrolepiopsis assectella
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Hexapoda; Insecta; Pterygota; Lepidoptera;
+            Yponomeutoidea; Plutellidae; Acrolepiopsis.
+REFERENCE   1  (bases 1 to 327)
+  AUTHORS   Hamelin,E., Bigot,Y.Y.B., Rouleux,F., Renault,S. and Periquet,G.
+  TITLE     Fast cloning and sequencing of histone H4 and actin messenger RNA
+            fragments and their uses as control
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 327)
+  AUTHORS   Bigot,Y.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-1995) Y.B. Bigot, IBEAS, Faculte des Sciences,
+            Parc de Gremont, 37200 Tours, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /organism="Acrolepiopsis assectella"
+                     /dev_stage="imago"
+     CDS             <1..>327
+                     /codon_start=3
+                     /product="actin"
+                     /db_xref="PID:e209522"
+                     /db_xref="PID:g1882997"
+                     /translation="ITIGNERFRCPEALFHPSFLGMEACGIHETTYNSIMKYDVDIRK
+                     DLYANTVLSGGTTMYPGLASRLQKETTALANSTMKIKISAPPERKYSVWIGGSILASL
+                     STFQQM"
+BASE COUNT       80 a    104 c     77 g     66 t
+ORIGIN      
+        1 tgatcaccat cggaaacgag agattccgtt gcccagaggc tctgttccat ccctcattct
+       61 tgggaatgga agcttgcggt atccacgaga ccacttacaa ctcgatcatg aagtacgacg
+      121 tcgatatccg taaggacctg tacgccaaca ccgtcctgtc cggaggcacc accatgtacc
+      181 caggactcgc cagccgactg cagaaggaga ctaccgctct ggctaattcc accatgaaga
+      241 tcaagatcag cgctccccca gagaggaagt actccgtctg gatcggaggc tcaatcctcg
+      301 cgtccctgtc caccttccag cagatgt
+//
+LOCUS       AAAGLOBIN    3775 bp    DNA             INV       15-APR-1994
+DEFINITION  Anadara trapezia globin gene, complete cds.
+ACCESSION   L20699
+NID         g472794
+KEYWORDS    globin.
+SOURCE      Anadara trapezia blood DNA.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 3775)
+  AUTHORS   Titchen,D.A., Glenn,W.K., Nassif,N.T., Thompson,A.R. and
+            Thompson,E.O.P.
+  TITLE     A minor globin gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Biochim. Biophys. Acta 1089, 61-67 (1991)
+  MEDLINE   91223099
+REFERENCE   2  (bases 1 to 3775)
+  AUTHORS   Glenn,W.K., Titchen,D.A., Thompson,E.O.P. and Mackinlay,A.G.
+  TITLE     Characterization of a repeated sequence occurring within an intron
+            of a globin gene in the bivalve mollusc Anadara trapezia
+  JOURNAL   Unpublished (1993)
+FEATURES             Location/Qualifiers
+     source          1..3775
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     GC_signal       115..122
+                     /note="This consensus sequence is displaced from its usual
+                     distance from the start point of transcription (cap site)
+                     by approximately 150bp."
+     CAAT_signal     265..>273
+     TATA_signal     354..369
+     prim_transcript 383..3758
+                     /note="putative"
+     5'UTR           383..446
+     exon            <447..571
+                     /number=1
+                     /codon_start=1
+     CDS             join(447..571,1786..2005,3441..3554)
+                     /codon_start=1
+                     /db_xref="PID:g472795"
+                     /translation="MSTFGELANEVVNNSYHKDLLRLSWGVLSDDMEGTGLMLMANLF
+                     NMSPESRLKFGRLGHLSTGRDNSKLRGHSITLMYALKNFVDALDDVDRLKCVVEKFAV
+                     NHINRQISAEEFGKIVGPFRAVLRIRMGDYFDEEIVAAWAALIAVVQAAL"
+     intron          572..1785
+                     /number=1
+     exon            1786..2005
+                     /number=2
+                     /codon_start=1
+     intron          2005..3439
+                     /number=2
+     repeat_region   2160..2263
+                     /note="consists of 3 copies of a 35bp sequence"
+                     /citation=[2]
+                     /rpt_type=direct
+     repeat_region   2762..3384
+                     /note="dimeric repeat of approximately 311bp repeat units"
+                     /rpt_family="Alu-like"
+     exon            3440..>3553
+                     /number=3
+                     /codon_start=1
+     3'UTR           3554..>3731
+     polyA_signal    3730..3735
+     polyA_site      3758
+                     /note="putative"
+BASE COUNT     1178 a    601 c    649 g   1347 t
+ORIGIN      
+        1 ctattaattt tgtcctattt ccaagaaaat aaattaagtt taaatactcc ttttatatgc
+       61 cttattatta tttgcttata tgtagatcgt ccaggcgtga atgttctagt aattcggggc
+      121 ccaaatggtt acctggaatc aaatttacta tgacaaatgt tttttttatt ctatatacag
+      181 atgttagctt gaaacacaac aaagacaaga aatacttttg cgttggatgt ctgaataatg
+      241 aatatatctg aacgattttt ttttcaatca attctttata aatgttatta gcactatgtc
+      301 atgttcaaaa tagcttttat gcaaagtaga tgtaaaatgc ctgtacatgc atgatttaaa
+      361 aaaaaattac gttgaaaata agacttcata tgtagatata cctttataaa gatgatgttg
+      421 aatgtagtgc ccttaaatat ttcagaatga gtacatttgg tgagttagct aacgaagtcg
+      481 taaacaactc ttaccacaaa gacctactga ggctaagctg gggagtatta tctgacgaca
+      541 tggaaggtac tggattgatg cttatggcga agtaagtgtg ataataaaaa aacaaactaa
+      601 ctaatacatg tccgaattct cgtatttctt tatcactgca ttttgttcta tctcgtcgcc
+      661 tataattcaa ataaagttta aatcatataa tcagtctcat tatttttata gtcacatatc
+      721 gccatggaaa cgaggcctgg tgtttcagga gggtaagcaa ctccttttag gtaacgaatt
+      781 ttgcaatgac attgtatttt aatgacataa ataagatgtt caatgacgtt gataatacta
+      841 tgagttatta ttgacgtgca aaacaaacgt ataaagtgtg ttaattcaaa tatgcataaa
+      901 atgttgcatt ggttatttta ttctaaacat tgaattacgg ttttatctcg gaatgccaaa
+      961 ctttacagag tttgggtttt tatttgtatt tgtgtttact gcatttgata aaagatgttt
+     1021 ttctgtactt catttttaaa agattatttt atttcattct ttaattatcg catctagtat
+     1081 aataaatgtt atccaaaata ctcattttta tgtttgaagt ttatttaatc ggatcagttt
+     1141 tttctctttg tctgccattg ctgccattca ggctgacatc tattttagat atgcatgtat
+     1201 ttgcagtctt tttaatatga gcctagaatc caattaaaat ttggtcgtca ggaacatttt
+     1261 ttcttttttg tgtgtcattg ctgatattca aacttacaac tttttaatta tattaccgtc
+     1321 agtttgatac aagcccagtc gagtaatagt gtttaacgtc acagtcaaga gtatttcact
+     1381 tatatcgaga cgtcgccagc tatagccaaa gatgaggaaa ttttgcctgt gcgttgagct
+     1441 gatagcatta tacaacaggg ttctttagcg tgccaaaccc acaatgacac agaacctcgt
+     1501 ttattttaag tgcccatccg taagaacctt cactttaatt tcgtaatgcc gagtgcttgg
+     1561 cgaaagaaca gccactaccc actattaaat cttgggtcag acggcggcaa gggatcgaac
+     1621 acacgacctc ccacttacgg agcgaggcat tctaccaact gagcttcagc agtggttgat
+     1681 ataagactag tatccagatt aaaatttggt cgtattgaac atttttctct tggtccatca
+     1741 taactgttat tcaaactaac atcgcaattc tttatatatt cgtagtctgt ttaatatgag
+     1801 tccagagtcc aggttgaagt tcggtcgtct gggacattta tcaactggaa gagataatag
+     1861 taaattaagg ggacattcca ttaccttgat gtacgccctc aagaacttcg ttgatgctct
+     1921 ggatgacgta gacagactaa agtgtgttgt agaaaaattt gccgtcaacc atatcaacag
+     1981 acaaatctct gctgaagaat ttggggtaag tgatattgca actacattaa aatataataa
+     2041 aaactacttt aattatatcc tcttttattt caatttcaca cgtgtcaagc gtagttagct
+     2101 aggcttaatt gcctactctt cttaagcacc gacgtctttt gccgttttgt agattgtgaa
+     2161 ttgaatattg acctgtatgg tagtgtttaa tttcattgaa tattgacctg tatggtagtg
+     2221 tttaatttca ttgaatattg acctgtatgg tagtgtttaa tttcattgaa tatcaaaata
+     2281 acaaacgatg gctggtttag ggcatgaaca gaagtgattt agctcgttta atgacgtagt
+     2341 ttatcgttaa aatgagacac ttttcgttat tattagaaac tatcttctta taacgaccta
+     2401 gtattacgaa attaattctt gttgtaacga gatagtttct tgttataatg aaaaagggtc
+     2461 tagtttttac ggcgtatgat ttcgttataa cgatataaat aaaaacattc aagtccttta
+     2521 ccagccacca aacaaaccat atttattggg ttttttttta ctttctgatg aatgacttcc
+     2581 ataaaaactc tgtttatatt aattactcta ccgagttcta agcacaaata gtttatacat
+     2641 gtatattcga aggaagtaca aacttatatt ccattttatt agctcaactg gctatagcca
+     2701 gcttagctta tggcatagtg aagcgtgcgt tcgtgcatct gtctgtgcgt tatctttgat
+     2761 cttcttctca gaaaccactg agccaattga aatcaaattt ggcgtgaaaa gtccttaggt
+     2821 ggagtagatc aaagttcgtg tatggcaacc ttgtatgaaa tccaaaatga ctgccgtaac
+     2881 tataaatagc aatatcacta aaatggacat tatgcattaa attcgtcacc cattctcttc
+     2941 atttttaaaa cagagaaagt atatagctag ctatttttga tatgtaacgg gtttttccga
+     3001 caattttttc attgactaat ttttgctcat ttatgcacat gaggtctgat ttttgaccaa
+     3061 atctttaaaa atttcttctc agaaaccaca atgccaactg caatcaaatt tggtgtggaa
+     3121 ggtccctagg tggagaaaat caaacaagct tgtgcaaggt tatcatgtat gaaatcaaag
+     3181 atgaccgctg ttactataaa tagcaaaatc actaaaatgg cccttgtgta tttatttttt
+     3241 caccgatttt ctccatattt gaaacttata aagtaaaaat cctagccatt taatatatgc
+     3301 gagttttccg agaaattttt ctttgacctt attttagcaa atgagttcaa attatgccag
+     3361 ttgagcatta caggcctttt gtttatattt tagctggatt cagtgagcgt atagtaaatt
+     3421 caagaatctt tatattttag aaaatagttg gaccatttag agcggtacta aggattagaa
+     3481 tgggagacta tttcgatgaa gaaattgttg ccgcatgggc tgcactcatt gctgttgttc
+     3541 aagctgcatt atgacttgct agattatata agtaaaaatt gaagtatgac tgaactagca
+     3601 ctcagtgttt tatgcattaa acattttggt ataataaatg atatcctgat gtttaatatt
+     3661 gatagtagtt cattatgtaa tgatctgtta aaacttcttg attaacttgt ctatattctt
+     3721 gcaaaatcaa aataaaacca gtttgtaatt agctatgcag tgttgtttgt ttcaa
+//
+LOCUS       AAAHBAA       551 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 3.10S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25091 L25092
+NID         g410093
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 551)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..551
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..551
+                     /gene="HBA"
+     intron          32..440
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     size is variable due to these repeats."
+                     /number=2
+     repeat_region   77..145
+                     /note="hypervariable microsatellite polymorphic [d(C)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   417..429
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            441..551
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      164 a    105 c     85 g    197 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gtaactcatt tactgtctac
+       61 gccattaaaa catagtcccc ccccctctct ctctctctct ctctctctct ctctctctct
+      121 ctgtcgctct gtctttctct ctctcgttta aagtatgacc gtgaaattaa tatttagaat
+      181 agtttaatga catgctctga tgttcttaaa gtgcaaatat tttcaaaata aaaatctaat
+      241 atttacacat tttgttaaaa ttgaatccaa tagaaagcca agattaacta aaacaactct
+      301 tagcattctg cacaattata attaattttc gtttgatttt aaattcatta taaacctttg
+      361 ttgctgtaaa atacctatat atcagttaca ataaaataag aattaattag atttggtttt
+      421 ttttttttta aatattttag tcaatcattg aaccaatgaa ggagaccctg aaggccagga
+      481 tgggcagtta ttacagtgat gatgtcgctg gagcatgggc cgctctgatt ggtgtagttc
+      541 aggctgcttt g
+//
+LOCUS       AAAHBAB       568 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 4.15S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25093
+NID         g410094
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 568)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..468
+                     /gene="HBA"
+     intron          32..457
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     length is variable due to these repeats."
+                     /number=2
+     repeat_region   77..157
+                     /note="hypervariable microsatellite polymorphic [d(C)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   435..446
+                     /note="hypervariable microsatellite polymorphic d(T)n
+                     repeat"
+                     /rpt_type=tandem
+     exon            458..468
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      166 a    116 c     84 g    202 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gtaactcatt tactgtctac
+       61 gccattaaaa catagtcccc ccccctctct ctctctctct ctctctctct ctctctctct
+      121 ctctctctct ctgtcgctct gtctttctct ctctctcatt taaagtatga cccgtgaaat
+      181 taatatttag aatagtttaa tgacatgctc tgatgttctt aaagtgcaaa tattttcaaa
+      241 ataaaaatct aatatttaca cattttgtta aaattgaatc caatagaaag ccaaaattaa
+      301 ctaaaacaac tcttagccat tcctgcgcac aattataatt aatttcgttt gattttaaat
+      361 tcattataaa cctttgttgc ctgtaaaata cctatatatc agttacaata aaataagaat
+      421 taattagatt ttggtttttt ttttttaaat attttagtca atcattgaac caatgaagga
+      481 gaccctgaag gccaggatgg gcagttatta cagtgatgat gtcgctggag catgggccgc
+      541 tctgattggt gtagttcagg ctgctttg
+//
+LOCUS       AAAHBAC       553 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 6.22S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25094
+NID         g410095
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 553)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..553
+                     /gene="HBA"
+     intron          32..442
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     size varies due to these repeats."
+                     /number=2
+     repeat_region   78..138
+                     /note="hypervariable microsatellite polymorphic [d(C)n]
+                     and [d(T)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   411..432
+                     /note="hypervariable microsatellite polymorphic d(T)n
+                     repeat"
+                     /rpt_type=tandem
+     exon            443..553
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      165 a    101 c     84 g    203 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg acgcattcgg ggtaagctaa gtaactcatt tactgttcta
+       61 cgccattaaa acatagaccc cccccccctc tctctctctc tctctctctc tctctctttc
+      121 tctctctctc tctctgtcat tgatagtatg atctgcgata ttgatatttg gaatatttta
+      181 atgacttgat ctgatgttat agcaataaag tgcaaatatt ttcgaaataa taaacaaata
+      241 tttacacatt ttgttaaaat tgaatccaaa aaaagccaaa ttaactaaaa ctactcttag
+      301 cattcctcga gcacaattat taataatttt gctttgattt taaattcatt ataaagcttt
+      361 gttgctgtaa aatacttata tatcagttac aataaaattg gaattaattg tttttttttt
+      421 tttttttttt ttaatatttt agtcaatcat tgaaccaatg aaggaaacac tgaaggccag
+      481 gatgggcagt tattacagtg atgatgtcgc tggagcatgg gccgctctga ttggtgtagt
+      541 tcaggctgct ttg
+//
+LOCUS       AAAHBAD       551 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 3.11S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            repeat regions.
+ACCESSION   L25095
+NID         g410096
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 551)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..551
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..31
+                     /gene="HBA"
+     intron          32..440
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats. Intron
+                     size is variable due to these repeats."
+                     /number=2
+     repeat_region   76..143
+                     /note="hypervariable microsatellite polymorphic [(CT)n]
+                     and [(CTGT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   419..429
+                     /note="This region constitutes the second of the two
+                     hypervariable microsatellite repeat sequences. It conatins
+                     a polymorphic d(T)n tract."
+                     /rpt_type=tandem
+     exon            441..551
+                     /number=3
+BASE COUNT      159 a     92 c     97 g    203 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gttactcatt tattgtctac
+       61 gccatttaaa catagcccct ctctttgtcg ctctctgtct gtctgtctgt ctgtctgtct
+      121 gtctgtctgt ctctctctct ctcattgata gtatgatctg caatattgat atttggaata
+      181 ttttaatgac tgatctgatg ttatagcaat aaagtgcaaa tatttcgaaa taataaacat
+      241 atatttacac attttgttaa aattgaatcc aatagaaagc caaattaact aaaactgctc
+      301 ttagcattct gcacaattta taattaattt tcgtttgatt ttaaattcat tataaacctt
+      361 tgttgctgta aaatacctat atatcagtta caataaaata agaattaatt agatttggtt
+      421 ttttttttta aatgttttag tcaatcattg aaccaatgaa ggagaccctg aaggccagga
+      481 tgggcagtta ttacagtggt gatgtcgctg gagcatgggc cgctctgatt ggtgtagttc
+      541 aggctgcttt g
+//
+LOCUS       AAAHBAE       380 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 4.17S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25096
+NID         g410097
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 380)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..380
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..380
+                     /gene="HBA"
+     intron          32..269
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     size is variable due to these repeats."
+                     /number=2
+     repeat_region   78..99
+                     /note="truncated hypervariable microsatellite polymorphic
+                     repeat"
+                     /rpt_type=tandem
+     repeat_region   248..257
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            270..380
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      119 a     71 c     66 g    124 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gtaactcatt tactgtctac
+       61 gcccattaaa acatagtccc cctctctctc tctctctcca atagaaagcc aaaattaact
+      121 aaaacaactc ttagcattct gcacaattat aattaatttt cgtttgattt taaattcatt
+      181 ataaaccttt gttgctgtaa aataccaata tatcagttac aataaaataa gaattaatta
+      241 gatttggttt tttttttaaa atattttagt caatcattga accaatgaag gagaccctga
+      301 aggccaggat gggcagttat tacagtgatg atgtcgctgg agcatgggcc gctctgattg
+      361 gtgtagttca ggctgctttg 
+//
+LOCUS       AAAHBAF       615 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 3.22L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25097
+NID         g410098
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..615
+                     /gene="HBA"
+     intron          32..504
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   76..201
+                     /note="hypervariable microsatellite polymorphic [(CT)n]
+                     and [(CA)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   471..494
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            505..615
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      185 a    126 c     86 g    218 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gttactcatt tattgtctac
+       61 gccatttaaa catagcccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacaca cacacctttt ctctctctct ctctctctct ctctctctct
+      181 ctctctctct ctctctctct cattgatagt atgatctggc gatattgata tttggaatat
+      241 tttaatgact tgatctgaag ttatagcaat aaagtgcaaa tattttcgaa ataataaaca
+      301 aatatttaca cattttgtta aaattgaatc caaaaaaaaa gccaaattaa ctaaaactac
+      361 tcttagcatt ctgcacaatt ataaataatt ttcgtttgat cttaattcat tataaagctt
+      421 tgttgctgta aaatacttat atatcagtta caataaattg gaattaattg tttttttttt
+      481 tttttttttt ttttaatatt ttagtcaatc attgaaccaa tgaaggaaac actgaaggcc
+      541 aggatgggca gttattacag tgatgatgtc gctggagcat gggccgctct gattggtgta
+      601 gttcaggctg ctttg
+//
+LOCUS       AAAHBAG       604 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 3.15L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25098
+NID         g410099
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 604)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..604
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..604
+                     /gene="HBA"
+     intron          32..493
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     length varies due to these repeats."
+                     /number=2
+     repeat_region   77..197
+                     /note="hypervariable microsatellite polymorphic [(CA)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   462..483
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            494..604
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      193 a    124 c     86 g    201 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacaca cacacacaca cacacacact ctctctctct ctctctctct
+      181 ctctctctct ctctctcatt gatagtatga tctgcgatat tgatatttgg aatattttaa
+      241 tgactgactt gattgtatag caagaaagtg caaatatttt cgaaataata aacaaatatt
+      301 tacacatttt gttaaaattg aatccaaaaa aaaagccaaa ttaactaaaa cttactctta
+      361 cgatctcgta cattataata atttcgttga tttaaattca ttataaagct ttgttgctgt
+      421 aaatacttat atatcagtta caataaaatt ggaattaatt gttttttttt tttttttttt
+      481 tttaatattt tagtcaatca ttgaaccaat gaaggaaaca ctgaaggcca ggatgggcag
+      541 ttattacagt gatgatgtcg ctggagcatg ggccgctctg attggtgtag ttcaggctgc
+      601 tttg
+//
+LOCUS       AAAHBAH       553 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 4.18S) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25099
+NID         g410100
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 553)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..553
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..553
+                     /gene="HBA"
+     intron          32..442
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di-, and tetranucleotide repeats. Intron
+                     length varies due to these repeats."
+                     /number=2
+     repeat_region   76..139
+                     /note="hypervariable microsatellite polymorphic [(CT)n]
+                     and [(CTGT)n repeat"
+                     /rpt_type=tandem
+     repeat_region   420..431
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            443..553
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      158 a     97 c     93 g    205 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gttactcatt tattgtctac
+       61 gccatttaaa catagcccct ctctttgtcg ctctctgtct gtctgtctgt ctgtctctct
+      121 ctctctctct ctctctctca ttgatagtat gatctgcaat attgatattt ggaatatttt
+      181 aatgacttga tctgatgtta tagcaataaa gtgcaaatat tttcgaaata ataaacatat
+      241 atttacacat ttgttaaaat tgaatccaat agaaagccaa attaactaaa actgctctta
+      301 gccattcctg gcacaattta taattaattt tcgtttgatt ttaaattcat tataaacctt
+      361 tgttgctgta aaatacctat atatcagtta caattaaatt ggaattaatt cgattttggt
+      421 tttttttttt taaatatttt agtcaatcat tgaaccaatg aaggagaccc tgaaggccag
+      481 gatgggcagt tattacagtg atgatgtcgc aggagcatgg gccgctctga ttggtgtagt
+      541 tcaggctgct ttg
+//
+LOCUS       AAAHBAI       598 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 5.14L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25100
+NID         g410101
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 598)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..598
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..598
+                     /gene="HBA"
+     intron          32..487
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   77..188
+                     /note="hypervariable microsatellite polymorphic [(CA)n]
+                     and [)CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   458..478
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            488..598
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      185 a    117 c     85 g    211 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacact tttctctctc tctctctctc tctctctctc tctctctctc
+      181 tctctctcat tgatagtatg atctgcgata ttgatatttg gaatatttta atgacttgat
+      241 ctgatgttat agcaataaag tgcaaatatt ttcgaaataa taaacaaata tttacacatt
+      301 ttgttaaaat tgaatccaaa aaaaagccaa attaactaaa actactctta gcattctgca
+      361 caattataaa taatttttgt ttgattttaa attcattata aagctttgtt gctgtaaaat
+      421 acttatatat cagttacaat aaaattggaa ttaattgttt tttttttttt ttttttttaa
+      481 tatttagtca atcattgaac caatgaagga aacactgaag gccaggatgg gcagttatta
+      541 cagtgatgat gtcgctggag catgggccgc tctgattggt gtagttcagg ctgctttg
+//
+LOCUS       AAAHBAJ       609 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 6.10L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25101
+NID         g410102
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Anadara trapezia"
+                     /cell_type="Erythrocyte"
+                     /tissue_type="Blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..609
+                     /gene="HBA"
+     intron          32..498
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   77..190
+                     /note="hypervariable microsatellite polymorphic [(CA)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   458..488
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            499..609
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      181 a    118 c     89 g    221 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg acgcattcgg ggtaagctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctctgtcg ctctctgtct ctctctcaca cacacacaca
+      121 cacacacaca cacacacaca cacactctct ctctctctct ctctcttctc tctctctctc
+      181 tctctctttc attgatagta tgatctgcga tattgatatt tggaatattt taatgacttg
+      241 atctgatgtt atagcaataa agtgcaatat tttcgaaata ataaacaaat atttagagat
+      301 tttgttaaaa ttgaatccaa aaaaagccaa attaactaaa actactctta cgatttccga
+      361 caattattaa taatttcgtt tgattttaat tcattataaa gctttgttgc tgtaaaatac
+      421 ttatatatca gttacaataa aattggaaaa taattggttt tttttttttt tttttttttt
+      481 ttttttttaa tattttagtc aatcattgaa ccaatgaagg agacactgaa ggccaggatg
+      541 ggcagttatt acagtgatga tgtcgctgga gcatgggccg ctctgattgg tgtagttcag
+      601 gctgctttg
+//
+LOCUS       AAAHBAK       595 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 6.12L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25102
+NID         g410103
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 595)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..595
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..595
+                     /gene="HBA"
+     intron          32..484
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   77..188
+                     /note="hypervariable microsatellite polymorphic [(CT)n]
+                     and [(CA)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   459..482
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            485..595
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      178 a    118 c     89 g    210 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacaca cttttctctc tctctctctc tctctctctc tctctctctc
+      181 tctctctcat tgatgagtat gatctgcgat attgatattt ggaatatttt aatgacttga
+      241 tctgatgtta tagcaataaa gtgcaaatat tttcgaaata ataaacaaat atttacacat
+      301 tttgttaaaa ttgaatccaa aaaaagccaa attaactaaa actactctta gcattctgca
+      361 caattattaa tgattttcgt ttgattttta attcattata aagctttgtt gctgtaaaat
+      421 acttatatat cagttacaat aaaattggaa ttaattggtt tttttttttt tttttttttt
+      481 ttagtcaatc attgaaccaa tgaaggagac actgaaggcc aggatgggca gttattacag
+      541 tgatgatgtc gctggagcat gggccgctct gattggtgta gttcaggctg ctttg
+//
+LOCUS       AAAHBAL       603 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 6.9L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25103
+NID         g410104
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..603
+                     /gene="HBA"
+     intron          32..492
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   77..188
+                     /note="hypervariable microsatellite polymorphic [(CA)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   459..482
+                     /note="hypervariable microsatellite polymorphic [d(T)n]
+                     repeat"
+                     /rpt_type=tandem
+     exon            493..603
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      183 a    121 c     89 g    210 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaggctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacaca cttttctctc tctctctctc tctctctctc tctctctctc
+      181 tctctctctc attgatagta tgatctgcga tattgatatt tggaatattt taatgacttg
+      241 atctgatgtt atagcaataa agtgcaaata ttttcgaaat aataaacaaa tatttacaca
+      301 ttttgttaaa attgaatcca aaaaaaagcc aaattaacta aaactactct tagcattctg
+      361 cacaattata aataattttc gtttgatttt taattactta taaagctttg ttgctgtaaa
+      421 atactatata tcagttacaa taaaattgga attaattcga tttgtttttt tgtttttttt
+      481 ttaatatttt agtcaatcat tgaaccaatg aaggagaccc tgaaggccag gatgggcagt
+      541 tattacagtg atgatgtcgc tggagcatgg gccgctctga ttggtgtagt tcaggctgct
+      601 ttg
+//
+LOCUS       AAAHBAM       593 bp    DNA             INV       27-JAN-1997
+DEFINITION  Anadara trapezia (alpha 4.20L) hemoglobin alpha-chain (HBA) gene,
+            exons 2 and 3, intron 2, including hypervariable microsatellite
+            polymorphic repeat regions.
+ACCESSION   L25104
+NID         g410105
+KEYWORDS    hemoglobin alpha-chain; microsatellite repeat.
+SOURCE      ark clam.
+  ORGANISM  Anadara trapezia
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Mollusca; Bivalvia;
+            Pteriomorphia; Arcoida; Arcidae; Anadara.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Nassif,N.T. and Mackinlay,A.G.
+  TITLE     Detection and characterization of two novel hypervariable
+            microsatellite repeat regions within intron 2 of the alpha-globin
+            gene of the bivalve mollusc Anadara trapezia
+  JOURNAL   Gene 183 (1-2), 225-230 (1996)
+  MEDLINE   97149303
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /organism="Anadara trapezia"
+                     /cell_type="erythrocyte"
+                     /tissue_type="blood"
+     exon            <1..31
+                     /gene="HBA"
+                     /number=2
+     gene            1..593
+                     /gene="HBA"
+     intron          32..482
+                     /gene="HBA"
+                     /note="This intron contains two hypervariable
+                     microsatellite repeat regions which consist of variable
+                     numbers of mono-, di- and tetranucleotide repeats."
+                     /number=2
+     repeat_region   77..170
+                     /note="hypervariable microsatellite polymorphic [(CA)n]
+                     and [(CT)n] repeat"
+                     /rpt_type=tandem
+     repeat_region   449..472
+                     /note="hypervariable microsatellite polymorphic d(T)n
+                     repeat"
+                     /rpt_type=tandem
+     exon            483..593
+                     /gene="HBA"
+                     /number=3
+BASE COUNT      190 a    109 c     87 g    207 t
+ORIGIN      
+        1 caacaggaaa atcagcggtg accgattcgg ggtaagctta gaaactcatt tactgtctac
+       61 gccattaaaa catagtccct ctctttgtcg ctctctgtca cacacacaca cacacacaca
+      121 cacacacaca cacacacaca cttttctctc tctctctctc tctctctctc attgatagta
+      181 tgatctgcga tattgatatt gatatttgga atattttaat gacttgatct gatgttatag
+      241 caataaagtg caaatatttt cgaaataata aacaaatatt tacacatttt gttaaaattg
+      301 aatccaaaaa aaaagccaaa ttaactaaaa ctactcttag cattctgcac aattataaat
+      361 aattttgcgt ttgaatttta aattcattat aaagctttgt tgctgtaaaa tacttatata
+      421 tcagttacaa taaaattgga attaattgtt tttttttttt tttttttttt ttaatatttt
+      481 agtcaatcat tgaaccaatg aaggaaacac tgaaggccag gatgggcagt tattacagtg
+      541 atgatgtcgc tggagcatgg gccgctctga ttggtgtagt tcaggctgct ttg
+//
+LOCUS       AAALTOX      1562 bp    DNA             INV       30-SEP-1996
+DEFINITION  A.australis gene for alpha toxin AaH I'.
+ACCESSION   X76135
+NID         g852071
+KEYWORDS    alpha-toxin; neurotoxin; sodium channel.
+SOURCE      Sahara scorpion.
+  ORGANISM  Androctonus australis
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Chelicerata; Arachnida; Scorpiones; Buthidae; Androctonus.
+REFERENCE   1  (bases 1 to 1562)
+  AUTHORS   Bougis,P.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-1993) P.E. Bougis, CNRS URA 1455, Lab. de
+            Biochimie, Faculte de Medecine N., Bd. Pierre Dramard, F-13916
+            Marseille cedex 20, FRANCE
+  REMARK    revised by author 30-MAY-95
+REFERENCE   2  (bases 1 to 1562)
+  AUTHORS   Delabre,M.L., Pasero,P., Marilley,M. and Bougis,P.E.
+  TITLE     Promoter structure and intron-exon organization of a scorpion
+            alpha-toxin gene
+  JOURNAL   Biochemistry 34 (20), 6729-6736 (1995)
+  MEDLINE   95275870
+FEATURES             Location/Qualifiers
+     source          1..1562
+                     /organism="Androctonus australis"
+                     /clone_lib="lambda FIX"
+                     /clone="AR802"
+     CAAT_signal     513..517
+     TATA_signal     624..627
+     mRNA            join(653..748,1174..1445)
+     exon            653..748
+                     /number=1
+     CDS             join(703..748,1174..1379)
+                     /codon_start=1
+                     /product="alpha toxin AaH I' precursor"
+                     /db_xref="PID:g852072"
+                     /db_xref="SWISS-PROT:P01479"
+                     /translation="MNYLVMISLALLLMIGVESKRDGYIVYPNNCVYHCIPPCDGLCK
+                     KNGGSSGSCSFLVPSGLACWCKDLPDNVPIKDTSRKCTR"
+     sig_peptide     join(703..748,1174..1175,748,1174..1184)
+     intron          749..1173
+                     /number=1
+     exon            1174..1445
+                     /number=2
+     mat_peptide     1185..1376
+                     /product="AaH I' toxin"
+BASE COUNT      519 a    219 c    242 g    582 t
+ORIGIN      
+        1 cgtaattacg atggtgaagt attacttatc tcaagcgaaa gttacgtata ctctattcat
+       61 ttattaaatg gtatttattt taacaatgaa aaaaattatg tattaggaaa tgtgcattct
+      121 attgtcaaac gtcttgtatt ctactcattc taacattact aatatatgtt tattccaaga
+      181 tgatatgata atattaaata tttaaattta ccccccaaaa atatatattc aaaattattt
+      241 gtttgttgca atttaaaatc aaattttctt tttatttcag actttattta aatgttagat
+      301 gatttgttaa caaccatccg cataacaaat actgaagaaa tcaatcagtc gaacatattt
+      361 ctcataccga tttaatttta ataaatttac attagcatca aatttcttta ttcatattgc
+      421 agttatcaat tatttcagtc gatgacatga tatccatatt tcagtaagag tcggtagtaa
+      481 aatgacttct gccatctgca tcctgtatcc agattggtcg attgtttatt attacctgat
+      541 cggcggttga taacattcgc ctattggtag gttatacgaa ttaataaaat aattgcttat
+      601 gtgggcgttt actttctgtt ctatataaag aacgatttcg ttgtcagaaa ccaacaattc
+      661 attttgcctg tttttccaga aaattccgta aaacgcttca aaatgaatta tttggtaatg
+      721 attagtttgg cacttctcct catgataggt aagatttata tactcttaga ataagtattt
+      781 tgaatgttgt ttatgagcta gtgaattgta gaaatattcc attactgtaa actgttaagg
+      841 aatggtaatt tcgatgtttg tcgactaaag acatctaaag aaatttttat aaatctaatt
+      901 ttataaagaa gcatagccat attgatgtac taaaaatttt ttcttaagtc attcgggaat
+      961 taagagagtc gagattattt tttaaaatat tttaaaacaa tctaaatcga aagagatggc
+     1021 aatttcatat tagcaattaa tctttgcaga taaatcgaat gtatgttttg agggagataa
+     1081 aattgcttcc gataccgtaa tggaaatatt aattttttaa tgttttctgt atttgagaat
+     1141 ttttatttag tgagttattt tttctgacta caggtgtgga gagtaaacgt gatggttata
+     1201 ttgtctatcc caataactgt gtataccatt gtattccacc atgcgacggt ttatgtaaga
+     1261 aaaacggtgg ttcaagtggc tcttgctctt ttttagttcc atccggactt gcctgctggt
+     1321 gcaaagactt gcccgataac gtaccgatta aagatacatc acggaaatgt acccgctgat
+     1381 aaacctgtag agtaaaatca gaaagaatgt agcctaaaaa taactggtaa ataaacataa
+     1441 gtaataaaat tgcattgtca ttgattttat ttagtttagt ttcatatgtt agaaacgaag
+     1501 tcgtcataat tttcactctc ctctttcggt tagagtcaaa ctgaatcttt tatcgaaaag
+     1561 aa
+//
+LOCUS       AAAMY         641 bp    DNA             INV       08-SEP-1993
+DEFINITION  Aedes aegypti alpha-amylase (amy) gene, partial cds.
+ACCESSION   U01208
+NID         g397982
+KEYWORDS    .
+SOURCE      yellow fever mosquito.
+  ORGANISM  Aedes aegypti
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Insecta; Pterygota; Diptera; Nematocera; Culicoidea;
+            Culicidae; Aedes.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Foster,P.G. and Hickey,D.A.
+  TITLE     Molecular evolution of mosquito alpha-amylase genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Hickey,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-1993) Hickey D.A., University of Ottawa, Biology,
+            30 Marie Curie, Ottawa, Ontario, Canada, K1N 6N5
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /organism="Aedes aegypti"
+     gene            1..641
+                     /gene="amy"
+     CDS             1..641
+                     /partial
+                     /gene="amy"
+                     /codon_start=3
+                     /product="alpha-amylase"
+                     /db_xref="PID:g397983"
+                     /translation="SESEFASMVRRCNDVGVRIYVDIVINHMAAVSGQGTGGSTVNGL
+                     NFPAVPYGPNDFNPPCEIYDYNNRYQVRNCWLVGLPDLALGNEWPRWRVIDLMNKCIN
+                     YGVAGFRVDAVKHMWPGDLEFIYGNLVTLNTDHGFPAGARAFLTQEVIDLGNEAISST
+                     EYTHLGTVTEFKHSAEIGRVFYGRDRLAHLSNWGEGWGFLPSHLALVFVDNHE"
+BASE COUNT      150 a    163 c    177 g    151 t
+ORIGIN      
+        1 ccagtgagag cgaattcgca agcatggtac ggcgctgtaa tgacgttgga gtgcgaatct
+       61 acgtggacat cgttatcaac catatggccg ccgtttccgg acaaggtact ggaggatcga
+      121 ctgttaatgg attgaacttc cctgcagtcc cctacggacc gaacgacttc aatcctcctt
+      181 gtgaaatcta cgactacaac aaccgctatc aggtgcgtaa ctgctggctg gtcggccttc
+      241 cagatttggc cctaggaaac gaatggcctc gttggcgagt catcgatttg atgaacaagt
+      301 gtatcaacta tggcgttgcc ggattccgtg ttgatgctgt aaagcacatg tggcctggag
+      361 atttggaatt catctacggc aacctggtta ctctgaacac cgaccatgga ttcccggcgg
+      421 gagcgagggc tttccttacg caggaggtca ttgatttggg caacgaagcg atctccagca
+      481 cggaatacac tcacctggga acggttaccg agttcaagca ttctgccgaa atcggacgag
+      541 tgttctacgg tcgcgataga ctagcccacc tgtcgaactg gggcgaagga tggggattcc
+      601 ttccgtcgca cttggcactg gtgttcgtcg acaaccacga a
+//
+LOCUS       AAASTACIN    2616 bp    DNA             INV       04-MAR-1997
+DEFINITION  A.astacus astacin gene.
+ACCESSION   X95684
+NID         g1200202
+KEYWORDS    astacin.
+SOURCE      broad-fingered crayfish.
+  ORGANISM  Astacus astacus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Crustacea; Malacostraca; Eucarida; Decapoda; Pleocyemata;
+            Astacidea; Astacoidea; Astacidae; Astacus.
+REFERENCE   1  (bases 1 to 2616)
+  AUTHORS   Geier,G., Jacob,E., Stocker,W. and Zwilling,R.
+  TITLE     Genomic organization of the zinc-endopeptidase astacin
+  JOURNAL   Arch. Biochem. Biophys. 337 (2), 300-307 (1997)
+  MEDLINE   97169019
+REFERENCE   2  (bases 1 to 2616)
+  AUTHORS   Geier,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-FEB-1996) G. Geier, Universitat Heidelberg,
+            Zoologisches Institut/Zoologie II, Im neuenheimer Feld 230, 69120
+            Heidelberg, FRG
+FEATURES             Location/Qualifiers
+     source          1..2616
+                     /organism="Astacus astacus"
+                     /dev_stage="adult"
+                     /tissue_type="muscle"
+     TATA_signal     217..223
+     exon            246..347
+                     /number=1
+     CDS             join(336..347,616..937,1832..2011,2118..2270,2329..2417)
+                     /codon_start=1
+                     /product="astacin"
+                     /db_xref="PID:e223404"
+                     /db_xref="PID:g1200203"
+                     /db_xref="SWISS-PROT:P07584"
+                     /translation="MQCAVLLVLLGVVAASPIIPEAARALYYNDGMFEGDIKLRAGRQ
+                     PARVGAAILGDEYLWSGGVIPYTFAGVSGADQSAILSGMQELEEKTCIRFVPRTTESD
+                     YVEIFTSGSGCWSYVGRISGAQQVSLQANGCVYHGTIIHELMHAIGFYHEHTRMDRDN
+                     YVTINYQNVDPSMTSNFDIDTYSRYVGEDYQYYSIMHYGKYSFSIQWGVLETIVPLQN
+                     GIDLTDPYDKAHMLQTDANQINNLYTNECSLRH"
+     intron          348..615
+                     /number=1
+     exon            616..937
+                     /number=2
+     intron          938..1831
+                     /number=2
+     exon            1832..2011
+                     /number=3
+     intron          2012..2117
+                     /number=3
+     exon            2118..2270
+                     /number=4
+     intron          2271..2328
+                     /number=4
+     exon            2329..2516
+                     /number=5
+     polyA_signal    2500..2504
+BASE COUNT      821 a    522 c    641 g    632 t
+ORIGIN      
+        1 gatatccgat gacagatgac agactgacct agacagtaga tgaagagggg tttatatgac
+       61 atttatttaa agcgcacacg cagcaacggc aattaattcg gaataatctg ggtaaacgtg
+      121 tcaagtaacg tcggcccttt gaatgaatgc gtaagtccgg ggtaaaacgt gtacaggtaa
+      181 acccggttaa cgtttgtttc gggccaacca gttctctata aatgatgtgg cgcgctgttg
+      241 ctgtcactca aggcctatac cgagcctaca acagaacacg cgtaccaaga cttcttttcc
+      301 cggtgtcctc gacacaataa aagcgtacct accacatgca gtgcgcggta agcctgaggg
+      361 ccatttgcat tgcaatggaa tctggtaaat gcctgaaggc tttgatagct gcggatgaag
+      421 tcgtcacagt ttccgaatga acctgaagtc cgaactggga tcgaaggact ggattgaccc
+      481 tttcgataac gatgaccgta agctaccgta ccagttgagg ccacctggag tcgatcggct
+      541 gggtaaatat taggattccc gtaatttaag caaggtgcat gattctaacg atggtataaa
+      601 tagtttctat ttcaggtatt gctggtattg ttgggggtgg tggcggcatc gcccatcatc
+      661 ccagaggcag ctcgggccct ctattacaac gatggaatgt ttgaaggaga catcaagctt
+      721 cgtgctggac gccaacctgc gagggttgga gcagccatct tgggagacga atatctctgg
+      781 tcaggtggtg tcatacccta tacctttgca ggtgtaagcg gtgcggatca aagtgcaatc
+      841 ctgagtggaa tgcaggaact ggaggagaaa acatgcatcc gctttgtgcc caggaccact
+      901 gagtcggact acgttgaaat tttcaccagt ggttcaggtg agcgtggcac tggatgactg
+      961 atgcatttga tgattagtag aggtcagtgg ttaaagccat tgaaatgatg atcgatctga
+     1021 cttgatgaga tccagttgaa aatgggcata cagtagcaca ctgaggtagc actagacgat
+     1081 gacagatgga catagacgtg acagatgaca cagatgacag atgacagata gacagatgga
+     1141 cagatggaca aaagcatgac agatgacaga tgacagatga gaacacagat gacacacatg
+     1201 atgacccaca gtgagatacc agtgacagtg gacacagttt aacggagaca aaagtgacac
+     1261 ccgatggatt taccccaaat tgatgacaga tgacagatat ttagataatc cataaataga
+     1321 cagtttagac agatgggaca gataaatgac agatgacaga tgacagatga cagatgacag
+     1381 atgacagatg acagaaaatt gggatagaca gtatatggaa tgatgatgat tacgttgacc
+     1441 agtgatcagt ggtacagtag atcagaatca gttaggacca gttaggcaga tgacccagtg
+     1501 acaccaatga tcacgatgac agtagtacga tgacgatgaa aagttttaga tacagatgac
+     1561 gatgacgatg acgataacag ataaaccgtg atacagattt tgacagatga cagatgaccc
+     1621 agatgataga aaaacgtaca gatttagata cgatagcaga tgatagacag ataggggaaa
+     1681 ttcagatgac gattttaagc gtgacagaca ttgcagatga cgatgactag gaattcaatg
+     1741 cgacagacaa ttagcagata tgacagtagt cgatagacag atacgactaa gacaaaatcg
+     1801 ttaatacgac ttcagattta ttctatttca gggtgttggt cctatgtggg acgaataagt
+     1861 ggagcgcagc aggtgtcact gcaagccaat ggttgtgttt accatggcac aatcatccat
+     1921 gagctcatgc atgccattgg cttctaccat gagcacaccc gtatggaccg agacaactac
+     1981 gtcactatta actatcaaaa tgttgatcct tgtaagtatt tttacctagg gagacttcct
+     2041 gccagtactt aaatatattg accaggtctt aaaggctatt cactgaccta gctaaagcct
+     2101 ggcctgtgat catgcagcaa tgacgtccaa cttcgacatt gacacctact cgcgctatgt
+     2161 gggtgaggat taccagtact acagcataat gcactacggc aagtactcct tctccataca
+     2221 gtggggagtc ctcgagacca ttgtacctct gcaaaacggt attgatctca gtctgatcgt
+     2281 taacgtagtc acgagtgaca cgtacggcta atagcagctt agtacgagct gacccttatg
+     2341 ataaagctca catgctgcaa actgatgcaa accagatcaa caacctatac acaaatgagt
+     2401 gtagcctaag gcattagaaa tttcaaagct gacctctact tgtatcatga aacgaggcca
+     2461 tatttgatgt aagcatttat ttgaagaatc taagaattta ataaatattt actattccgg
+     2521 acgaccttga ccagatgacc cagtgaattt agcattacac ggtaaattca ggagatggac
+     2581 tcaaaattta cgattgcatg actcgcatta ctgcag
+//
+LOCUS       AADHR        1051 bp    DNA             INV       01-OCT-1996
+DEFINITION  A.albopictus gene for dihydrofolate reductase.
+ACCESSION   X60192 M59934
+NID         g5555
+KEYWORDS    dihydrofolate reductase.
+SOURCE      forest day mosquito.
+  ORGANISM  Aedes albopictus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Hexapoda; Insecta; Pterygota; Diptera; Nematocera;
+            Culicoidea; Culicidae; Aedes.
+REFERENCE   1  (bases 1 to 1051)
+  AUTHORS   Shotkoski,F.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-1991) F.A. Shotkoski, Univ of Minnesota, Dept of
+            Entomology, 1980 Folwell Ave, St PAul MN 55108, USA
+REFERENCE   2  (bases 1 to 1051)
+  AUTHORS   Shotkoski,F.A. and Fallon,A.M.
+  TITLE     An amplified insect dihydrofolate reductase gene contains a single
+            intron
+  JOURNAL   Eur. J. Biochem. 201 (1), 157-160 (1991)
+  MEDLINE   92007869
+FEATURES             Location/Qualifiers
+     source          1..1051
+                     /organism="Aedes albopictus"
+                     /dev_stage="larvae"
+                     /cell_line="ATC-15"
+     promoter        191..195
+                     /note="CATTT box"
+     TATA_signal     236..240
+     exon            317..396
+                     /number=1
+     CDS             join(317..396,453..933)
+                     /EC_number="1.5.1.3"
+                     /codon_start=1
+                     /product="dihydrofolate reductase"
+                     /db_xref="PID:g5556"
+                     /db_xref="SWISS-PROT:P28019"
+                     /translation="MKKFSLIVAVCANGGIGIKGDLPWRLRQELKYFSRMTKKIQDSG
+                     KRNAIIMGRKTYFGVPESKRPLPERLNIILTRDPSANAYPSEVMVCTSMQEALKKLDE
+                     APLVNEIENVWIVGGNAVYKEAMQSDRCHRIYLTEIKETFECDAFFPEITSDFQLVKN
+                     DDDVPEDIQEENGIQYQYRIYEKVPK"
+     mRNA            join(317..396,453..933)
+     intron          397..452
+                     /number=1
+     exon            453..933
+                     /number=2
+BASE COUNT      301 a    190 c    243 g    317 t
+ORIGIN      
+        1 agcttatgca tttaaacatc agtacctgct ggactacatg acggcttgct agtttgtgtg
+       61 tcatacggac gtgttatttt tatgtaaaaa cataacaggt cgtgttcgca ctcagacata
+      121 catgctgaat tgttgttttt gtttgtggcg cttttttgat tacccacagg attcggcttg
+      181 atgattcgca catttctatt atcgttatcg cttgcgattg gctgtttgtg ttcgctataa
+      241 ggtattcgta tgttaagtta aaccggttaa tcgctcgttg ttgcttaagg ttacttacag
+      301 ttttgttttt caaataatga agaaattcag tctgatcgtt gcagtttgtg ccaatggtgg
+      361 aattggcatc aaaggcgatc ttccatggag attgaggtaa gtttgtggcc aacactaaca
+      421 tccacattct catgtgatca cttttcttgc agacaggagc taaaatattt ttcgcgaatg
+      481 acgaagaaaa ttcaagactc tggcaaacgt aatgccatca ttatgggacg aaagacttac
+      541 ttcggagtac ctgagtcgaa gcgacccttg ccggaaagac tgaacattat tctgactcga
+      601 gatcccagtg ccaatgctta tccatcggag gtgatggtgt gcaccagcat gcaggaagca
+      661 ctgaagaagc ttgacgaagc tccgttggtg aacgaaattg agaacgtatg gatcgttggt
+      721 ggcaatgcag tctataagga agcgatgcaa tcagatagat gtcaccgcat ttacctgact
+      781 gaaattaagg agacgttcga gtgtgatgca ttcttcccgg aaattaccag tgattttcaa
+      841 ctggtgaaga atgatgatga cgttccggag gacattcaag aggagaacgg gattcagtac
+      901 cagtaccgca tttatgaaaa agtgcctaaa taataattga gcttacttac ttgttgaatt
+      961 aattccgtta atataatagt ggtatatgtg cccggggcaa acaaccacga taataaacga
+     1021 taatgataga acaatcattt gaaattgagc t
+//
+LOCUS       AAH4          312 bp    RNA             INV       13-MAR-1997
+DEFINITION  A.assectella mRNA for histone H4.
+ACCESSION   X91508
+NID         g1882998
+KEYWORDS    histone H4.
+SOURCE      Acrolepiopsis assectella.
+  ORGANISM  Acrolepiopsis assectella
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Hexapoda; Insecta; Pterygota; Lepidoptera;
+            Yponomeutoidea; Plutellidae; Acrolepiopsis.
+REFERENCE   1  (bases 1 to 312)
+  AUTHORS   Hamelin,E., Bigot,Y.Y.B., Rouleux,F., Renault,S. and Periquet,G.
+  TITLE     Fast cloning and sequencing of histone H4 and actin messenger RNA
+            fragments and their uses as control
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 312)
+  AUTHORS   Bigot,Y.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-1995) Y.B. Bigot, IBEAS, Faculte des Sciences,
+            Parc de Gremont, 37200 Tours, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..312
+                     /organism="Acrolepiopsis assectella"
+                     /dev_stage="imago"
+     CDS             1..312
+                     /codon_start=1
+                     /product="histone H4"
+                     /db_xref="PID:e209524"
+                     /db_xref="PID:g1882999"
+                     /translation="MTGRGKGGKGLGKGGAKRHRKVLRDNIQGITKPAIRRLARRGGV
+                     KRISGLIYEETRGVLKVFLENVIRDAVTYTEHAKRKTVTAMDVVYALKRQGRTLYGFG
+                     G"
+BASE COUNT       82 a     63 c     95 g     72 t
+ORIGIN      
+        1 atgactggtc gtggtaaagg aggaaaagga ttgggaaagg gaggagccaa gcggcacagg
+       61 aaggttctgc gtgacaacat ccaaggaatt acgaagcccg ctatccgtcg tctggctcgt
+      121 cggggtggtg ttaaacgtat ttcggggctt atatacgaag agactcgtgg agtcttgaag
+      181 gtatttctcg agaacgttat ccgcgatgct gttacctata ccgaacatgc taagagaaag
+      241 accgtgacgg caatggatgt cgtttacgct ctgaaacgtc aaggccgcac cctctatgga
+      301 tttggcggtt aa
+//
+LOCUS       AAHAV33A     1048 bp    mRNA            INV       23-FEB-1993
+DEFINITION  Acanthocheilonema viteae pepsin-inhibitor-like-protein (Av33) mRNA
+            sequence.
+ACCESSION   M94896
+NID         g155619
+KEYWORDS    pepsin-inhibitor-like-protein.
+SOURCE      Acanthocheilonema viteae (library: lambda gt11 library, cloned into
+            pBluescript) male and female adult, also present in microfilariae
+            pseudocoelom cavity cDNA to mRNA.
+  ORGANISM  Acanthocheilonema viteae
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Nematoda;
+            Secernentea; Spiruria; Spirurida; Spirurina; Filarioidea;
+            Onchocercidae; Acanthocheilonema.
+REFERENCE   1  (bases 1 to 1048)
+  AUTHORS   Willenbuecher,J. and Lucius,R.
+  TITLE     The filarial antigens Av33/Ov33-3 show striking similarities to the
+            major pepsin inhibitor from Ascaris suum
+  JOURNAL   Mol. Biochem. Parasitol. 57, 349-352 (1993)
+  MEDLINE   93165087
+FEATURES             Location/Qualifiers
+     source          1..1048
+                     /organism="Acanthocheilonema viteae"
+                     /dev_stage="adult, also present in microfilariae"
+                     /sex="male and female"
+                     /tissue_type="pseudocoelom cavity"
+                     /tissue_lib="lambda gt11 library, cloned into pBluescript"
+BASE COUNT      355 a    195 c    184 g    314 t
+ORIGIN      
+        1 ggtttaatta cccaagtttg agaattcatt ggattgcata atctggcaac aaatttggcc
+       61 tcacaaacag ctatgaaaat tctttcttgt ttattattat gcacgataac agtgctggaa
+      121 ggaaacgtaa tgaacaggca caacaaacgt ttcgctggat ttaacgttgc tggaattggt
+      181 ggaactgctg gatgtgtagt cgtagataat aaactgtttg ctaatggctt cttccttcga
+      241 gaactgaccg ctgaagaaca aagagaattt gcacaatacg tcgaagaatc aaataaatat
+      301 aaggaggaac tgaaggtatc gttggaagag agacgtaagg gatggcagat agcacggcaa
+      361 agcgagaagg gtgccaaaat tttatcgact attacagaaa agaatttgcc caaaccaccc
+      421 aaaaaaccat ctttctgcac cgctgctgat accactcagt actacttcga tggttgcatg
+      481 gttcagaata ataaaatatt tgtgggacaa agttatgtac gagatttaac agcagacgaa
+      541 gcgaaagagt tgaaatcgtt cgatgtgaaa atgacagcct atcagaaata tctgtcttcc
+      601 tctattcaac agcaaatgaa tagtctattc ggtgacaaga caaatctctt gaatttattc
+      661 acgaatacac atctcgaatc aacttcacaa gcatcagaag ctacaactat cccgacgaca
+      721 actcaaacac cagttgaagc gccagaaaca ccaagtttct gtgtcccgat ctactgatac
+      781 agtctaaacc agaaaacaat gtttaatgtt tacgtttgtg tgcgcatata atattttttt
+      841 gccaaaattg agtaatcctc ttttttacct tcaactttat tatcagtttg tttcatagaa
+      901 ggattacttt taaatgtaat tcacaccaac agctattttt cgactattgg taattactta
+      961 gtttcaactc actattatat ttttcgcact ctattcgcct cctttaaagt tttttttata
+     1021 ataaatatta tacattttaa aaaaaaaa
+//
+LOCUS       AAHCHIT      1566 bp    mRNA            INV       18-APR-1995
+DEFINITION  Acanthocheilonema viteae chitinase mRNA, 3' end of cds.
+ACCESSION   L41653
+NID         g777384
+KEYWORDS    chitinase.
+SOURCE      Acanthocheilonema viteae (clone library: lambda ZAPII L3 library of
+            R.Adam) infective third-stage larva cDNA to mRNA.
+  ORGANISM  Acanthocheilonema viteae
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Nematoda;
+            Secernentea; Spiruria; Spirurida; Spirurina; Filarioidea;
+            Onchocercidae; Acanthocheilonema.
+REFERENCE   1  (bases 1 to 1566)
+  AUTHORS   Fuhrman,J.A., Lane,W.S., Smith,R.F., Piessens,W.F. and Perler,F.B.
+  TITLE     Transmission-blocking antibodies recognize microfilarial chitinase
+            in brugian lymphatic filariasis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (5), 1548-1552 (1992)
+  MEDLINE   92179220
+REFERENCE   2  (bases 1 to 1566)
+  AUTHORS   Raghavan,N., Freedman,D.O., Fitzgerald,P.C., Unnasch,T.R.,
+            Ottesen,E.A. and Nutman,T.B.
+  TITLE     Cloning and characterization of a potentially protective
+            chitinase-like recombinant antigen from Wuchereria bancrofti
+  JOURNAL   Infect. Immun. 62 (5), 1901-1908 (1994)
+  MEDLINE   94222561
+REFERENCE   3  (bases 1 to 1566)
+  AUTHORS   Wu,Y. and Bianco,A.E.
+  TITLE     Identification and cloning of a larval-specific chitinase gene from
+            Acanthocheilonema viteae
+  JOURNAL   Unpublished (1995)
+FEATURES             Location/Qualifiers
+     source          1..1566
+                     /organism="Acanthocheilonema viteae"
+                     /clone_lib="lambda ZAPII L3 library of R.Adam"
+                     /dev_stage="infective third-stage larva"
+     CDS             <1..1515
+                     /codon_start=1
+                     /product="chitinase"
+                     /db_xref="PID:g777385"
+                     /translation="GYVRGCYYTNWAQYRQGEGKFLPEDIPIGLCTHILYAFAKVDEK
+                     GTSMAFEWNDEDTEWSKGMYSRVIKLRENDPTLKILLSYGGYNFGSSTFAAIAKSAEK
+                     RKHFIQSATTFLRKHKFDGFDLDWEYPTGVAEEHAKLVEEMKAAFVEEAKESGKQQLL
+                     LTAAVSAGKMTIDESYNVQSLGKSLDLLFLMSYDLHGSWEKNVDLHGELRPTERETSG
+                     TGVCNTEFAANYWAEKGMPKQKIIIGIPAYSRGWTLSNPSETAIGAEGDRPSSPSTTN
+                     PAGGTAAYWEICKYVKEGGKETVDKKSVGAYMVKGDQWHGYDNEETIKIKMKWLKEED
+                     YGGAFMWTLDFDDFKGTSCGKGPYPLLNAINNGLESEQTPSTRAVPETTEDTEVEAMT
+                     EAPGTANDTEMETAEMPETTEDIEIETSTETSSTTAAPETTEGTEVETTTSVVKPGEE
+                     CPEPDGLFPHHSDCHLFINCANNYPHIMECPVGTFFDDTIKVCNYMRNAPDTCK"
+BASE COUNT      518 a    286 c    387 g    375 t
+ORIGIN      
+        1 ggttacgttc gcggatgtta ctacacaaat tgggctcaat atcgacaagg agaaggcaaa
+       61 ttcttgccgg aagatatccc aataggcctg tgcactcaca ttctttatgc attcgccaaa
+      121 gttgacgaga aaggcacatc aatggcattt gaatggaatg acgaagatac cgaatggtca
+      181 aaagggatgt actcacgtgt aataaaactg agagagaacg atccaacact gaaaatcctt
+      241 ctttcttatg gtggctataa cttcggatcg tcaacttttg ctgcaatagc aaagtcggcg
+      301 gaaaaacgga agcatttcat tcagtcagct acaacatttc ttcgcaagca taaatttgat
+      361 ggattcgatc tcgactggga atatccaacc ggtgtagcag aggaacatgc caaacttgtt
+      421 gaggaaatga aagcggcgtt cgtggaagaa gccaaggaat ccggcaagca acaattactt
+      481 cttaccgctg ctgtatcagc cgggaaaatg actattgatg aaagttacaa tgttcaatcc
+      541 cttggaaaaa gtttggatct gctatttctg atgtcgtatg atttacacgg tagttgggag
+      601 aagaacgtcg acttacacgg agagttgcgt ccgacggaga gagaaacatc cggaactggc
+      661 gtctgtaata ccgaatttgc agcaaattat tgggcagaga aaggtatgcc gaaacagaaa
+      721 attatcattg ggattccggc ttacagtcgg ggatggacat taagtaatcc ttcggaaacg
+      781 gcaattggag cggagggtga tcgtccatca tcgccatcga caacaaatcc cgctggcggt
+      841 actgcggctt attgggagat atgcaaatat gtgaaagaag gtggcaagga aacggtggat
+      901 aaaaaaagtg ttggagcgta tatggtaaaa ggagatcagt ggcacggtta cgataatgag
+      961 gaaactatta aaattaaaat gaaatggctg aaagaggagg attatggcgg tgcctttatg
+     1021 tggactcttg attttgatga tttcaaaggt acaagttgtg gcaaaggtcc atatccactg
+     1081 ttaaatgcta tcaataatgg gcttgaaagt gagcaaacac catcaacaag agcagtaccg
+     1141 gaaactacag aagacactga agttgaagca atgacggaag caccgggaac tgcaaatgat
+     1201 actgaaatgg aaacagcaga aatgccagaa actacggaag atattgaaat tgaaacatcg
+     1261 accgagacat catcaacaac agcagcaccg gaaaccacag aaggcactga agttgaaaca
+     1321 acgacgagcg ttgttaaacc cggtgaggaa tgtccggagc ccgatggttt atttccgcat
+     1381 cacagtgatt gccatttgtt cattaattgc gcaaataact atccacacat aatggaatgt
+     1441 ccggtgggca ccttttttga tgacacaatc aaagtttgca attatatgag gaacgcgccg
+     1501 gatacatgca aatgatttgg caattttatg tgatatatat atttgttgga ataaaaatct
+     1561 agggta
+//
+LOCUS       AAHCHITA     1640 bp    mRNA            INV       29-MAY-1996
+DEFINITION  Acanthocheilonema viteae chitinase mRNA, complete cds.
+ACCESSION   L42010
+NID         g804648
+KEYWORDS    chitinase.
+SOURCE      Acanthocheilonema viteae.
+  ORGANISM  Acanthocheilonema viteae
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Nematoda;
+            Secernentea; Spiruria; Spirurida; Spirurina; Filarioidea;
+            Onchocercidae; Acanthocheilonema.
+REFERENCE   1  (bases 1 to 1640)
+  AUTHORS   Fuhrman,J.A., Lane,W.S., Smith,R.F., Piessens,W.F. and Perler,F.B.
+  TITLE     Transmission-blocking antibodies recognize microfilarial chitinase
+            in brugian lymphatic filariasis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (5), 1548-1552 (1992)
+  MEDLINE   92179220
+REFERENCE   2  (bases 1 to 1640)
+  AUTHORS   Wu,Y., Adam,R., Williams,S.A. and Bianco,A.E.
+  TITLE     Chitinase genes expressed by infective larvae of the filarial
+            nematodes, Acanthocheilonema viteae and Onchocerca volvulus
+  JOURNAL   Mol. Biochem. Parasitol. 75 (2), 207-219 (1996)
+  MEDLINE   96258561
+FEATURES             Location/Qualifiers
+     source          1..1640
+                     /organism="Acanthocheilonema viteae"
+                     /dev_stage="infective stage larva"
+     5'UTR           <1..15
+     mRNA            <1..>1640
+     CDS             16..1590
+                     /codon_start=1
+                     /product="chitinase"
+                     /db_xref="PID:g804649"
+                     /translation="MNWIMITLFIILANAITVVNGYVRGCYYTNWAQYRQGEGKFLPE
+                     DIPIGLCTHILYAFAKVDEKGTSMAFEWNDEDTEWSKGMYSRVIKLRENDPTLKILLS
+                     YGGYNFGSSTFAAIAKSAEKRKHFIQSATTFLRKHKFDGFDLDWEYPTGVAEEHAKLV
+                     EEMKAAFVEEAKESGKQQLLLTAAVSAGKMTIDESYNVQSLGKSLDLLFLMSYDLHGS
+                     WEKNVDLHGELRPTERETSGTGVCNTEFAANYWAEKGMPKQKIIIGIPAYSRGWTLSN
+                     PSETAIGAEGDRPSSPSTTNPAGGTAAYWEICKYVKEGGKETVDKKSVGAYMVKGDQW
+                     HGYDNEETIKIKMKWLKEEDYGGAFMWTLDFDDFKGTSCGKGPYPLLNAINNGLESEQ
+                     TPSTRAVPETTEDTEVEAMTEAPGTANDTEMETAEMPETTEDIEIETSTETSSTTAAP
+                     ETTEGTEVETTTSVVKPGEECPEPDGLFPHHSDCHLFINCANNYPHIMECPVGTFFDD
+                     TIKVCNYMRNAPDTCK"
+     3'UTR           1591..>1640
+BASE COUNT      540 a    300 c    400 g    400 t
+ORIGIN      
+        1 gtcttacaag gtgacatgaa ctggattatg ataacgcttt tcattatact tgccaacgca
+       61 attactgttg taaacggtta cgttcgcgga tgttactaca caaattgggc tcaatatcga
+      121 caaggagaag gcaaattctt gccggaagat atcccaatag gcctgtgcac tcacattctt
+      181 tatgcattcg ccaaagttga cgagaaaggc acatcaatgg catttgaatg gaatgacgaa
+      241 gataccgaat ggtcaaaagg gatgtactca cgtgtaataa aactgagaga gaacgatcca
+      301 acactgaaaa tccttctttc ttatggtggc tataacttcg gatcgtcaac ttttgctgca
+      361 atagcaaagt cggcggaaaa acggaagcat ttcattcagt cagctacaac atttcttcgc
+      421 aagcataaat ttgatggatt cgatctcgac tgggaatatc caaccggtgt agcagaggaa
+      481 catgccaaac ttgttgagga aatgaaagcg gcgttcgtgg aagaagccaa ggaatccggc
+      541 aagcaacaat tacttcttac cgctgctgta tcagccggga aaatgactat tgatgaaagt
+      601 tacaatgttc aatcccttgg aaaaagtttg gatctgctat ttctgatgtc gtatgattta
+      661 cacggtagtt gggagaagaa cgtcgactta cacggagagt tgcgtccgac ggagagagaa
+      721 acatccggaa ctggcgtctg taataccgaa tttgcagcaa attattgggc agagaaaggt
+      781 atgccgaaac agaaaattat cattgggatt ccggcttaca gtcggggatg gacattaagt
+      841 aatccttcgg aaacggcaat tggagcggag ggtgatcgtc catcatcgcc atcgacaaca
+      901 aatcccgctg gcggtactgc ggcttattgg gagatatgca aatatgtgaa agaaggtggc
+      961 aaggaaacgg tggataaaaa aagtgttgga gcgtatatgg taaaaggaga tcagtggcac
+     1021 ggttacgata atgaggaaac tattaaaatt aaaatgaaat ggctgaaaga ggaggattat
+     1081 ggcggtgcct ttatgtggac tcttgatttt gatgatttca aaggtacaag ttgtggcaaa
+     1141 ggtccatatc cactgttaaa tgctatcaat aatgggcttg aaagtgagca aacaccatca
+     1201 acaagagcag taccggaaac tacagaagac actgaagttg aagcaatgac ggaagcaccg
+     1261 ggaactgcaa atgatactga aatggaaaca gcagaaatgc cagaaactac ggaagatatt
+     1321 gaaattgaaa catcgaccga gacatcatca acaacagcag caccggaaac cacagaaggc
+     1381 actgaagttg aaacaacgac gagcgttgtt aaacccggtg aggaatgtcc ggagcccgat
+     1441 ggtttatttc cgcatcacag tgattgccat ttgttcatta attgcgcaaa taactatcca
+     1501 cacataatgg aatgtccggt gggcaccttt tttgatgaca caatcaaagt ttgcaattat
+     1561 atgaggaacg cgccggatac atgcaaatga tttggcaatt ttatgtgata tatatatttg
+     1621 ttggaataaa aatctagggt 
+//
+LOCUS       AAHNECY       687 bp    mRNA            INV       20-JUN-1995
+DEFINITION  Acanthocheilonema viteae (clone Av17) nematode cystatin mRNA,
+            complete cds.
+ACCESSION   L43053
+NID         g867674
+KEYWORDS    cystatin.
+SOURCE      Acanthocheilonema viteae female adult cDNA to mRNA.
+  ORGANISM  Acanthocheilonema viteae
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Nematoda;
+            Secernentea; Spiruria; Spirurida; Spirurina; Filarioidea;
+            Onchocercidae; Acanthocheilonema.
+REFERENCE   1  (bases 1 to 687)
+  AUTHORS   Hartmann,S., Kyewsky,B. and Lucius,R.
+  TITLE     Modulation of host immune responses by a protease inhibitor of a
+            filarial parasite
+  JOURNAL   Unpublished (1995)
+FEATURES             Location/Qualifiers
+     source          1..687
+                     /organism="Acanthocheilonema viteae"
+                     /note="(vector lambda gt11)"
+                     /dev_stage="adult"
+                     /sex="female"
+     5'UTR           1..22
+     mRNA            1..687
+     CDS             23..496
+                     /codon_start=1
+                     /function="cysteine protease inhibitor"
+                     /evidence=experimental
+                     /product="cystatin"
+                     /db_xref="PID:g867675"
+                     /translation="MMLSIKEDGLLVVLLLSFGVTTVLVRCEEPANMESEVQAPNLLG
+                     GWQERNPEEKEIQDLLPKVLIKLNQLSNVEYHLMPIKLLKVSSQVVAGLRYKMEIQVA
+                     QSECKKSSGEEVNLKTCKRLEGHPDQIITLEAWEKSWENFLQVKILEKKEVLSSV"
+     3'UTR           497..687
+BASE COUNT      234 a     96 c    150 g    207 t
+ORIGIN      
+        1 aataaacaaa gctaacgacg atatgatgtt gtcaataaag gaggatggat tgttggtggt
+       61 acttttattg tcgttcggtg tgacgacagt tttggtgcgc tgtgaagaac ccgcaaatat
+      121 ggaatctgag gtacaagcgc ccaatttatt gggaggatgg caggaacgca atccggaaga
+      181 gaaagaaata caggacctgt tgccaaaggt attaattaaa ctaaatcagc tgtcaaacgt
+      241 ggagtaccac ctaatgccaa tcaaattact gaaagtttca tctcaagttg tggctggttt
+      301 gagatacaag atggaaatac aggttgctca atcagaatgc aaaaaaagtt caggcgagga
+      361 agttaatctg aaaacatgta aaagattgga aggacatccg gatcagatta tcacgttgga
+      421 ggcatgggag aaatcatggg aaaatttttt gcaagtcaaa attctggaaa aaaaagaagt
+      481 actctcatca gtgtgattct ttttgcaagt ctcacttaac gttatccact gtgctttgta
+      541 gtatttttat tgtttaatgc ttacgatttt ttttaaaatg cattttgtaa ttttatcaaa
+      601 atcaaaatgg tattgtaatt ggtgcaaaaa atatttaaag ttgataatgc caatattcca
+      661 gcttataatt gttaaagtac attgtga
+//
+LOCUS       AAITS2        485 bp    DNA             INV       18-JUL-1995
+DEFINITION  A.atroparvus DNA for internal transcribed spacer 2 (ITS2).
+ACCESSION   Z50103
+NID         g902587
+KEYWORDS    internal transcribed spacer; ITS2.
+SOURCE      Anopheles atroparvus.
+  ORGANISM  Anopheles atroparvus
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Arthropoda;
+            Tracheata; Insecta; Pterygota; Diptera; Nematocera; Culicoidea;
+            Culicidae; Anopheles.
+REFERENCE   1  (bases 1 to 485)
+  AUTHORS   Mancini,P., Silvestrini,F., Romi,R., Severini,C. and Marinucci,M.
+  TITLE     Sequence analysis of the ribosomal DNA internal transcribed spacer
+            2 in Paleartic species of the Anopheles maculipennis complex
+            (Diptera: Culicidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 485)
+  AUTHORS   Mancini,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-1995) Mancini P., Istituto Superiore di Sanita',
+            Parassitologia, Viale Regina Elena 299, Rome, Italy, I-00161
+FEATURES             Location/Qualifiers
+     source          1..485
+                     /organism="Anopheles atroparvus"
+                     /strain="atrSI"
+                     /isolate="atrSI-A"
+                     /clone="atrSI-A1"
+                     /dev_stage="adult"
+                     /sex="Male"
+     rRNA            1..485
+                     /note="internal transcribed spacer 2 (ITS2)"
+BASE COUNT      127 a    131 c    118 g    109 t
+ORIGIN      
+        1 atcactcggc tcgtggatcg atgaagaccg cagctaaatg cgcgtcacaa tgtgaactgc
+       61 aggacacatg aacaccgata agttgaacgc atattgcgca tcgtgcgaca cagctcgatg
+      121 tacacatttt tgagtgccca tatttgatca taacccaagc caaacggcgt acctcaccgt
+      181 acgtggagtt gatgaaaggg tctggatacg ccatcctttc tcttgcatcg aagtcgtagc
+      241 gtgtagcaac cccaggtttc aacttgcaaa gtggccatgg ggctgacacc tcaccaccat
+      301 cagcgtgctg tgtagcgtgt tcgacccagt tcggtcatcg tgaggcgtta ctaacggaga
+      361 agcaccagct gctgcgtgta tctcatggtt cccccaacca tagcagcaga gatacaagac
+      421 cagctcctag cagcgggagc tcatgggtct caaataatgt gagactaccc cctaaattta
+      481 agcat
+//
