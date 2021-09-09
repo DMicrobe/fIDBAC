@@ -21,7 +21,7 @@ fIDBAC integrated an accuracy bacterial identification, automated strain typing 
 * MUMmer [3.23](http://mummer.sourceforge.net/)
 * ANIcalculator [v1.0](https://ani.jgi.doe.gov/html/download.php)
 
-You can also install this softwares with using conda.Due to dependency conflicts, we recommend installing **RGI** independent of other software. After the software are installed, write this software path to the file [**config_db.txt**](https://github.com/DMicrobe/fIDBAC/blob/master/script/config_db.txt).
+You can also install this softwares with using conda. Due to dependency conflicts, we recommend installing **RGI** in a different environment from other software. After this software are installed, write the path to the file [**config_db.txt**](https://github.com/DMicrobe/fIDBAC/blob/master/script/config_db.txt).
   
 ## Download data
  * Download Type strains genome and gene files in [12784.genome.txt](https://github.com/DMicrobe/fIDBAC/blob/master/12784.genome.txt) . Construct a configuration file, format reference file, write ACC ID, genome and gene path into the file [type](https://github.com/DMicrobe/fIDBAC/blob/master/example/type.example.list.txt).
