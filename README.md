@@ -1,5 +1,5 @@
 # fIDBAC
-fIDBAC integrated an accuracy bacterial identification, automated strain typing and downstream AR/VF gene prediction analysis in a single, coherent workflow, the website is [here](http://fbac.dmicrobe.cn/)
+fIDBAC integrated an accuracy bacterial identification, automated strain typing and downstream AR/VF gene prediction analysis in a single, coherent workflow, the website is [http://fbac.dmicrobe.cn/](http://fbac.dmicrobe.cn/)
 
 ## Installtion
 
