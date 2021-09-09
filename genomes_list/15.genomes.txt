@@ -1,0 +1,15 @@
+GCA_000257765.1	Streptococcus anginosus
+GCA_000576635.1	Skermanella stibiiresistens
+GCA_003604195.1	Simplicispira lacusdiani
+GCA_900167535.1	Prosthecobacter debontii
+GCA_000986865.1	Pararheinheimera mesophila
+GCA_009602535.1	Ornithinicoccus halotolerans
+GCA_003344045.1	Marinobacter vulgaris
+GCA_000972495.1	Hymenobacter terrenus
+GCA_004378585.1	Gramella jeungdoensis
+GCA_901542405.1	Gordonia terrae
+GCA_004358675.1	Fluviibacterium aquatile
+GCA_003344635.1	Desertihabitans aurantiacus
+GCA_000312465.1	Citrobacter freundii
+GCA_003640645.1	Bacillus aciditolerans
+GCA_008801575.1	Pseudomonas cissicola

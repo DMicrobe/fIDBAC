@@ -1,0 +1,12 @@
+GCA_000192165.1	Lactobacillus delbrueckii
+GCA_000160595.1	Leuconostoc mesenteroides
+GCA_000658965.1	Pseudomonas syringae
+GCA_000385925.1	Streptococcus cristatus
+GCA_000160855.1	Lactobacillus helveticus
+GCA_000159495.1	Lactobacillus paracasei
+GCA_009660455.1	Enterobacter cloacae
+GCA_000163455.1	Klebsiella pneumoniae
+GCA_000159135.1	Corynebacterium striatum
+GCA_900461305.1	Clostridium sporogenes
+GCA_900637585.1	Legionella pneumophila
+GCA_900639965.1	Legionella pneumophila
