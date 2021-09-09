@@ -19,16 +19,11 @@ usage: perl $0 [<options>]
 options:
    -input   input genome FASTA files to process
    -outdir  output dir, default current
-   -evalue  expectation value, default is 1e-5, only active when blobtools needed
-   -taxdump taxonomy infomation path, only active when blobtools needed
-   -ANI     ANI value, default is 95 of percent 
-   -AF      AF value, default is 0.6
    -type    list of type strain
    -help|?  print help information
-   -run     Run Type; local or qsub ,default local
 
 e.g.:
-	perl $0 -input sample.fasta -evalue 1e-5 -outdir . -temp temp
+	perl $0 -input sample.fasta -outdir . -temp temp
 		
 USAGE
 	exit 0;
@@ -36,24 +31,20 @@ USAGE
 
 usage() if(@ARGV<1);
 
-my ($input, $outdir, $evalue, $taxdump, $ANI, $AF, $type,$tempdir);
+my ($input, $outdir, $type,$tempdir);
 GetOptions(
 	"input:s" =>\$input,	
 	"outdir:s"=>\$outdir,
-	"evalue:s"=>\$evalue,
-	"taxdump:s" =>\$taxdump,
 	"type:s"=>\$type,
         "temp:s"=>\$tempdir,
 );
 
 ### the default parameter
-$evalue = 1e-5 if (!defined $evalue);
 $outdir ||= ".";
 $outdir = abs_path($outdir) ;
 my $config_file = "$Bin/config_db.txt";
 #
 my $python3=parse_config($config_file,"python3");
-$taxdump ||=parse_config($config_file,"taxdump");
 my $kmerdb||=parse_config($config_file,"kmerdb");
 $type ||= parse_config($config_file,"type");
 my $rename=parse_config($config_file,"rename");
@@ -66,7 +57,8 @@ my $blast = parse_config($config_file,"blast");
 my $kmerfinder = parse_config($config_file,"kmerfinder");
 my $prokka = parse_config($config_file,"prokka");
 
-
+my $ANI=96;
+my $AF=0.6;
 my %rename = (
    "Clostridioides_difficile"=>"Clostridium_difficile",
    "Mycobacteroides_abscessus"=>"Mycobacterium_massiliense",
