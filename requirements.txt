@@ -9,3 +9,4 @@ RGI	https://card.mcmaster.ca/
 Phylip	https://evolution.genetics.washington.edu/phylip.html
 MUMmer	http://mummer.sourceforge.net/	3.23
 ANIcalculator	https://ani.jgi.doe.gov/html/download.php V1.0
+kmerfinder	https://bitbucket.org/genomicepidemiology/kmer-finder/src/master/	1.0.9

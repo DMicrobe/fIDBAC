@@ -1,0 +1,974 @@
+accession	organism specise	kmerfinder(Com)	kmerfinder(Type)	fIDBAC	ANI(%)
+GCA_000023105.1	Beutenbergia cavernae	Beutenbergia cavernae	Beutenbergia cavernae	Beutenbergia cavernae	100
+GCA_000023125.1	Dyadobacter fermentans	Dyadobacter fermentans	Dyadobacter fermentans	Dyadobacter fermentans	100
+GCA_000023225.1	Desulfomicrobium baculatum	Desulfomicrobium baculatum	Desulfomicrobium baculatum	Desulfomicrobium baculatum	100
+GCA_000023245.1	Actinosynnema mirum	Actinosynnema mirum	Actinosynnema mirum	Actinosynnema mirum	100
+GCA_000023265.1	Acidimicrobium ferrooxidans	Acidimicrobium ferrooxidans	Acidimicrobium ferrooxidans	Acidimicrobium ferrooxidans	100
+GCA_000023285.1	Capnocytophaga ochracea	Capnocytophaga ochracea	Capnocytophaga ochracea	Capnocytophaga ochracea	100
+GCA_000023405.1	Brachybacterium faecium	Brachybacterium faecium	Brachybacterium faecium	Brachybacterium faecium	100
+GCA_000023825.1	Pedobacter heparinus	Pedobacter heparinus	Pedobacter heparinus	Pedobacter heparinus	100
+GCA_000023845.1	Cryptobacterium curtum	Cryptobacterium curtum	Cryptobacterium curtum	Cryptobacterium curtum	100
+GCA_000023865.1	Saccharomonospora viridis	Saccharomonospora viridis	Saccharomonospora viridis	Saccharomonospora viridis	100
+GCA_000023885.1	Slackia heliotrinireducens	Slackia heliotrinireducens	Slackia heliotrinireducens	Slackia heliotrinireducens	100
+GCA_000023905.1	Leptotrichia buccalis	Leptotrichia buccalis	Leptotrichia buccalis	Leptotrichia buccalis	100
+GCA_000023925.1	Kytococcus sedentarius	Kytococcus sedentarius	Kytococcus sedentarius	Kytococcus sedentarius	100
+GCA_000024005.1	Chitinophaga pinensis	Chitinophaga pinensis	Chitinophaga pinensis	Chitinophaga pinensis	100
+GCA_000024025.1	Catenulispora acidiphila	Catenulispora acidiphila	Catenulispora acidiphila	Catenulispora acidiphila	100
+GCA_000024065.1	Jonesia denitrificans	Jonesia denitrificans	Jonesia denitrificans	Jonesia denitrificans	100
+GCA_000024085.1	Kangiella koreensis	Kangiella koreensis	Kangiella koreensis	Kangiella koreensis	100
+GCA_000024105.1	Anaerococcus prevotii	Anaerococcus prevotii	Anaerococcus prevotii	Anaerococcus prevotii	100
+GCA_000024205.1	Desulfofarcimen acetoxidans	Desulfofarcimen acetoxidans	Desulfofarcimen acetoxidans	Desulfofarcimen acetoxidans	100
+GCA_000024225.1	Atopobium parvulum	Atopobium parvulum	Atopobium parvulum	Lancefieldella parvula	100
+GCA_000024265.1	Eggerthella lenta	Eggerthella lenta	Eggerthella lenta	Eggerthella lenta	100
+GCA_000024285.1	Alicyclobacillus acidocaldarius	Alicyclobacillus acidocaldarius	Alicyclobacillus acidocaldarius	Alicyclobacillus acidocaldarius	100
+GCA_000024325.1	Desulfohalobium retbaense	Desulfohalobium retbaense	Desulfohalobium retbaense	Desulfohalobium retbaense	100
+GCA_000024345.1	Kribbella flavida	Kribbella flavida	Kribbella flavida	Kribbella flavida	100
+GCA_000024365.1	Nakamurella multipartita	Nakamurella multipartita	Nakamurella multipartita	Nakamurella multipartita	100
+GCA_000024385.1	Thermomonospora curvata	Thermomonospora curvata	Thermomonospora curvata	Thermomonospora curvata	100
+GCA_000024405.1	Sebaldella termitidis	Sebaldella termitidis	Sebaldella termitidis	Sebaldella termitidis	100
+GCA_000024425.1	Meiothermus ruber	Meiothermus ruber	Meiothermus ruber	Meiothermus ruber	100
+GCA_000024525.1	Spirosoma linguale	Spirosoma pollinicola	Spirosoma pollinicola	Spirosoma linguale	100
+GCA_000024545.1	Stackebrandtia nassauensis	Stackebrandtia nassauensis	Stackebrandtia nassauensis	Stackebrandtia nassauensis	100
+GCA_000024565.1	Streptobacillus moniliformis	Streptobacillus moniliformis	Streptobacillus moniliformis	Streptobacillus moniliformis	100
+GCA_000024785.1	Gordonia bronchialis	Gordonia bronchialis	Gordonia bronchialis	Gordonia bronchialis	100
+GCA_000024805.1	Haliangium ochraceum	Haliangium ochraceum	Haliangium ochraceum	Haliangium ochraceum	100
+GCA_000024845.1	Rhodothermus marinus	Rhodothermus marinus	Rhodothermus marinus	Rhodothermus marinus	100
+GCA_000024865.1	Streptosporangium roseum	Streptosporangium roseum	Streptosporangium roseum	Streptosporangium roseum	100
+GCA_000024885.1	Sulfurospirillum deleyianum	Sulfurospirillum deleyianum	Sulfurospirillum deleyianum	Sulfurospirillum deleyianum	100
+GCA_000024905.1	Thermanaerovibrio acidaminovorans	Thermanaerovibrio acidaminovorans	Thermanaerovibrio acidaminovorans	Thermanaerovibrio acidaminovorans	100
+GCA_000024925.1	Sanguibacter keddieii	Sanguibacter keddieii	Sanguibacter keddieii	Sanguibacter keddieii	100
+GCA_000024945.1	Veillonella parvula	Veillonella parvula	Veillonella parvula	Veillonella parvula	100
+GCA_000024965.1	Xylanimonas cellulosilytica	Xylanimonas cellulosilytica	Xylanimonas cellulosilytica	Xylanimonas cellulosilytica	100
+GCA_000024985.1	Sphaerobacter thermophilus	Sphaerobacter thermophilus	Sphaerobacter thermophilus	Sphaerobacter thermophilus	100
+GCA_000025005.1	Thermobaculum terrenum	Thermobaculum terrenum	Thermobaculum terrenum	Thermobaculum terrenum	100
+GCA_000025185.1	Pirellula staleyi	Pirellula staleyi	Pirellula staleyi	Pirellula staleyi	100
+GCA_000025265.1	Conexibacter woesei	Conexibacter woesei	--	Conexibacter woesei	100
+GCA_000025305.1	Acidaminococcus fermentans	Acidaminococcus fermentans	Acidaminococcus fermentans	Acidaminococcus fermentans	100
+GCA_000025345.1	Geodermatophilus obscurus	Geodermatophilus obscurus	Geodermatophilus obscurus	Geodermatophilus obscurus	100
+GCA_000025605.1	Thermocrinis albus	Thermocrinis albus	Thermocrinis albus	Thermocrinis albus	100
+GCA_000025725.1	Denitrovibrio acetiphilus	Denitrovibrio acetiphilus	Denitrovibrio acetiphilus	Denitrovibrio acetiphilus	100
+GCA_000025885.1	Aminobacterium colombiense	Aminobacterium colombiense	Aminobacterium colombiense	Aminobacterium colombiense	100
+GCA_000025905.1	Coraliomargarita akajimensis	Coraliomargarita akajimensis	Coraliomargarita akajimensis	Coraliomargarita akajimensis	100
+GCA_000092105.1	Planctopirus limnophila	Planctopirus limnophila	Planctopirus limnophila	Planctopirus limnophila	100
+GCA_000092125.1	Meiothermus silvanus	Meiothermus silvanus	Meiothermus silvanus	Meiothermus silvanus	100
+GCA_000092225.1	Tsukamurella paurometabola	Tsukamurella paurometabola	Tsukamurella paurometabola	Tsukamurella paurometabola	100
+GCA_000092245.1	Arcobacter nitrofigilis	Arcobacter nitrofigilis	Arcobacter nitrofigilis	Arcobacter nitrofigilis	100
+GCA_000092365.1	Arcanobacterium haemolyticum	Arcanobacterium haemolyticum	Arcanobacterium haemolyticum	Arcanobacterium haemolyticum	100
+GCA_000092405.1	Syntrophothermus lipocalidus	Syntrophothermus lipocalidus	Syntrophothermus lipocalidus	Syntrophothermus lipocalidus	100
+GCA_000092425.1	Truepera radiovictrix	Truepera radiovictrix	Truepera radiovictrix	Truepera radiovictrix	100
+GCA_000092645.1	Thermobispora bispora	Thermobispora bispora	Thermobispora bispora	Thermobispora bispora	100
+GCA_000092825.1	Segniliparus rotundus	Segniliparus rotundus	Segniliparus rotundus	Segniliparus rotundus	100
+GCA_000092845.1	Brachyspira murdochii	Brachyspira murdochii	Brachyspira murdochii	Brachyspira murdochii	100
+GCA_000092865.1	Cellulomonas flavigena	Cellulomonas flavigena	Cellulomonas flavigena	Cellulomonas flavigena	100
+GCA_000092905.1	Kyrpidia tusciae	Kyrpidia tusciae	Kyrpidia tusciae	Kyrpidia tusciae	100
+GCA_000092985.1	Nocardiopsis dassonvillei	Nocardiopsis dassonvillei	Nocardiopsis dassonvillei	Nocardiopsis dassonvillei	100
+GCA_000143845.1	Olsenella uli	Olsenella uli	Olsenella uli	Olsenella uli	100
+GCA_000143965.1	Desulfarculus baarsii	Desulfarculus baarsii	Desulfarculus baarsii	Desulfarculus baarsii	100
+GCA_000143985.1	Sediminispirochaeta smaragdinae	Sediminispirochaeta smaragdinae	Sediminispirochaeta smaragdinae	Sediminispirochaeta smaragdinae	100
+GCA_000144645.1	Thermosediminibacter oceani	Thermosediminibacter oceani	Thermosediminibacter oceani	Thermosediminibacter oceani	100
+GCA_000144695.1	Acetohalobium arabaticum	Acetohalobium arabaticum	Acetohalobium arabaticum	Acetohalobium arabaticum	100
+GCA_000147355.1	Sulfurimonas autotrophica	Sulfurimonas autotrophica	Sulfurimonas autotrophica	Sulfurimonas autotrophica	100
+GCA_000148645.1	Ferrimonas balearica	Ferrimonas balearica	Ferrimonas balearica	Ferrimonas balearica	100
+GCA_000164905.1	Hydrogenobacter thermophilus	Hydrogenobacter thermophilus	Hydrogenobacter thermophilus	Hydrogenobacter thermophilus	100
+GCA_000165465.1	Halanaerobium praevalens	Halanaerobium praevalens	Halanaerobium praevalens	Halanaerobium praevalens	100
+GCA_000165505.1	Ilyobacter polytropus	Ilyobacter polytropus	Ilyobacter polytropus	Ilyobacter polytropus	100
+GCA_000165715.3	Rubinisphaera brasiliensis	Rubinisphaera brasiliensis	Rubinisphaera brasiliensis	Rubinisphaera brasiliensis	100
+GCA_000165795.1	Aminomonas paucivorans	Thermanaerovibrio acidaminovorans	Aminomonas paucivorans	Aminomonas paucivorans	100
+GCA_000166195.3	Mucilaginibacter paludis	--	Mucilaginibacter paludis	Mucilaginibacter paludis	100
+GCA_000166395.1	Leadbetterella byssophila	Leadbetterella byssophila	Leadbetterella byssophila	Leadbetterella byssophila	100
+GCA_000172975.1	Dethiosulfovibrio peptidovorans	--	Dethiosulfovibrio peptidovorans	Dethiosulfovibrio peptidovorans	100
+GCA_000178855.1	Ktedonobacter racemifer	--	Ktedonobacter racemifer	Ktedonobacter racemifer	100
+GCA_000183135.1	Paludibacter propionicigenes	Paludibacter propionicigenes	Paludibacter propionicigenes	Paludibacter propionicigenes	100
+GCA_000183155.1	Riemerella anatipestifer	Riemerella anatipestifer	Riemerella anatipestifer	Riemerella anatipestifer	100
+GCA_000183405.1	Calditerrivibrio nitroreducens	Calditerrivibrio nitroreducens	Calditerrivibrio nitroreducens	Calditerrivibrio nitroreducens	100
+GCA_000183425.1	Marivirga tractuosa	Marivirga tractuosa	Marivirga tractuosa	Marivirga tractuosa	100
+GCA_000183545.3	Thermaerobacter subterraneus	Thermaerobacter sp.	Thermaerobacter subterraneus	Thermaerobacter subterraneus	100
+GCA_000183725.1	Sulfuricurvum kujiense	Sulfuricurvum kujiense	Sulfuricurvum kujiense	Sulfuricurvum kujiense	100
+GCA_000183745.1	Oceanithermus profundus	Oceanithermus profundus	Oceanithermus profundus	Oceanithermus profundus	100
+GCA_000184345.2	Spirochaeta thermophila	Spirochaeta thermophila	Spirochaeta thermophila	Spirochaeta thermophila	100
+GCA_000184685.1	Intrasporangium calvum	Intrasporangium calvum	Intrasporangium calvum	Intrasporangium calvum	100
+GCA_000184705.1	Thermaerobacter marianensis	Thermaerobacter marianensis	Thermaerobacter marianensis	Thermaerobacter marianensis	100
+GCA_000186225.1	Bacteroides helcogenes	Bacteroides helcogenes	Bacteroides helcogenes	Bacteroides helcogenes	100
+GCA_000186245.1	Nitratifractor salsuginis	Nitratifractor salsuginis	Nitratifractor salsuginis	Nitratifractor salsuginis	100
+GCA_000186265.1	Cellulophaga algicola	Cellulophaga algicola	Cellulophaga algicola	Cellulophaga algicola	100
+GCA_000186345.1	Isosphaera pallida	Isosphaera pallida	Isosphaera pallida	Isosphaera pallida	100
+GCA_000186385.1	Deinococcus maricopensis	Deinococcus maricopensis	Deinococcus maricopensis	Deinococcus maricopensis	100
+GCA_000186885.1	Desulfobulbus propionicus	--	Desulfobulbus elongatus	Desulfobulbus propionicus	100
+GCA_000189415.1	Weeksella virosa	Weeksella virosa	Weeksella virosa	Weeksella virosa	100
+GCA_000190535.1	Odoribacter splanchnicus	Odoribacter splanchnicus	Odoribacter splanchnicus	Odoribacter splanchnicus	100
+GCA_000190555.1	Deinococcus proteolyticus	Deinococcus proteolyticus	Deinococcus proteolyticus	Deinococcus proteolyticus	100
+GCA_000190575.1	Bacteroides salanitronis	Bacteroides salanitronis	Bacteroides salanitronis	Phocaeicola salanitronis	100
+GCA_000190595.1	Cellulophaga lytica	Cellulophaga lytica	Cellulophaga lytica	Cellulophaga lytica	100
+GCA_000190635.1	Syntrophobotulus glycolicus	Syntrophobotulus glycolicus	Syntrophobotulus glycolicus	Syntrophobotulus glycolicus	100
+GCA_000190735.2	Pseudopedobacter saltans	Pseudopedobacter saltans	Pseudopedobacter saltans	Pseudopedobacter saltans	100
+GCA_000191045.1	Desulfurobacterium thermolithotrophum	Desulfurobacterium thermolithotrophum	Desulfurobacterium thermolithotrophum	Desulfurobacterium thermolithotrophum	100
+GCA_000194135.1	Hippea maritima	Hippea maritima	Hippea maritima	Hippea maritima	100
+GCA_000194605.1	Fluviicola taffensis	Fluviicola taffensis	Fluviicola taffensis	Fluviicola taffensis	100
+GCA_000195275.1	Treponema succinifaciens	Treponema succinifaciens	Treponema succinifaciens	Treponema succinifaciens	100
+GCA_000195295.1	Desulfobacca acetoxidans	Desulfobacca acetoxidans	Desulfobacca acetoxidans	Desulfobacca acetoxidans	100
+GCA_000195315.1	Coriobacterium glomerans	Coriobacterium glomerans	Coriobacterium glomerans	Coriobacterium glomerans	100
+GCA_000195335.1	Marinithermus hydrothermalis	Marinithermus hydrothermalis	Marinithermus hydrothermalis	Marinithermus hydrothermalis	100
+GCA_000208385.1	Sphaerochaeta coccoides	Sphaerochaeta coccoides	Sphaerochaeta coccoides	Sphaerochaeta coccoides	100
+GCA_000208405.1	Selenomonas sputigena	Selenomonas sputigena	Centipeda periodontii	Selenomonas sputigena	100
+GCA_000212375.1	Porphyromonas asaccharolytica	Porphyromonas asaccharolytica	Porphyromonas asaccharolytica	Porphyromonas asaccharolytica	100
+GCA_000212395.1	Thermodesulfobium narugense	Thermodesulfobium narugense	Thermodesulfobium narugense	Thermodesulfobium narugense	100
+GCA_000212415.1	Treponema brennaborense	Treponema brennaborense	Treponema brennaborense	Treponema brennaborense	100
+GCA_000212735.1	Haliscomenobacter hydrossis	Haliscomenobacter hydrossis	Haliscomenobacter hydrossis	Haliscomenobacter hydrossis	100
+GCA_000212915.1	Bacteroides coprosuis	--	Bacteroides coprosuis	Bacteroides coprosuis	100
+GCA_000213255.1	Mahella australiensis	Mahella australiensis	Mahella australiensis	Mahella australiensis	100
+GCA_000217795.1	Thermodesulfatator indicus	Thermodesulfatator indicus	Thermodesulfatator indicus	Thermodesulfatator indicus	100
+GCA_000217815.1	Pseudothermotoga thermarum	Pseudothermotoga thermarum	Pseudothermotoga thermarum	Pseudothermotoga thermarum	100
+GCA_000218235.1	Prevotella multisaccharivorax	Prevotella denticola	Prevotella multisaccharivorax	Prevotella multisaccharivorax	100
+GCA_000218625.1	Flexistipes sinusarabici	Flexistipes sinusarabici	Flexistipes sinusarabici	Flexistipes sinusarabici	100
+GCA_000218895.1	Runella slithyformis	Runella sp.	Runella limosa	Runella slithyformis	100
+GCA_000219725.1	Treponema caldarium	Treponema caldarium	Treponema caldarium	Treponema caldarium	100
+GCA_000222485.1	Cyclobacterium marinum	Cyclobacterium marinum	Cyclobacterium marinum	Cyclobacterium marinum	100
+GCA_000224085.1	Muricauda ruestringensis	Muricauda ruestringensis	Muricauda ruestringensis	Muricauda ruestringensis	100
+GCA_000233775.1	Thermovirga lienii	Thermovirga lienii	Thermovirga lienii	Thermovirga lienii	100
+GCA_000236705.1	Owenweeksia hongkongensis	Owenweeksia hongkongensis	Owenweeksia hongkongensis	Owenweeksia hongkongensis	100
+GCA_000237805.1	Jonquetella anthropi	--	Jonquetella anthropi	Jonquetella anthropi	100
+GCA_000237825.1	Thermanaerovibrio velox	Thermanaerovibrio acidaminovorans	Thermanaerovibrio velox	Thermanaerovibrio velox	100
+GCA_000237975.1	Sulfobacillus acidophilus	--	Alicyclobacillus sacchari	Sulfobacillus acidophilus	100
+GCA_000241815.1	Caldithrix abyssi	Caldithrix abyssi	Caldithrix abyssi	Caldithrix abyssi	100
+GCA_000242255.3	Frateuria aurantia	Frateuria aurantia	Frateuria aurantia	Frateuria aurantia	100
+GCA_000242335.3	Prevotella dentalis	Prevotella dentalis	Prevotella dentalis	Prevotella dentalis	100
+GCA_000242455.3	Singulisphaera acidiphila DSM 18658 (bacteria)	Singulisphaera acidiphila	Singulisphaera acidiphila	Paludisphaera borealis	75.6193
+GCA_000242595.3	Spirochaeta africana	Spirochaeta africana	Spirochaeta africana	Spirochaeta africana	100
+GCA_000242615.3	Holophaga foetida	--	Holophaga foetida	Holophaga foetida	100
+GCA_000242635.3	Solitalea canadensis	Solitalea canadensis	Solitalea canadensis	Solitalea canadensis	100
+GCA_000243115.3	Niabella soli	Niabella soli	Niabella soli	Niabella soli	100
+GCA_000243235.1	Gillisia limnaea	Antarcticibacterium sp.	Gillisia limnaea	Gillisia limnaea	100
+GCA_000243275.1	Myroides odoratus	Myroides sp.	Myroides odoratus	Myroides odoratus	100
+GCA_000243335.1	Leptonema illini	--	Leptonema illini	Leptonema illini	100
+GCA_000246855.1	Niastella koreensis	Niastella koreensis	Niastella koreensis	Niastella koreensis	100
+GCA_000255555.2	Treponema saccharophilum	--	Treponema saccharophilum	Treponema saccharophilum	100
+GCA_000260115.1	Joostella marina	Zunongwangia profunda	Joostella marina	Joostella marina	100
+GCA_000260135.1	Thiothrix nivea	--	Thiothrix nivea	Thiothrix nivea	100
+GCA_000262545.1	Prevotella bivia	Prevotella intermedia	Prevotella bivia	Prevotella bivia	100
+GCA_000263195.1	Emticicia oligotrophica DSM 17448 (CFB group bacteria)	--	Dyadobacter jiangsuensis	Flectobacillus major	74.1818
+GCA_000265365.1	Alistipes finegoldii	Alistipes finegoldii	Alistipes finegoldii	Alistipes finegoldii	100
+GCA_000265385.1	Aequorivita sublithincola	Aequorivita sublithincola	Aequorivita sublithincola	Aequorivita sublithincola	100
+GCA_000265405.1	Belliella baltica	Belliella baltica	Belliella baltica	Belliella baltica	100
+GCA_000265425.1	Terriglobus roseus DSM 18391 (bacteria)	Terriglobus roseus	Terriglobus roseus	Terriglobus saanensis	75.5049
+GCA_000265465.1	Ornithobacterium rhinotracheale	Ornithobacterium rhinotracheale	Ornithobacterium rhinotracheale	Ornithobacterium rhinotracheale	100
+GCA_000265505.1	Bernardetia litoralis	Bernardetia litoralis	Bernardetia litoralis	Bernardetia litoralis	100
+GCA_000266885.1	Turneriella parva	Turneriella parva	Turneriella parva	Turneriella parva	100
+GCA_000266925.1	Acetomicrobium mobile	Acetomicrobium mobile	Acetomicrobium mobile	Acetomicrobium mobile	100
+GCA_000266945.1	Desulfomonile tiedjei	Desulfomonile tiedjei	Desulfomonile tiedjei	Desulfomonile tiedjei	100
+GCA_000275825.1	Saprospira grandis	Saprospira grandis	Lewinella litorea	Saprospira grandis	94.0294
+GCA_000281175.1	Caldilinea aerophila	Caldilinea aerophila	Caldilinea aerophila	Caldilinea aerophila	100
+GCA_000317835.1	Deinococcus peraridilitoris	Deinococcus peraridilitoris	Deinococcus peraridilitoris	Deinococcus peraridilitoris	100
+GCA_000325705.1	Echinicola vietnamensis	Echinicola vietnamensis	Echinicola vietnamensis	Echinicola vietnamensis	100
+GCA_000328625.1	Halobacteroides halobius	Halobacteroides halobius	Halobacteroides halobius	Halobacteroides halobius	100
+GCA_000364625.1	Pseudomonas thermotolerans	Pseudomonas citronellolis	Pseudomonas humi	Pseudomonas thermotolerans	99.9973
+GCA_000365005.1	Limimaricola hongkongensis	Pelagibaca abyssi	Limimaricola hongkongensis	Limimaricola hongkongensis	100
+GCA_000365025.1	Robiginitomaculum antarcticum	--	Robiginitomaculum antarcticum	Robiginitomaculum antarcticum	100
+GCA_000371785.1	Actinopolyspora halophila	Actinopolyspora erythraea	Actinopolyspora halophila	Actinopolyspora halophila	100
+GCA_000371925.1	Thiolinea disciformis	--	Thiolinea disciformis	Thiolinea disciformis	100
+GCA_000372065.1	Oligella urethralis	Oligella urethralis	Oligella urethralis	Oligella urethralis	100
+GCA_000372085.1	Corynebacterium capitovis	Corynebacterium sanguinis	Corynebacterium capitovis	Corynebacterium capitovis	100
+GCA_000372245.1	Corynebacterium doosanense	Corynebacterium doosanense	Corynebacterium doosanense	Corynebacterium doosanense	100
+GCA_000372365.1	Aggregatibacter actinomycetemcomitans	Aggregatibacter actinomycetemcomitans	Aggregatibacter actinomycetemcomitans	Aggregatibacter actinomycetemcomitans	100
+GCA_000372385.1	Corynebacterium ciconiae	Corynebacterium vitaeruminis	Corynebacterium ciconiae	Corynebacterium ciconiae	100
+GCA_000372405.1	Porphyromonas somerae	Prevotella intermedia	Porphyromonas somerae	Porphyromonas somerae	100
+GCA_000372425.1	Streptococcus ferus	Streptococcus ferus	Streptococcus ferus	Streptococcus ferus	100
+GCA_000372445.1	Corynebacterium ulceribovis	--	Corynebacterium ulceribovis	Corynebacterium ulceribovis	100
+GCA_000372465.1	Kribbella catacumbae	Kribbella flavida	Kribbella flavida	Kribbella catacumbae	100
+GCA_000372485.1	Oenococcus oeni	Oenococcus oeni	Oenococcus oeni	Oenococcus oeni	100
+GCA_000372745.1	Embleya scabrispora	Streptomyces bingchenggensis	Embleya scabrispora	Embleya scabrispora	99.9998
+GCA_000373045.1	Leptotrichia shahii	Leptotrichia shahii	Leptotrichia shahii	Leptotrichia shahii	100
+GCA_000373065.1	Enterococcus columbae	Enterococcus cecorum	Enterococcus columbae	Enterococcus columbae	99.9985
+GCA_000373085.1	Bacteroides massiliensis	Bacteroides vulgatus	Bacteroides massiliensis	Bacteroides massiliensis	99.9989
+GCA_000373105.1	Lewinella persica	--	Lewinella persica	Lewinella persica	100
+GCA_000373145.1	Thermus oshimai	Thermus oshimai	Thermus oshimai	Thermus oshimai	100
+GCA_000373185.1	Prevotella paludivivens	--	Prevotella paludivivens	Prevotella paludivivens	99.9982
+GCA_000373205.1	Meiothermus timidus	Meiothermus silvanus	Meiothermus timidus	Meiothermus timidus	99.9997
+GCA_000373245.1	Echinicola pacifica	--	Echinicola pacifica	Echinicola pacifica	99.9974
+GCA_000373265.1	Pontibacter roseus	Pontibacter sp.	Pontibacter roseus	Pontibacter roseus	100
+GCA_000373345.1	Leptotrichia wadei	Leptotrichia wadei	Leptotrichia shahii	Leptotrichia wadei	99.9985
+GCA_000373385.1	Thiobacillus thioparus	Thiobacillus denitrificans	Thiobacillus thioparus	Thiobacillus thioparus	100
+GCA_000373485.1	Dasania marina	--	Dasania marina	Dasania marina	100
+GCA_000373545.1	Alkalispirochaeta alkalica	--	Alkalispirochaeta alkalica	Alkalispirochaeta alkalica	99.9983
+GCA_000373605.1	Streptococcus anginosus	Streptococcus anginosus	Streptococcus anginosus	Streptococcus anginosus	99.9974
+GCA_000373705.1	Prevotella micans	Prevotella intermedia	Prevotella micans	Prevotella micans	100
+GCA_000373725.1	Acinetobacter bouvetii	Acinetobacter sp.	Acinetobacter bouvetii	Acinetobacter bouvetii	100
+GCA_000373745.1	Oligella ureolytica	Oligella urethralis	Oligella ureolytica	Oligella ureolytica	100
+GCA_000373765.1	Legionella shakespearei	Legionella pneumophila	Legionella shakespearei	Legionella shakespearei	100
+GCA_000373785.1	Erysipelothrix tonsillarum	Erysipelothrix rhusiopathiae	Erysipelothrix tonsillarum	Erysipelothrix tonsillarum	100
+GCA_000373805.1	Corynebacterium pilosum	Corynebacterium cystitidis	Corynebacterium pilosum	Corynebacterium pilosum	99.9996
+GCA_000373925.1	Actinopolymorpha alba	Nocardioides sp.	Actinopolymorpha alba	Actinopolymorpha alba	99.9998
+GCA_000373945.1	Endozoicomonas elysicola	--	Endozoicomonas elysicola	Endozoicomonas elysicola	100
+GCA_000373965.1	Uliginosibacterium gangwonense	--	Uliginosibacterium gangwonense	Uliginosibacterium gangwonense	100
+GCA_000373985.1	Desulfobacter curvatus	--	Desulfobacter hydrogenophilus	Desulfobacter curvatus	99.9993
+GCA_000374005.1	Kiloniella laminariae	--	Kiloniella laminariae	Kiloniella laminariae	99.9995
+GCA_000374025.1	Spirosoma panaciterrae	Spirosoma aerolatum	Spirosoma panaciterrae	Spirosoma panaciterrae	99.9995
+GCA_000374045.1	Segetibacter koreensis	--	Segetibacter koreensis	Segetibacter koreensis	100
+GCA_000374065.1	Spirosoma luteum	Spirosoma pollinicola	Spirosoma luteum	Spirosoma luteum	99.9995
+GCA_000374085.1	Spirosoma spitsbergense	--	Spirosoma spitsbergense	Spirosoma spitsbergense	99.9997
+GCA_000374105.1	Kangiella aquimarina	Kangiella profundi	Kangiella aquimarina	Kangiella aquimarina	100
+GCA_000374125.1	Niabella aurantiaca	Niabella soli	Niabella aurantiaca	Niabella aurantiaca	100
+GCA_000374145.1	Neomegalonema perideroedes	--	Neomegalonema perideroedes	Neomegalonema perideroedes	100
+GCA_000374285.1	Actinobacillus capsulatus	Actinobacillus equuli	Actinobacillus equuli	Actinobacillus capsulatus	100
+GCA_000374305.1	Actinomadura flavalba	Actinomadura sp.	Actinomadura flavalba	Actinomadura flavalba	100
+GCA_000374325.1	Allofustis seminis	Erysipelothrix rhusiopathiae	Allofustis seminis	Allofustis seminis	100
+GCA_000374345.1	Bacillus acidiproducens	Bacillus coagulans	Bacillus acidiproducens	Bacillus acidiproducens	100
+GCA_000374365.1	Bacteroides gallinarum	Paraprevotella xylaniphila	Bacteroides gallinarum	Bacteroides gallinarum	100
+GCA_000374385.1	Brevibacillus laterosporus	Brevibacillus laterosporus	Brevibacillus laterosporus	Brevibacillus laterosporus	99.9997
+GCA_000374405.1	Riemerella columbina	Parabacteroides distasonis	Riemerella columbina	Riemerella columbina	100
+GCA_000374425.1	Acinetobacter tjernbergiae	Acinetobacter sp.	Acinetobacter tjernbergiae	Acinetobacter tjernbergiae	100
+GCA_000374445.1	Actinokineospora enzanensis	Alloactinosynnema sp.	--	Actinokineospora enzanensis	100
+GCA_000374465.1	Ahrensia kielensis	--	Ahrensia kielensis	Ahrensia kielensis	99.9998
+GCA_000374485.1	Algicola sagamiensis	--	Algicola sagamiensis	Algicola sagamiensis	99.9998
+GCA_000374505.1	Alistipes onderdonkii	Alistipes onderdonkii	Alistipes onderdonkii	Alistipes onderdonkii	100
+GCA_000374525.1	Amorphus coralli	Stappia indica	Amorphus coralli	Amorphus coralli	100
+GCA_000374545.1	Anaeromusa acidaminophila	--	Anaeroarcus burkinensis	Anaeromusa acidaminophila	99.9997
+GCA_000374565.1	Bacillus fordii	Bacillus freudenreichii	Bacillus fordii	Bacillus fordii	99.9999
+GCA_000374585.1	Bacteroides barnesiae	Bacteroides salanitronis	Bacteroides barnesiae	Bacteroides barnesiae	99.9997
+GCA_000374605.1	Campylobacter ureolyticus	Campylobacter ureolyticus	Campylobacter ureolyticus	Campylobacter ureolyticus	100
+GCA_000374625.1	Brachymonas chironomi	Acidovorax sp.	Brachymonas chironomi	Brachymonas chironomi	100
+GCA_000374645.1	Arhodomonas aquaeolei	Spiribacter roseus	Arhodomonas aquaeolei	Arhodomonas aquaeolei	100
+GCA_000374805.1	Chitiniphilus shinanonensis	Chitinolyticbacter meiyuanensis	Chitiniphilus shinanonensis	Chitiniphilus shinanonensis	100
+GCA_000374825.1	Paenibacillus sanguinis	--	Paenibacillus sanguinis	Paenibacillus sanguinis	100
+GCA_000374845.1	Paenibacillus terrigena	Paenibacillus guangzhouensis	Paenibacillus terrigena	Paenibacillus terrigena	100
+GCA_000375345.1	Wohlfahrtiimonas chitiniclastica	--	Wohlfahrtiimonas chitiniclastica	Wohlfahrtiimonas chitiniclastica	100
+GCA_000375365.1	Corynebacterium mastitidis	Corynebacterium frankenforstense	Corynebacterium mastitidis	Corynebacterium mastitidis	100
+GCA_000375405.1	Bacteroides propionicifaciens	--	Bacteroides propionicifaciens	Bacteroides propionicifaciens	100
+GCA_000375425.1	Gracilimonas tropica	--	Gracilimonas tropica	Gracilimonas tropica	100
+GCA_000375445.1	Novosphingobium nitrogenifigens	Novosphingobium sp.	Novosphingobium nitrogenifigens	Novosphingobium nitrogenifigens	100
+GCA_000375465.1	Balneola vulgaris	--	Balneola vulgaris	Balneola vulgaris	100
+GCA_000375485.1	Desulfovibrio oxyclinae	Desulfovibrio sp.	Desulfovibrio oxyclinae	Desulfovibrio oxyclinae	100
+GCA_000375505.1	Streptococcus mutans	Streptococcus mutans	Streptococcus mutans	Streptococcus mutans	100
+GCA_000375525.1	Corynebacterium propinquum	--	Corynebacterium propinquum	Corynebacterium propinquum	100
+GCA_000375545.1	Kordiimonas gwangyangensis	--	Kordiimonas gwangyangensis	Kordiimonas gwangyangensis	100
+GCA_000375645.1	Porphyromonas bennonis	--	Porphyromonas bennonis	Porphyromonas bennonis	100
+GCA_000376105.1	Asticcacaulis benevestitus	Asticcacaulis excentricus	Asticcacaulis benevestitus	Asticcacaulis benevestitus	100
+GCA_000376125.1	Martelella mediterranea	Martelella mediterranea	Martelella mediterranea	Martelella mediterranea	100
+GCA_000376225.1	Effusibacillus pohliae	--	Effusibacillus pohliae	Effusibacillus pohliae	100
+GCA_000376245.1	Acaricomes phytoseiuli	--	Acaricomes phytoseiuli	Acaricomes phytoseiuli	100
+GCA_000376265.1	Thermus igniterrae	Thermus brockianus	Thermus amyloliquefaciens	Thermus igniterrae	100
+GCA_000376325.1	Campylobacter curvus	Campylobacter curvus	Campylobacter curvus	Campylobacter curvus	100
+GCA_000376385.1	Desulfurispora thermophila	--	Desulfurispora thermophila	Desulfurispora thermophila	100
+GCA_000376405.1	Dysgonomonas mossii	--	Dysgonomonas mossii	Dysgonomonas mossii	100
+GCA_000376425.1	Thiobacillus denitrificans	Thiobacillus denitrificans	Thiobacillus denitrificans	Thiobacillus denitrificans	100
+GCA_000376785.1	Hahella ganghwensis	--	Hahella ganghwensis	Hahella ganghwensis	100
+GCA_000376805.1	Henriciella marina	--	Henriciella marina	Henriciella marina	100
+GCA_000376825.1	Demetria terragena	--	Demetria terragena	Demetria terragena	100
+GCA_000376885.1	Alloscardovia criceti	--	Alloscardovia criceti	Alloscardovia criceti	100
+GCA_000376945.1	Leeia oryzae	--	Leeia oryzae	Leeia oryzae	100
+GCA_000376985.1	Streptococcus henryi	Streptococcus macedonicus	Streptococcus henryi	Streptococcus henryi	100
+GCA_000377005.1	Streptococcus minor	Streptococcus suis	Streptococcus minor	Streptococcus minor	100
+GCA_000377505.1	Paenibacillus massiliensis	--	Paenibacillus massiliensis	Paenibacillus massiliensis	100
+GCA_000377625.1	Prevotella veroralis	Prevotella denticola	Prevotella veroralis	Prevotella veroralis	99.9999
+GCA_000377665.1	Halomonas zhanjiangensis	Halomonas titanicae	Halomonas zhanjiangensis	Halomonas zhanjiangensis	99.999
+GCA_000377685.1	Prevotella oris	Prevotella oris	Prevotella oris	Prevotella oris	100
+GCA_000377705.1	Salsuginibacillus kocurii	--	Salsuginibacillus kocurii	Salsuginibacillus kocurii	100
+GCA_000377745.1	Gilvimarinus chinensis	--	Gilvimarinus chinensis	Gilvimarinus chinensis	100
+GCA_000377765.1	Gracilibacillus lacisalsi	Gracilibacillus sp.	Gracilibacillus lacisalsi	Gracilibacillus lacisalsi	100
+GCA_000377985.1	Sporolactobacillus vineae	--	Sporolactobacillus vineae	Sporolactobacillus vineae	100
+GCA_000378005.1	Coprothermobacter platensis	--	Coprothermobacter platensis	Coprothermobacter platensis	99.9992
+GCA_000378045.1	Marinobacterium rhizophilum	Marinobacterium aestuarii	Marinobacterium rhizophilum	Marinobacterium rhizophilum	99.9999
+GCA_000378065.1	Porphyromonas gulae	Porphyromonas gingivalis	Porphyromonas gingivalis	Porphyromonas gulae	99.999
+GCA_000378085.1	Prevotella loescheii	Prevotella oris	Prevotella loescheii	Prevotella loescheii	99.9999
+GCA_000378105.1	Rubritalea marina	--	Rubritalea marina	Rubritalea marina	100
+GCA_000378125.1	Rudaea cellulosilytica	Dokdonella koreensis	Rudaea cellulosilytica	Rudaea cellulosilytica	100
+GCA_000378145.1	Saccharibacillus kuerlensis	Saccharibacillus brassicae	Saccharibacillus kuerlensis	Saccharibacillus kuerlensis	100
+GCA_000378165.1	Saccharibacter floricola	--	Saccharibacter floricola	Saccharibacter floricola	99.9995
+GCA_000378185.1	Salinimonas chungwhensis	Salinimonas sp.	Salinimonas chungwhensis	Salinimonas chungwhensis	99.9988
+GCA_000378205.1	Sediminispirochaeta bajacaliforniensis	Sediminispirochaeta smaragdinae	Sediminispirochaeta smaragdinae	Sediminispirochaeta bajacaliforniensis	99.9999
+GCA_000378225.1	Methylophilus methylotrophus	Methylophilus sp.	Methylophilus methylotrophus	Methylophilus methylotrophus	100
+GCA_000378245.1	Aromatoleum toluclasticum	Azoarcus sp.	Aromatoleum toluclasticum	Aromatoleum toluclasticum	99.9996
+GCA_000378345.1	Hirschia maritima	Hirschia baltica	Hirschia maritima	Hirschia maritima	100
+GCA_000378365.1	Megamonas rupellensis	Megamonas funiformis	Megamonas funiformis	Megamonas rupellensis	100
+GCA_000378385.1	Paenibacillus daejeonensis	--	Paenibacillus daejeonensis	Paenibacillus daejeonensis	99.9997
+GCA_000378405.1	Succinimonas amylolytica	--	Succinimonas amylolytica	Succinimonas amylolytica	99.9579
+GCA_000378425.1	Cohnella laeviribosi	Paenibacillus sp.	Cohnella laeviribosi	Cohnella laeviribosi	99.9995
+GCA_000378445.1	Deinococcus aquatilis	Deinococcus puniceus	Deinococcus puniceus	Deinococcus aquatilis	100
+GCA_000378465.1	Elioraea tepidiphila	Roseomonas gilardii	Elioraea tepidiphila	Elioraea tepidiphila	99.9995
+GCA_000378485.1	Flavobacterium rivuli	Flavobacterium sp.	Flavobacterium rivuli	Flavobacterium rivuli	100
+GCA_000378505.1	Halomonas lutea	Halomonas sp.	Halomonas lutea	Halomonas lutea	100
+GCA_000378625.1	Colwellia piezophila	Colwellia sp.	Colwellia piezophila	Colwellia piezophila	99.999
+GCA_000378725.1	Peptoniphilus lacrimalis	Streptococcus pseudoporcinus	Peptoniphilus lacrimalis	Peptoniphilus lacrimalis	100
+GCA_000378745.1	Prevotella amnii	Prevotella intermedia	Prevotella amnii	Prevotella amnii	99.9983
+GCA_000378765.1	Psychroflexus tropicus	--	Psychroflexus tropicus	Psychroflexus tropicus	99.9982
+GCA_000379025.1	Orenia marismortui	--	Orenia marismortui	Orenia marismortui	100
+GCA_000379185.1	Capnocytophaga cynodegmi	Capnocytophaga cynodegmi	Capnocytophaga cynodegmi	Capnocytophaga cynodegmi	100
+GCA_000379425.1	Corynebacterium lubricantis	Corynebacterium doosanense	Corynebacterium lubricantis	Corynebacterium lubricantis	100
+GCA_000379445.1	Fangia hongkongensis	--	Fangia hongkongensis	Fangia hongkongensis	100
+GCA_000379465.1	Sciscionella marina	Amycolatopsis albispora	Sciscionella marina	Sciscionella marina	100
+GCA_000379485.1	Wenxinia marina	Sagittula sp.	Wenxinia marina	Wenxinia marina	100
+GCA_000379625.1	Actinomycetospora chiangmaiensis	Pseudonocardia sp.	Actinomycetospora chiangmaiensis	Actinomycetospora chiangmaiensis	100
+GCA_000379645.1	Actinoplanes globisporus	Actinoplanes sp.	Actinoplanes globisporus	Actinoplanes globisporus	100
+GCA_000379665.1	Butyricimonas synergistica	Butyricimonas faecalis	Butyricimonas synergistica	Butyricimonas synergistica	100
+GCA_000379685.1	Catelliglobosispora koreensis	Micromonospora sp.	Catelliglobosispora koreensis	Catelliglobosispora koreensis	100
+GCA_000379705.1	Corynebacterium caspium	--	Corynebacterium caspium	Corynebacterium caspium	100
+GCA_000379725.1	Cytophaga aurantiaca	--	Cytophaga aurantiaca	Cytophaga aurantiaca	100
+GCA_000379745.1	Enterococcus cecorum	Enterococcus cecorum	Enterococcus cecorum	Enterococcus cecorum	99.9992
+GCA_000379765.1	Flexithrix dorotheae	--	Flexithrix dorotheae	Flexithrix dorotheae	100
+GCA_000379785.1	Gallibacterium anatis	Gallibacterium anatis	Gallibacterium anatis	Gallibacterium anatis	100
+GCA_000379805.1	Lewinella cohaerens	--	Lewinella cohaerens	Lewinella cohaerens	100
+GCA_000379825.1	Longispora albida	Micromonospora terminaliae	Longispora albida	Longispora albida	100
+GCA_000379845.1	Moraxella boevrei	Moraxella bovis	Moraxella boevrei	Moraxella boevrei	100
+GCA_000379865.1	Mycolicibacterium hassiacum	Mycolicibacterium hassiacum	Mycolicibacterium phlei	Mycolicibacterium hassiacum	100
+GCA_000379885.1	Nonomuraea coxensis	Nonomuraea sp.	Nonomuraea polychroma	Nonomuraea coxensis	100
+GCA_000379905.1	Rodentibacter pneumotropicus	Rodentibacter pneumotropicus	Rodentibacter pneumotropicus	Rodentibacter pneumotropicus	100
+GCA_000379925.1	Porphyromonas levii	Prevotella intermedia	Porphyromonas levii	Porphyromonas levii	99.9991
+GCA_000379945.1	Porphyromonas macacae	--	Porphyromonas macacae	Porphyromonas macacae	100
+GCA_000379965.1	Prevotella nanceiensis	Prevotella sp.	Prevotella nanceiensis	Prevotella nanceiensis	100
+GCA_000379985.1	Streptococcus caballi	Streptococcus gallolyticus	Streptococcus caballi	Streptococcus caballi	99.9976
+GCA_000380005.1	Streptococcus didelphis	Streptococcus dysgalactiae	Streptococcus didelphis	Streptococcus didelphis	99.9999
+GCA_000380025.1	Streptococcus entericus	Streptococcus suis	Streptococcus entericus	Streptococcus entericus	100
+GCA_000380045.1	Streptococcus marimammalium	--	Streptococcus marimammalium	Streptococcus marimammalium	99.9976
+GCA_000380065.1	Streptococcus massiliensis	Streptococcus anginosus	Streptococcus massiliensis	Streptococcus massiliensis	99.9999
+GCA_000380085.1	Streptococcus merionis	Streptococcus merionis	Streptococcus merionis	Streptococcus merionis	100
+GCA_000380105.1	Streptococcus orisratti	Streptococcus gallolyticus	Streptococcus orisratti	Streptococcus orisratti	100
+GCA_000380125.1	Streptococcus ovis	Streptococcus suis	Streptococcus ovis	Streptococcus ovis	100
+GCA_000380145.1	Streptococcus thoraltensis	Streptococcus halotolerans	Streptococcus thoraltensis	Streptococcus thoraltensis	100
+GCA_000380165.1	Streptomyces vitaminophilus	Streptomyces bingchenggensis	Streptomyces vitaminophilus	Streptomyces vitaminophilus	100
+GCA_000380185.1	Thiofilum flexile	--	Thiofilum flexile	Thiofilum flexile	100
+GCA_000380485.1	Gordonia kroppenstedtii	Gordonia alkanivorans	Gordonia kroppenstedtii	Gordonia kroppenstedtii	100
+GCA_000380505.1	Kaistia granuli	Mesorhizobium sp.	Kaistia granuli	Kaistia granuli	100
+GCA_000380565.1	Microbulbifer variabilis	Microbulbifer sp.	Microbulbifer variabilis	Microbulbifer variabilis	100
+GCA_000380645.1	Smaragdicoccus niigatensis	Nocardia farcinica	Smaragdicoccus niigatensis	Smaragdicoccus niigatensis	100
+GCA_000380965.1	Paenibacillus ginsengihumi	--	Paenibacillus ginsengihumi	Paenibacillus ginsengihumi	100
+GCA_000380985.1	Proteiniphilum acetatigenes	Proteiniphilum saccharofermentans	Proteiniphilum saccharofermentans	Proteiniphilum acetatigenes	100
+GCA_000381005.1	Selenomonas bovis	Selenomonas sputigena	Selenomonas bovis	Selenomonas bovis	99.9998
+GCA_000381025.1	Streptomyces sulphureus	Streptomyces sp.	Streptomyces sulphureus	Streptomyces sulphureus	100
+GCA_000381045.1	Thermus scotoductus	Thermus scotoductus	Thermus caldilimi	Thermus scotoductus	100
+GCA_000381065.1	Propionispira raffinosivorans	--	Propionispira raffinosivorans	Propionispira raffinosivorans	100
+GCA_000381125.1	Caldimonas manganoxidans	Polyangium brachysporum	Caldimonas manganoxidans	Caldimonas manganoxidans	100
+GCA_000381265.1	Curvibacter lanceolatus	Delftia sp.	Curvibacter lanceolatus	Curvibacter lanceolatus	100
+GCA_000381345.1	Deinococcus apachensis	Deinococcus sp.	Deinococcus apachensis	Deinococcus apachensis	99.9996
+GCA_000381525.1	Peptostreptococcus anaerobius	Streptococcus pseudoporcinus	Peptostreptococcus anaerobius	Peptostreptococcus anaerobius	100
+GCA_000381545.1	Rhodonellum psychrophilum	--	Rhodonellum psychrophilum	Rhodonellum psychrophilum	99.9991
+GCA_000381725.1	Fusobacterium russii	Fusobacterium nucleatum	Fusobacterium russii	Fusobacterium russii	99.9957
+GCA_000381745.1	Psychromonas ossibalaenae	Psychromonas ingrahamii	Psychromonas ossibalaenae	Psychromonas ossibalaenae	100
+GCA_000381765.1	Zimmermannella faecalis	Agromyces aureus	Pseudoclavibacter faecalis	Pseudoclavibacter faecalis	100
+GCA_000381785.1	Amphritea japonica	--	Amphritea japonica	Amphritea japonica	100
+GCA_000381865.1	Moritella marina	Moritella marina	Moritella marina	Moritella marina	100
+GCA_000381885.1	Actinomadura atramentaria	Actinomadura sp.	Actinomadura atramentaria	Actinomadura atramentaria	100
+GCA_000381905.1	Paenibacillus fonticola	Paenibacillus lentus	Paenibacillus fonticola	Paenibacillus fonticola	100
+GCA_000381965.1	Oceanimonas smirnovii	Oceanimonas sp.	Oceanimonas smirnovii	Oceanimonas smirnovii	100
+GCA_000381985.1	Novispirillum itersonii	--	Novispirillum itersonii	Novispirillum itersonii	100
+GCA_000382005.1	Pseudoalteromonas piscicida	Pseudoalteromonas sp.	Pseudoalteromonas piscicida	Pseudoalteromonas piscicida	99.9995
+GCA_000382065.1	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	99.9999
+GCA_000382085.1	Eubacterium siraeum	--	Eubacterium siraeum	Eubacterium siraeum	99.9999
+GCA_000382125.1	Eudoraea adriatica	--	Eudoraea adriatica	Eudoraea adriatica	99.9979
+GCA_000382145.1	Psychrobacter lutiphocae	Psychrobacter sp.	Psychrobacter lutiphocae	Psychrobacter lutiphocae	99.9999
+GCA_000382165.1	Rheinheimera perlucida	Rheinheimera sp.	Rheinheimera perlucida	Rheinheimera perlucida	100
+GCA_000382205.1	Dyadobacter beijingensis	Dyadobacter fermentans	Dyadobacter beijingensis	Dyadobacter beijingensis	99.9994
+GCA_000382225.1	Hymenobacter aerophilus	Hymenobacter sp.	Hymenobacter aerophilus	Hymenobacter aerophilus	100
+GCA_000382245.1	Kushneria aurantia	Kushneria marisflavi	Kushneria aurantia	Kushneria aurantia	99.9978
+GCA_000382265.1	Yoonia vestfoldensis	Yoonia vestfoldensis	Yoonia vestfoldensis	Yoonia vestfoldensis	99.9999
+GCA_000382285.1	Solimonas variicoloris	Solimonas sp.	Solimonas variicoloris	Solimonas variicoloris	100
+GCA_000382305.1	Vitreoscilla stercoraria	Vitreoscilla sp.	Vitreoscilla stercoraria	Vitreoscilla stercoraria	100
+GCA_000382325.1	Woodsholea maritima	--	Woodsholea maritima	Woodsholea maritima	100
+GCA_000382345.1	Massilia niastensis	Massilia oculi	Massilia niastensis	Massilia niastensis	99.9996
+GCA_000382365.1	Pannonibacter phragmitetus	Pannonibacter phragmitetus	Pannonibacter phragmitetus	Pannonibacter phragmitetus	99.9978
+GCA_000382385.1	Prevotella maculosa	Prevotella oris	Prevotella maculosa	Prevotella maculosa	99.9999
+GCA_000382425.1	Empedobacter brevis	Empedobacter brevis	Empedobacter brevis	Empedobacter brevis	99.9996
+GCA_000382705.1	Aureimonas ureilytica	Aureimonas sp.	Aureimonas ureilytica	Aureimonas ureilytica	100
+GCA_000383255.1	Brachyspira hyodysenteriae	Brachyspira hyodysenteriae	Brachyspira hyodysenteriae	Brachyspira hyodysenteriae	99.9982
+GCA_000383295.1	Clostridium sporosphaeroides	--	Clostridium sporosphaeroides	Clostridium sporosphaeroides	100
+GCA_000383415.1	Hyphomicrobium zavarzinii	Hyphomicrobium nitrativorans	Hyphomicrobium zavarzinii	Hyphomicrobium zavarzinii	99.9998
+GCA_000383435.1	Lactobacillus parabrevis	Lactobacillus koreensis	Lactobacillus parabrevis	Lactobacillus parabrevis	99.9998
+GCA_000383515.1	Mycoplasma hyorhinis	Mycoplasma hyorhinis	Mycoplasma hyorhinis	Mycoplasma hyorhinis	99.998
+GCA_000383875.1	Caldibacillus debilis	--	Caldibacillus debilis	Caldibacillus debilis	99.9984
+GCA_000383895.1	Duganella zoogloeoides	Janthinobacterium sp.	Massilia albidiflava	Duganella zoogloeoides	99.9997
+GCA_000383955.1	Rudanella lutea	--	Rudanella lutea	Rudanella lutea	100
+GCA_000384035.1	Actinopolyspora mortivallis	Actinopolyspora erythraea	Actinopolyspora mortivallis	Actinopolyspora mortivallis	100
+GCA_000384115.1	Sporichthya polymorpha	Nocardioides sp.	Sporichthya polymorpha	Sporichthya polymorpha	100
+GCA_000384135.1	Succinispira mobilis	--	Succinispira mobilis	Succinispira mobilis	100
+GCA_000384195.1	Allobaculum stercoricanis	--	Allobaculum stercoricanis	Allobaculum stercoricanis	100
+GCA_000384395.1	Geopsychrobacter electrodiphilus	--	Geopsychrobacter electrodiphilus	Geopsychrobacter electrodiphilus	100
+GCA_000384655.1	Brachyspira innocens	Brachyspira murdochii	Brachyspira murdochii	Brachyspira innocens	100
+GCA_000384815.1	Halodesulfovibrio aestuarii	--	Halodesulfovibrio aestuarii	Halodesulfovibrio aestuarii	100
+GCA_000385075.1	Mycoplasma hominis	Mycoplasma hominis	Mycoplasma hominis	Mycoplasma hominis	98.011
+GCA_000385175.1	Salinicoccus albus	Salinicoccus halodurans	Salinicoccus albus	Salinicoccus albus	100
+GCA_000419445.1	Gryllotalpicola ginsengisoli	Gryllotalpicola sp.	Gryllotalpicola ginsengisoli	Gryllotalpicola ginsengisoli	100
+GCA_000419525.1	Leucothrix mucor	--	Leucothrix mucor	Leucothrix mucor	100
+GCA_000419585.1	Salisaeta longa	--	Salisaeta longa	Salisaeta longa	100
+GCA_000419685.1	Flavobacterium antarcticum	--	Flavobacterium antarcticum	Flavobacterium antarcticum	100
+GCA_000420025.1	Patulibacter americanus	Baekduia soli	Patulibacter americanus	Patulibacter americanus	100
+GCA_000420045.1	Perlucidibaca piscinae	--	Perlucidibaca piscinae	Perlucidibaca piscinae	100
+GCA_000420065.1	Varibaculum cambriense	Mobiluncus curtisii	Varibaculum cambriense	Varibaculum cambriense	100
+GCA_000420105.1	Mycoplasma orale	Mycoplasma orale	Mycoplasma orale	Mycoplasma orale	100
+GCA_000420125.1	Rubrivivax benzoatilyticus	Rubrivivax gelatinosus	Rubrivivax benzoatilyticus	Rubrivivax benzoatilyticus	100
+GCA_000420145.1	Paracoccus zeaxanthinifaciens	Paracoccus sp.	Paracoccus zeaxanthinifaciens	Paracoccus zeaxanthinifaciens	100
+GCA_000420205.1	Bacillus coagulans	Bacillus coagulans	Bacillus coagulans	Bacillus coagulans	100
+GCA_000420245.1	Psychromonas hadalis	Psychromonas sp.	Psychromonas hadalis	Psychromonas hadalis	100
+GCA_000420265.1	Oceanicaulis alexandrii	Glycocaulis alkaliphilus	Oceanicaulis alexandrii	Oceanicaulis alexandrii	100
+GCA_000420285.1	Simiduia agarivorans	Simiduia agarivorans	Simiduia agarivorans	Simiduia agarivorans	100
+GCA_000420305.1	Novosphingopyxis baekryungensis	Erythrobacter flavus	Novosphingopyxis baekryungensis	Novosphingopyxis baekryungensis	100
+GCA_000420325.1	Spongiibacter tropicus	Spongiibacter sp.	Spongiibacter tropicus	Spongiibacter tropicus	100
+GCA_000420345.1	Faecalicoccus pleomorphus	--	Faecalicoccus pleomorphus	Faecalicoccus pleomorphus	100
+GCA_000420365.1	Weissella halotolerans	--	Weissella halotolerans	Weissella halotolerans	100
+GCA_000420405.1	Winkia neuii	--	Winkia neuii	Winkia neuii	100
+GCA_000420425.1	Schaalia vaccimaxillae	Schaalia odontolytica	Schaalia vaccimaxillae	Schaalia vaccimaxillae	100
+GCA_000420445.1	Actinotignum urinale	Ndongobacter massiliensis	Actinotignum urinale	Actinotignum urinale	100
+GCA_000420465.1	Desulfovibrio desulfuricans	Desulfovibrio desulfuricans	Desulfovibrio desulfuricans	Desulfovibrio desulfuricans	100
+GCA_000420485.1	Desulfovibrio longus	Pseudodesulfovibrio aespoeensis	Desulfovibrio longus	Desulfovibrio longus	100
+GCA_000420505.1	Alloscardovia omnicolens	--	Alloscardovia omnicolens	Alloscardovia omnicolens	100
+GCA_000420525.1	Aquaspirillum serpens	--	Aquaspirillum serpens	Aquaspirillum serpens	100
+GCA_000420545.1	Arenimonas oryziterrae	Lysobacter capsici	Arenimonas oryziterrae	Arenimonas oryziterrae	100
+GCA_000420565.1	Bifidobacterium magnum	Bifidobacterium pseudolongum	Bifidobacterium magnum	Bifidobacterium magnum	100
+GCA_000420585.1	Corynebacterium callunae	Corynebacterium callunae	Corynebacterium callunae	Corynebacterium callunae	100
+GCA_000420605.1	Corynebacterium massiliense	Corynebacterium singulare	Corynebacterium massiliense	Corynebacterium massiliense	100
+GCA_000420625.1	Fodinicurvata sediminis	--	Fodinicurvata sediminis	Fodinicurvata sediminis	100
+GCA_000420645.1	Nevskia ramosa	Solimonas sp.	Nevskia ramosa	Nevskia ramosa	100
+GCA_000420665.1	Ponticaulis koreensis	--	Ponticaulis koreensis	Ponticaulis koreensis	100
+GCA_000420685.1	Gordonia hirsuta	Gordonia iterans	Gordonia hirsuta	Gordonia hirsuta	100
+GCA_000420705.1	Hymenobacter norwichensis	Hymenobacter sp.	Hymenobacter norwichensis	Hymenobacter norwichensis	100
+GCA_000420725.1	Marinococcus halotolerans	--	Marinococcus halotolerans	Marinococcus halotolerans	100
+GCA_000420745.1	Pseudorhodobacter ferrugineus	Pseudorhodobacter sp.	--	Pseudorhodobacter ferrugineus	100
+GCA_000420765.1	Sandarakinorhabdus limnophila	Sphingomonas sp.	Sandarakinorhabdus limnophila	Sandarakinorhabdus limnophila	100
+GCA_000420785.1	Streptococcus hyovaginalis	Streptococcus acidominimus	Streptococcus hyovaginalis	Streptococcus hyovaginalis	100
+GCA_000420805.1	Yaniella halotolerans	--	Yaniella halotolerans	Yaniella halotolerans	100
+GCA_000421145.1	Glaciibacter superstes	Cryobacterium arcticum	Glaciibacter superstes	Glaciibacter superstes	100
+GCA_000421165.1	Marinobacter daepoensis	Marinobacter hydrocarbonoclasticus	Marinobacter daepoensis	Marinobacter daepoensis	100
+GCA_000421185.1	Ornithinimicrobium pekingense	Ornithinimicrobium sp.	Ornithinimicrobium pekingense	Ornithinimicrobium pekingense	100
+GCA_000421205.1	Prevotella denticola	Prevotella denticola	Prevotella denticola	Prevotella denticola	100
+GCA_000421225.1	Ruania albidiflava	Ruania sp.	Ruania albidiflava	Ruania albidiflava	100
+GCA_000421245.1	Serinicoccus marinus	Serinicoccus marinus	Serinicoccus marinus	Serinicoccus marinus	100
+GCA_000421265.1	Thalassospira lucentensis	Thalassospira indica	Thalassospira lucentensis	Thalassospira lucentensis	100
+GCA_000421525.1	Aestuariimicrobium kwangyangense	Tessaracoccus sp.	Aestuariimicrobium kwangyangense	Aestuariimicrobium kwangyangense	100
+GCA_000421545.1	Agromyces italicus	Agromyces sp.	Agromyces italicus	Agromyces italicus	100
+GCA_000421565.1	Agromyces subbeticus	Agromyces sp.	Agromyces subbeticus	Agromyces subbeticus	100
+GCA_000421585.1	Thermodesulfatator atlanticus	Thermodesulfatator indicus	Thermodesulfatator atlanticus	Thermodesulfatator atlanticus	100
+GCA_000421605.1	Thermodesulfobacterium thermophilum	Thermodesulfobacterium commune	Thermodesulfobacterium commune	Thermodesulfobacterium thermophilum	100
+GCA_000421625.1	Thermus islandicus	Thermus aquaticus	Thermus islandicus	Thermus islandicus	100
+GCA_000421645.1	Aurantimonas coralicida	Brevundimonas vesicularis	Aurantimonas manganoxydans	Aurantimonas coralicida	100
+GCA_000421665.1	Bavariicoccus seileri	--	Bavariicoccus seileri	Bavariicoccus seileri	100
+GCA_000421685.1	Bifidobacterium minimum	Bifidobacterium adolescentis	Bifidobacterium minimum	Bifidobacterium minimum	100
+GCA_000421705.1	Brevundimonas naejangsanensis	Brevundimonas naejangsanensis	Brevundimonas naejangsanensis	Brevundimonas naejangsanensis	100
+GCA_000421725.1	Caldicellulosiruptor acetigenus	Caldicellulosiruptor kristjanssonii	Caldicellulosiruptor kristjanssonii	Caldicellulosiruptor acetigenus	100
+GCA_000421745.1	Nesterenkonia alba	Nesterenkonia sp.	Nesterenkonia alba	Nesterenkonia alba	100
+GCA_000421765.1	Pseudomonas caeni	Pseudomonas sp.	Pseudomonas caeni	Pseudomonas caeni	100
+GCA_000421785.1	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	100
+GCA_000421825.1	Humibacter albus	Humibacter sp.	Humibacter albus	Humibacter albus	100
+GCA_000421845.1	Leucobacter chironomi	Leucobacter sp.	Leucobacter chironomi	Leucobacter chironomi	100
+GCA_000422265.1	Chryseobacterium palustre	Chryseobacterium carnis	Chryseobacterium palustre	Chryseobacterium palustre	100
+GCA_000422285.1	Desulfatiglans anilini	Geoalkalibacter subterraneus	Desulfatiglans anilini	Desulfatiglans anilini	100
+GCA_000422305.1	Luteimonas mephitis	Lysobacter enzymogenes	Luteimonas mephitis	Luteimonas mephitis	100
+GCA_000422325.1	Marinospirillum minutulum	--	Marinospirillum minutulum	Marinospirillum minutulum	100
+GCA_000422345.1	Spongiibacter marinus	--	Spongiibacter tropicus	Spongiibacter marinus	99.9992
+GCA_000422365.1	Mesoflavibacter zeaxanthinifaciens	Mesoflavibacter sp.	Mesoflavibacter zeaxanthinifaciens	Mesoflavibacter zeaxanthinifaciens	100
+GCA_000422385.1	Microbacterium indicum	Microbacterium sediminis	Microbacterium indicum	Microbacterium indicum	99.9988
+GCA_000422405.1	Microbacterium luticocti	Microbacterium protaetiae	Microbacterium luticocti	Microbacterium luticocti	100
+GCA_000422425.1	Oceanospirillum beijerinckii	--	Oceanospirillum beijerinckii	Oceanospirillum beijerinckii	99.9992
+GCA_000422445.1	Paenibacillus assamensis	--	Paenibacillus assamensis	Paenibacillus assamensis	99.9984
+GCA_000422465.1	Paenibacillus harenae	--	Paenibacillus harenae	Paenibacillus harenae	100
+GCA_000422485.1	Paenibacillus pasadenensis	Paenibacillus sp.	Paenibacillus pasadenensis	Paenibacillus pasadenensis	99.9969
+GCA_000422505.1	Paenibacillus pinihumi	--	Paenibacillus pinihumi	Paenibacillus pinihumi	99.999
+GCA_000422525.1	Halodesulfovibrio aestuarii	--	Halodesulfovibrio aestuarii	Halodesulfovibrio aestuarii	99.0571
+GCA_000422545.1	Desulfocurvibacter africanus	Desulfocurvibacter africanus	Desulfocurvibacter africanus	Desulfocurvibacter africanus	99.9998
+GCA_000422565.1	Desulfovibrio aminophilus	Desulfovibrio desulfuricans	Desulfovibrio aminophilus	Desulfovibrio aminophilus	99.9991
+GCA_000422585.1	Hugenholtzia roseola	--	Hugenholtzia roseola	Hugenholtzia roseola	99.9928
+GCA_000422605.1	Eggerthia catenaformis	Streptococcus porcinus	Eggerthia catenaformis	Eggerthia catenaformis	99.9999
+GCA_000422625.1	Enterorhabdus mucosicola	Adlercreutzia equolifaciens	Enterorhabdus caecimuris	Enterorhabdus mucosicola	100
+GCA_000422645.1	Ferrimonas futtsuensis	Ferrimonas balearica	Ferrimonas futtsuensis	Ferrimonas futtsuensis	99.999
+GCA_000422665.1	Ferrimonas senticii	Ferrimonas sp.	Ferrimonas senticii	Ferrimonas senticii	100
+GCA_000422685.1	Flavobacterium gelidilacus	Flavobacterium haoranii	Flavobacterium gelidilacus	Flavobacterium gelidilacus	99.9997
+GCA_000422705.1	Flavobacterium soli	Flavobacterium sp.	Flavobacterium soli	Flavobacterium soli	99.9994
+GCA_000422725.1	Flavobacterium subsaxonicum	Flavobacterium sp.	Flavobacterium subsaxonicum	Flavobacterium subsaxonicum	99.9978
+GCA_000422745.1	Microbacterium gubbeenense	Microbacterium sediminis	Microbacterium gubbeenense	Microbacterium gubbeenense	100
+GCA_000422765.1	Neptunomonas japonica	--	Neptunomonas japonica	Neptunomonas japonica	100
+GCA_000422785.1	Nesiotobacter exalbescens	--	Nesiotobacter exalbescens	Nesiotobacter exalbescens	99.9989
+GCA_000422805.1	Nocardioides halotolerans	Nocardioides sp.	Nocardioides halotolerans	Nocardioides halotolerans	99.9991
+GCA_000422825.1	Nocardioides insulae	Nocardioides sp.	Nocardioides insulae	Nocardioides insulae	100
+GCA_000422845.1	Oceanobacter kriegii	--	Oceanobacter kriegii	Oceanobacter kriegii	100
+GCA_000422865.1	Oceanospirillum maris	--	Oceanospirillum maris	Oceanospirillum maris	100
+GCA_000422885.1	Ottowia thiooxydans	Ottowia oryzae	Ottowia thiooxydans	Ottowia thiooxydans	99.9998
+GCA_000422905.1	Paenibacillus alginolyticus	Paenibacillus sp.	Paenibacillus alginolyticus	Paenibacillus alginolyticus	99.9999
+GCA_000422925.1	Paludibacterium yongneupense	Chromobacterium sp.	Paludibacterium yongneupense	Paludibacterium yongneupense	99.9974
+GCA_000422945.1	Pedobacter oryzae	--	Pedobacter oryzae	Pedobacter oryzae	100
+GCA_000422965.1	Pleomorphomonas oryzae	Blastochloris tepida	Pleomorphomonas oryzae	Pleomorphomonas oryzae	100
+GCA_000422985.1	Porphyrobacter cryptus	Porphyrobacter sp.	Porphyrobacter cryptus	Porphyrobacter cryptus	99.9997
+GCA_000423005.1	Gelidibacter mesophilus	--	Gelidibacter mesophilus	Gelidibacter mesophilus	100
+GCA_000423025.1	Gordonia shandongensis	Gordonia phthalatica	Gordonia shandongensis	Gordonia shandongensis	100
+GCA_000423045.1	Gramella portivictoriae	Gramella forsetii	Gramella portivictoriae	Gramella portivictoriae	99.9972
+GCA_000423065.1	Gramella echinicola	Gramella forsetii	Gramella echinicola	Gramella echinicola	100
+GCA_000423085.1	Granulicoccus phenolivorans	Tessaracoccus aquimaris	Granulicoccus phenolivorans	Granulicoccus phenolivorans	99.9997
+GCA_000423105.1	Halalkalibacillus halophilus	--	Halalkalibacillus halophilus	Halalkalibacillus halophilus	100
+GCA_000423125.1	Haliea salexigens	Nitrosomonas eutropha	Haliea salexigens	Haliea salexigens	100
+GCA_000423145.1	Helcococcus sueciensis	--	Helcococcus sueciensis	Helcococcus sueciensis	100
+GCA_000423165.1	Idiomarina sediminum	--	Idiomarina sediminum	Idiomarina sediminum	100
+GCA_000423185.1	Inquilinus limosus	Stella humosa	Inquilinus limosus	Inquilinus limosus	100
+GCA_000423205.1	Jonesia quinghaiensis	Jonesia denitrificans	Jonesia quinghaiensis	Jonesia quinghaiensis	100
+GCA_000423225.1	Kaistia adipata	Mesorhizobium sp.	Kaistia adipata	Kaistia adipata	99.9996
+GCA_000423245.1	Lactobacillus ceti	--	Lactobacillus ceti	Lactobacillus ceti	100
+GCA_000423265.1	Lactobacillus saerimneri	--	Lactobacillus saerimneri	Lactobacillus saerimneri	100
+GCA_000423285.1	Laribacter hongkongensis	Laribacter hongkongensis	Laribacter hongkongensis	Laribacter hongkongensis	100
+GCA_000423305.1	Legionella moravica	Legionella waltersii	Legionella moravica	Legionella moravica	99.9991
+GCA_000423325.1	Lysobacter defluvii	Lysobacter maris	Lysobacter defluvii	Lysobacter defluvii	100
+GCA_000423345.1	Marinimicrobium agarilyticum	--	Marinimicrobium agarilyticum	Marinimicrobium agarilyticum	99.9997
+GCA_000423365.1	Maritalea myrionectae	Maritalea myrionectae	Maritalea myrionectae	Maritalea myrionectae	100
+GCA_000423385.1	Megamonas hypermegale	Megamonas hypermegale	Megamonas hypermegale	Megamonas hypermegale	99.9994
+GCA_000423405.1	Mesonia mobilis	--	Mesonia mobilis	Mesonia mobilis	99.995
+GCA_000423425.1	Meiothermus rufus	Meiothermus ruber	Meiothermus ruber	Meiothermus rufus	100
+GCA_000423445.1	Acidipropionibacterium thoenii	Acidipropionibacterium jensenii	Acidipropionibacterium thoenii	Acidipropionibacterium thoenii	99.6772
+GCA_000423465.1	Propionicicella superfundia	Propioniciclava sp.	Propionicicella superfundia	Propionicicella superfundia	100
+GCA_000423485.1	Propionimicrobium lymphophilum	Propionimicrobium sp.	Propionimicrobium lymphophilum	Propionimicrobium lymphophilum	100
+GCA_000423505.1	Pseudoclavibacter soli	--	Pseudoclavibacter soli	Pseudoclavibacter soli	100
+GCA_000423525.1	Proteocatella sphenisci	--	Proteocatella sphenisci	Proteocatella sphenisci	100
+GCA_000423545.1	Pseudomonas resinovorans	Pseudomonas sp.	Pseudomonas furukawaii	Pseudomonas resinovorans	99.9996
+GCA_000423565.1	Runella zeae	Runella sp.	Runella zeae	Runella zeae	99.998
+GCA_000423585.1	Salinimicrobium xinjiangense	--	Salinimicrobium xinjiangense	Salinimicrobium xinjiangense	99.9979
+GCA_000423605.1	Saccharospirillum impatiens	--	Saccharospirillum impatiens	Saccharospirillum impatiens	99.9995
+GCA_000423625.1	Pseudonocardia asaccharolytica	Pseudonocardia dioxanivorans	Pseudonocardia asaccharolytica	Pseudonocardia asaccharolytica	99.9989
+GCA_000423645.1	Sediminimonas qiaohouensis	Roseovarius indicus	Sediminimonas qiaohouensis	Sediminimonas qiaohouensis	99.9985
+GCA_000423665.1	Solirubrobacter soli	Conexibacter woesei	Solirubrobacter soli	Solirubrobacter soli	100
+GCA_000423685.1	Sporomusa ovata	--	Sporomusa ovata	Sporomusa ovata	100
+GCA_000423705.1	Stappia stellulata	Stappia indica	Stappia stellulata	Stappia stellulata	99.9996
+GCA_000423725.1	Streptococcus devriesei	Streptococcus ratti	Streptococcus devriesei	Streptococcus devriesei	99.9997
+GCA_000423745.1	Streptococcus plurextorum	Streptococcus suis	Streptococcus plurextorum	Streptococcus plurextorum	99.9993
+GCA_000423765.1	Streptococcus porci	Streptococcus suis	Streptococcus porci	Streptococcus porci	99.9998
+GCA_000423785.1	Tetragenococcus muriaticus	Tetragenococcus osmophilus	Tetragenococcus muriaticus	Tetragenococcus muriaticus	100
+GCA_000423805.1	Thalassobaculum salexigens	Rhodospirillum centenum	Thalassobaculum salexigens	Thalassobaculum salexigens	99.9994
+GCA_000423825.1	Thermithiobacillus tepidarius	Sulfurivermis fontis	Thermithiobacillus tepidarius	Thermithiobacillus tepidarius	100
+GCA_000423845.1	Thermodesulfobacterium hveragerdense	Thermodesulfobacterium commune	Thermodesulfobacterium commune	Thermodesulfobacterium hveragerdense	100
+GCA_000423865.1	Thermodesulfovibrio thiophilus	Thermodesulfovibrio yellowstonii	Thermodesulfovibrio thiophilus	Thermodesulfovibrio thiophilus	100
+GCA_000423885.1	Thermomonas fusca	Thermomonas sp.	Thermomonas fusca	Thermomonas fusca	99.998
+GCA_000423905.1	Thermus antranikianii	Thermus scotoductus	Thermus caldilimi	Thermus antranikianii	99.9981
+GCA_000424665.1	Salinimicrobium terrae	--	Salinimicrobium terrae	Salinimicrobium terrae	100
+GCA_000424685.1	Methylococcus capsulatus	Methylococcus capsulatus	Methylococcus capsulatus	Methylococcus capsulatus	99.9998
+GCA_000424985.1	Arenibacter latericius	--	Arenibacter latericius	Arenibacter latericius	100
+GCA_000425005.1	Solobacterium moorei	Streptococcus pseudoporcinus	Solobacterium moorei	Solobacterium moorei	100
+GCA_000425025.1	Streptococcus castoreus	Streptococcus dysgalactiae	Streptococcus castoreus	Streptococcus castoreus	100
+GCA_000425045.1	Acidaminococcus intestini	Acidaminococcus intestini	Acidaminococcus intestini	Acidaminococcus intestini	99.9995
+GCA_000425065.1	Actinomadura rifamycini	Actinomadura sp.	Actinomadura rifamycini	Actinomadura rifamycini	100
+GCA_000425085.1	Aerococcus urinaeequi	Aerococcus urinaeequi	Aerococcus urinaeequi	Aerococcus urinaeequi	99.9997
+GCA_000425105.1	Agrococcus lahaulensis	Agrococcus sp.	Agrococcus lahaulensis	Agrococcus lahaulensis	100
+GCA_000425125.1	Paenibacillus taiwanensis	--	Paenibacillus taiwanensis	Paenibacillus taiwanensis	100
+GCA_000425145.1	Pedobacter glucosidilyticus	Pedobacter sp.	Pedobacter glucosidilyticus	Pedobacter glucosidilyticus	99.9988
+GCA_000425165.1	Photobacterium halotolerans	Photobacterium gaetbulicola	Photobacterium halotolerans	Photobacterium halotolerans	99.9973
+GCA_000425185.1	Pleomorphomonas koreensis	Oligotropha carboxidovorans	Pleomorphomonas koreensis	Pleomorphomonas koreensis	100
+GCA_000425205.1	Pontibacillus halophilus	--	Pontibacillus halophilus	Pontibacillus halophilus	100
+GCA_000425225.1	Pontibacillus marinus	Pontibacillus sp.	Pontibacillus marinus	Pontibacillus marinus	100
+GCA_000425245.1	Desulfovibrio hydrothermalis	Desulfovibrio salexigens	Desulfovibrio hydrothermalis	Desulfovibrio hydrothermalis	100
+GCA_000425265.1	Desulfovibrio zosterae	Desulfovibrio salexigens	Desulfovibrio zosterae	Desulfovibrio zosterae	100
+GCA_000425285.1	Acidipropionibacterium jensenii	Acidipropionibacterium jensenii	Acidipropionibacterium jensenii	Acidipropionibacterium jensenii	100
+GCA_000425305.1	Psychroserpens burtonensis	Lacinutrix sp.	Psychroserpens burtonensis	Psychroserpens burtonensis	99.9994
+GCA_000425325.1	Rathayibacter toxicus	Rathayibacter toxicus	Rathayibacter toxicus	Rathayibacter toxicus	99.9973
+GCA_000425345.1	Rheinheimera baltica	Rheinheimera sp.	Rheinheimera baltica	Rheinheimera baltica	99.9986
+GCA_000425365.1	Rubritepida flocculans	Roseomonas mucosa	Rubritepida flocculans	Rubritepida flocculans	100
+GCA_000425385.1	Pseudoduganella violaceinigra	Massilia sp.	Pseudoduganella violaceinigra	Pseudoduganella violaceinigra	99.999
+GCA_000425405.1	Ferrimonas kyonanensis	Ferrimonas balearica	Ferrimonas kyonanensis	Ferrimonas kyonanensis	99.9978
+GCA_000425425.1	Flavobacterium daejeonense	Flavobacterium commune	Flavobacterium daejeonense	Flavobacterium daejeonense	100
+GCA_000425445.1	Flavobacterium denitrificans	Flavobacterium nitrogenifigens	Flavobacterium denitrificans	Flavobacterium denitrificans	100
+GCA_000425465.1	Flavobacterium filum	--	Flavobacterium filum	Flavobacterium filum	100
+GCA_000425485.1	Flavobacterium tegetincola	Flavobacterium faecale	Flavobacterium tegetincola	Flavobacterium tegetincola	99.9994
+GCA_000425505.1	Flavobacterium frigidarium	Flavobacterium faecale	Flavobacterium frigidarium	Flavobacterium frigidarium	99.9998
+GCA_000425525.1	Ruminococcus gauvreauii	--	Ruminococcus gauvreauii	Ruminococcus gauvreauii	100
+GCA_000425545.1	Sporosarcina ureae	Sporosarcina ureae	Sporosarcina ureae	Sporosarcina ureae	100
+GCA_000425565.1	Tepidiphilus margaritifer	--	Tepidiphilus margaritifer	Tepidiphilus margaritifer	99.9996
+GCA_000425585.1	Terrimonas ferruginea	--	Terrimonas ferruginea	Terrimonas ferruginea	100
+GCA_000425625.1	Pseudomonas azotifigens	Pseudomonas stutzeri	Pseudomonas azotifigens	Pseudomonas azotifigens	99.9997
+GCA_000425645.1	Gaetbulibacter saemankumensis	Siansivirga zeaxanthinifaciens	Gaetbulibacter saemankumensis	Gaetbulibacter saemankumensis	100
+GCA_000425665.1	Gemella cuniculi	Gemella morbillorum	Gemella cuniculi	Gemella cuniculi	99.9987
+GCA_000425685.1	Gulosibacter molinativorax	--	Gulosibacter molinativorax	Gulosibacter molinativorax	100
+GCA_000425705.1	Halobacillus kuroshimensis	Bacillus sp.	Halobacillus kuroshimensis	Halobacillus kuroshimensis	100
+GCA_000425725.1	Halomonas halocynthiae	Halomonas alkaliphila	Halomonas halocynthiae	Halomonas halocynthiae	100
+GCA_000425745.1	Pseudomonas cremoricolorata	Pseudomonas cremoricolorata	Pseudomonas cremoricolorata	Pseudomonas cremoricolorata	100
+GCA_000425765.1	Pseudomonas parafulva	Pseudomonas sp.	Pseudomonas parafulva	Pseudomonas parafulva	99.9986
+GCA_000425785.1	Pseudomonas taiwanensis	Pseudomonas sp.	Pseudomonas taiwanensis	Pseudomonas taiwanensis	100
+GCA_000425805.1	Pseudomonas vranovensis	Pseudomonas alkylphenolica	Pseudomonas vranovensis	Pseudomonas vranovensis	100
+GCA_000425825.1	Jeotgalicoccus marinus	--	Jeotgalicoccus marinus	Jeotgalicoccus marinus	100
+GCA_000425845.1	Jeotgalicoccus psychrophilus	--	Jeotgalicoccus psychrophilus	Jeotgalicoccus psychrophilus	100
+GCA_000425865.1	Lacticigenium naphtae	--	Lacticigenium naphtae	Lacticigenium naphtae	100
+GCA_000425885.1	Lactobacillus harbinensis	Lactobacillus harbinensis	Lactobacillus harbinensis	Lactobacillus harbinensis	100
+GCA_000425905.1	Lactobacillus psittaci	Lactobacillus jensenii	Lactobacillus psittaci	Lactobacillus psittaci	99.9988
+GCA_000426305.1	Anaerovorax odorimutans	--	Anaerovorax odorimutans	Anaerovorax odorimutans	99.9997
+GCA_000426365.1	Arenimonas composti	Lysobacter enzymogenes	Arenimonas composti	Arenimonas composti	100
+GCA_000426385.1	Arsenicicoccus bolidensis	Arsenicicoccus sp.	Arsenicicoccus bolidensis	Arsenicicoccus bolidensis	100
+GCA_000426405.1	Bifidobacterium subtile	Bifidobacterium scardovii	Bifidobacterium subtile	Bifidobacterium subtile	100
+GCA_000426425.1	Bifidobacterium thermacidophilum	Bifidobacterium thermophilum	Bifidobacterium thermacidophilum	Bifidobacterium thermacidophilum	100
+GCA_000426445.1	Brevibacterium album	Brevibacterium sp.	Brevibacterium album	Brevibacterium album	99.9987
+GCA_000426465.1	Chryseobacterium caeni	Chryseobacterium gleum	Chryseobacterium caeni	Chryseobacterium caeni	99.9994
+GCA_000426485.1	Dysgonomonas capnocytophagoides	--	Dysgonomonas capnocytophagoides	Dysgonomonas capnocytophagoides	99.9986
+GCA_000426505.1	Nisaea denitrificans	--	Nisaea denitrificans	Nisaea denitrificans	100
+GCA_000426525.1	Nocardioides alkalitolerans	Nocardioides sp.	Nocardioides alkalitolerans	Nocardioides alkalitolerans	100
+GCA_000426545.1	Paenibacillus panacisoli	--	Paenibacillus panacisoli	Paenibacillus panacisoli	99.9998
+GCA_000426565.1	Prevotella albensis	--	Prevotella albensis	Prevotella albensis	99.9996
+GCA_000426585.1	Prevotella baroniae	Prevotella enoeca	Prevotella baroniae	Prevotella baroniae	100
+GCA_000426605.1	Propionibacterium acidifaciens	Propionibacterium acidifaciens	Propionibacterium acidifaciens	Propionibacterium acidifaciens	100
+GCA_000426625.1	Psychrilyobacter atlanticus	--	Psychrilyobacter atlanticus	Psychrilyobacter atlanticus	99.9998
+GCA_000426645.1	Nakamurella lactea	Nakamurella multipartita	Nakamurella lactea	Nakamurella lactea	99.9997
+GCA_000426665.1	Selenomonas artemidis	Selenomonas sp.	Selenomonas artemidis	Selenomonas artemidis	100
+GCA_000426685.1	Solimonas flava	Solimonas sp.	Solimonas flava	Solimonas flava	99.9998
+GCA_000426705.1	Spirochaeta cellobiosiphila	--	Spirochaeta cellobiosiphila	Spirochaeta cellobiosiphila	100
+GCA_000426725.1	Sporocytophaga myxococcoides	--	Sporocytophaga myxococcoides	Sporocytophaga myxococcoides	99.9999
+GCA_000426745.1	Veillonella montpellierensis	--	Veillonella montpellierensis	Veillonella montpellierensis	100
+GCA_000426765.1	Vibrio litoralis	Vibrio rumoiensis	Vibrio litoralis	Vibrio litoralis	100
+GCA_000426825.1	Thermonema rossianum	--	Thermonema rossianum	Thermonema rossianum	99.9998
+GCA_000426885.1	Moraxella caprae	Moraxella bovis	Moraxella caprae	Moraxella caprae	99.9982
+GCA_000427365.1	Rikenella microfusus	Barnesiella viscericola	Rikenella microfusus	Rikenella microfusus	100
+GCA_000427405.1	Flectobacillus major	--	Flectobacillus major	Flectobacillus major	100
+GCA_000427425.1	Caldanaerobius polysaccharolyticus	--	Caldanaerobius polysaccharolyticus	Caldanaerobius polysaccharolyticus	100
+GCA_000427665.1	Geminicoccus roseus	Azospirillum sp.	Geminicoccus roseus	Geminicoccus roseus	100
+GCA_000427785.1	Massilia alkalitolerans	Massilia oculi	Massilia alkalitolerans	Massilia alkalitolerans	100
+GCA_000427805.1	Budvicia aquatica	Pragia sp.	Budvicia aquatica	Budvicia aquatica	99.9989
+GCA_000427825.1	Thermocrispum municipale	Amycolatopsis albispora	Thermocrispum municipale	Thermocrispum municipale	100
+GCA_000427845.1	Acidipropionibacterium acidipropionici	Acidipropionibacterium acidipropionici	Acidipropionibacterium acidipropionici	Acidipropionibacterium acidipropionici	99.9949
+GCA_000427865.1	Corynebacterium sputi	Corynebacterium xerosis	Corynebacterium sputi	Corynebacterium sputi	100
+GCA_000427885.1	Glycomyces tenuis	Stackebrandtia nassauensis	Glycomyces tenuis	Glycomyces tenuis	100
+GCA_000427905.1	Thermocrispum agreste	Amycolatopsis albispora	Thermocrispum agreste	Thermocrispum agreste	100
+GCA_000427965.1	Olivibacter sitiensis	--	Olivibacter sitiensis	Olivibacter sitiensis	99.9999
+GCA_000428045.1	Sedimenticola selenatireducens	Sedimenticola thiotaurini	Sedimenticola selenatireducens	Sedimenticola selenatireducens	100
+GCA_000428065.1	Shimazuella kribbensis	--	Shimazuella kribbensis	Shimazuella kribbensis	99.9991
+GCA_000428085.1	Oenococcus kitaharae	Oenococcus oeni	Oenococcus kitaharae	Oenococcus kitaharae	99.9984
+GCA_000428105.1	Bacteroides pyogenes	Bacteroides caecimuris	Bacteroides pyogenes	Bacteroides pyogenes	99.9997
+GCA_000428125.1	Bacteroides graminisolvens	--	Bacteroides graminisolvens	Bacteroides graminisolvens	99.9982
+GCA_000428145.1	Chitinilyticum litopenaei	Chitinolyticbacter meiyuanensis	Chitinilyticum litopenaei	Chitinilyticum litopenaei	99.9996
+GCA_000428465.1	Chitinimonas koreensis	Chitinimonas sp.	Chitinimonas koreensis	Chitinimonas koreensis	99.9992
+GCA_000428485.1	Chryseobacterium tenax	Chryseobacterium sp.	Chryseobacterium tenax	Chryseobacterium tenax	100
+GCA_000428505.1	Halomonas anticariensis	Halomonas socia	Halomonas anticariensis	Halomonas anticariensis	100
+GCA_000428525.1	Hellea balneolensis	--	Maricaulis salignorans	Hellea balneolensis	100
+GCA_000428565.1	Parabacteroides gordonii	Parabacteroides sp.	Parabacteroides gordonii	Parabacteroides gordonii	100
+GCA_000428585.1	Zooshikella ganghwensis	--	Zooshikella ganghwensis	Zooshikella ganghwensis	100
+GCA_000428645.1	Mycoplasma gallisepticum	Mycoplasma gallisepticum	Mycoplasma gallisepticum	Mycoplasma gallisepticum	100
+GCA_000428665.1	Xylella fastidiosa	Xylella fastidiosa	Xylella fastidiosa	Xylella fastidiosa	99.9961
+GCA_000428685.1	Actinomyces slackii	Actinomyces slackii	Actinomyces slackii	Actinomyces slackii	99.9998
+GCA_000428705.1	Acholeplasma axanthum	Acholeplasma axanthum	Acholeplasma axanthum	Acholeplasma axanthum	99.9978
+GCA_000428725.1	Psychromonas aquimarina	--	Psychromonas aquimarina	Psychromonas aquimarina	100
+GCA_000428745.1	Veillonella magna	--	Veillonella magna	Veillonella magna	100
+GCA_000428765.1	Brevundimonas aveniformis	Brevundimonas vancanneytii	Brevundimonas aveniformis	Brevundimonas aveniformis	99.9984
+GCA_000428785.1	Conchiformibius kuhniae	Neisseria sp.	Conchiformibius kuhniae	Conchiformibius kuhniae	99.9994
+GCA_000428805.1	Corynebacterium freiburgense	--	Corynebacterium freiburgense	Corynebacterium freiburgense	100
+GCA_000428825.1	Desulfomicrobium escambiense	Desulfomicrobium baculatum	Desulfomicrobium escambiense	Desulfomicrobium escambiense	100
+GCA_000428845.1	Dyadobacter alkalitolerans	Dyadobacter fermentans	Dyadobacter alkalitolerans	Dyadobacter alkalitolerans	99.9999
+GCA_000428865.1	Eremococcus coleocola	--	Eremococcus coleocola	Eremococcus coleocola	99.9995
+GCA_000428885.1	Geothrix fermentans	--	Geothrix fermentans	Geothrix fermentans	100
+GCA_000428905.1	Glaciecola pallidula	Glaciecola nitratireducens	Glaciecola pallidula	Glaciecola pallidula	99.9995
+GCA_000428925.1	Lactobacillus rossiae	--	Lactobacillus rossiae	Lactobacillus rossiae	100
+GCA_000428945.1	Hamadaea tsunoensis	Micromonospora sp.	Hamadaea tsunoensis	Hamadaea tsunoensis	100
+GCA_000428965.1	Leptotrichia hofstadii	Leptotrichia hofstadii	Leptotrichia hofstadii	Leptotrichia hofstadii	99.9928
+GCA_000428985.1	Marinobacterium litorale	--	Marinobacterium litorale	Marinobacterium litorale	100
+GCA_000429005.1	Novosphingobium acidiphilum	Novosphingobium sp.	Novosphingobium acidiphilum	Novosphingobium acidiphilum	100
+GCA_000429025.1	Pseudonocardia spinosispora	Pseudonocardia dioxanivorans	Pseudonocardia spinosispora	Pseudonocardia spinosispora	99.9994
+GCA_000429045.1	Salinarimonas rosea	Chelatococcus sp.	Salinarimonas rosea	Salinarimonas rosea	100
+GCA_000429065.1	Silanimonas lenta	Pseudoxanthomonas suwonensis	Silanimonas lenta	Silanimonas lenta	100
+GCA_000429085.1	Streptomyces flavidovirens	Streptomyces lunaelactis	Streptomyces flavidovirens	Streptomyces flavidovirens	100
+GCA_000429105.1	Schaalia suimastitidis	--	Schaalia suimastitidis	Schaalia suimastitidis	100
+GCA_000429125.1	Aequorivita capsosiphonis	Aequorivita sublithincola	Aequorivita capsosiphonis	Aequorivita capsosiphonis	99.9999
+GCA_000429145.1	Aestuariibacter salexigens	--	Aestuariibacter salexigens	Aestuariibacter salexigens	100
+GCA_000429165.1	Acetobacter nitrogenifigens	Gluconacetobacter diazotrophicus	Acetobacter nitrogenifigens	Acetobacter nitrogenifigens	100
+GCA_000429185.1	Actinoalloteichus cyanogriseus	Actinoalloteichus sp.	Actinoalloteichus cyanogriseus	Actinoalloteichus cyanogriseus	99.9992
+GCA_000429205.1	Actinotignum schaalii	Actinotignum schaalii	Actinotignum schaalii	Actinotignum schaalii	99.9996
+GCA_000429225.1	Actinomyces dentalis	Actinomyces sp.	Actinomyces viscosus	Actinomyces dentalis	100
+GCA_000429245.1	Schaalia georgiae	Schaalia meyeri	Actinomyces hongkongensis	Schaalia georgiae	99.9958
+GCA_000429265.1	Actinomyces gerencseriae	Actinomyces sp.	Actinomyces gerencseriae	Actinomyces gerencseriae	100
+GCA_000429285.1	Desulfovibrio gigas	--	Desulfovibrio gigas	Desulfovibrio gigas	99.9997
+GCA_000429305.1	Desulfovibrio inopinatus	--	Desulfovibrio inopinatus	Desulfovibrio inopinatus	99.9989
+GCA_000429325.1	Desulfovibrio putealis	Desulfovibrio magneticus	Desulfovibrio putealis	Desulfovibrio putealis	100
+GCA_000429345.1	Desulfovirgula thermocuniculi	--	Desulfovirgula thermocuniculi	Desulfovirgula thermocuniculi	99.999
+GCA_000429365.1	Pseudodonghicola xiamenensis	Pelagibaca abyssi	Pseudodonghicola xiamenensis	Pseudodonghicola xiamenensis	100
+GCA_000429385.1	Alcaligenes faecalis	Alcaligenes faecalis	Alcaligenes faecalis	Alcaligenes faecalis	100
+GCA_000429405.1	Algoriphagus marincola	--	Algoriphagus formosus	Algoriphagus marincola	99.999
+GCA_000429425.1	Algoriphagus mannitolivorans	Algoriphagus sanaruensis	Algoriphagus mannitolivorans	Algoriphagus mannitolivorans	100
+GCA_000429445.1	Algoriphagus terrigena	--	Algoriphagus terrigena	Algoriphagus terrigena	100
+GCA_000429465.1	Algoriphagus vanfongensis	--	--	Algoriphagus vanfongensis	100
+GCA_000429485.1	Aliagarivorans marinus	--	Aliagarivorans marinus	Aliagarivorans marinus	100
+GCA_000429505.1	Aliagarivorans taiwanensis	--	Aliagarivorans taiwanensis	Aliagarivorans taiwanensis	100
+GCA_000429525.1	Alicyclobacillus contaminans	--	Alicyclobacillus contaminans	Alicyclobacillus contaminans	99.9998
+GCA_000429545.1	Arenibacter certesii	--	Arenibacter certesii	Arenibacter certesii	99.9997
+GCA_000429565.1	Arsenophonus nasoniae	Arsenophonus nasoniae	Arsenophonus nasoniae	Arsenophonus nasoniae	99.9992
+GCA_000429585.1	Atopococcus tabaci	--	Atopococcus tabaci	Atopococcus tabaci	100
+GCA_000429605.1	Azonexus hydrophilus	Dechloromonas aromatica	Azonexus hydrophilus	Azonexus hydrophilus	100
+GCA_000429625.1	Azospirillum halopraeferens	Azospirillum sp.	Azospirillum halopraeferens	Azospirillum halopraeferens	99.999
+GCA_000429645.1	Niveispirillum irakense	Niveispirillum cyanobacteriorum	Niveispirillum irakense	Niveispirillum irakense	99.9967
+GCA_000429665.1	Azovibrio restrictus	Azospira oryzae	Azovibrio restrictus	Azovibrio restrictus	99.9989
+GCA_000429685.1	Bacillus aidingensis	--	Bacillus aidingensis	Bacillus aidingensis	100
+GCA_000429705.1	Bacillus aurantiacus	--	Bacillus aurantiacus	Bacillus aurantiacus	100
+GCA_000429725.1	Bacillus chagannorensis	--	Bacillus chagannorensis	Bacillus chagannorensis	100
+GCA_000429745.1	Bifidobacterium tsurumiense	--	Bifidobacterium tsurumiense	Bifidobacterium tsurumiense	100
+GCA_000429765.1	Gemmobacter nectariphilus	Rhodobacter blasticus	Gemmobacter nectariphilus	Gemmobacter nectariphilus	99.9996
+GCA_000429785.1	Chitinibacter tainanensis	--	Chitinibacter tainanensis	Chitinibacter tainanensis	100
+GCA_000429805.1	Clostridium tyrobutyricum	Clostridium tyrobutyricum	Clostridium tyrobutyricum	Clostridium tyrobutyricum	100
+GCA_000429825.1	Cohnella thermotolerans	Paenibacillus sp.	Cohnella thermotolerans	Cohnella thermotolerans	100
+GCA_000429845.1	Comamonas composti	Delftia tsuruhatensis	Comamonas composti	Comamonas composti	100
+GCA_000429865.1	Cucumibacter marinus	--	Cucumibacter marinus	Cucumibacter marinus	100
+GCA_000429885.1	Dermatophilus congolensis	Dermatophilus congolensis	Dermatophilus congolensis	Dermatophilus congolensis	100
+GCA_000429905.1	Desulfatibacillum aliphaticivorans	Desulfatibacillum aliphaticivorans	Desulfatibacillum aliphaticivorans	Desulfatibacillum aliphaticivorans	100
+GCA_000429925.1	Desulfatirhabdium butyrativorans	--	Desulfatirhabdium butyrativorans	Desulfatirhabdium butyrativorans	99.9987
+GCA_000429945.1	Desulfobulbus japonicus	--	Desulfobulbus japonicus	Desulfobulbus japonicus	99.9985
+GCA_000429965.1	Desulfobulbus mediterraneus	--	Desulfobulbus mediterraneus	Desulfobulbus mediterraneus	99.998
+GCA_000429985.1	Desulfovibrio bastinii	--	Desulfovibrio bastinii	Desulfovibrio bastinii	100
+GCA_000430005.1	Desulfovibrio cuneatus	--	Desulfovibrio cuneatus	Desulfovibrio cuneatus	99.998
+GCA_000430025.1	Flavobacterium suncheonense	--	Flavobacterium suncheonense	Flavobacterium suncheonense	99.9981
+GCA_000430045.1	Meiothermus chliarophilus	Meiothermus silvanus	Meiothermus chliarophilus	Meiothermus chliarophilus	99.9999
+GCA_000430505.1	Eisenibacter elegans	--	Eisenibacter elegans	Eisenibacter elegans	99.9985
+GCA_000430525.1	Prevotella corporis	Prevotella intermedia	Prevotella corporis	Prevotella corporis	99.9965
+GCA_000430545.1	Tenacibaculum ovolyticum	Tenacibaculum dicentrarchi	Tenacibaculum ovolyticum	Tenacibaculum ovolyticum	100
+GCA_000430565.1	Prevotella timonensis	Prevotella intermedia	Prevotella timonensis	Prevotella timonensis	100
+GCA_000430585.1	Alicyclobacillus herbarius	--	Alicyclobacillus herbarius	Alicyclobacillus herbarius	99.9999
+GCA_000430605.1	Anaeroarcus burkinensis	--	Anaeroarcus burkinensis	Anaeroarcus burkinensis	100
+GCA_000430625.1	Aneurinibacillus terranovensis	--	Aneurinibacillus terranovensis	Aneurinibacillus terranovensis	99.9985
+GCA_000430645.1	Aquimarina latercula	Aquimarina sp.	Aquimarina latercula	Aquimarina latercula	100
+GCA_000430665.1	Aquimarina muelleri	Aquimarina sp.	Aquimarina muelleri	Aquimarina muelleri	100
+GCA_000430685.1	Tuberibacillus calidus	--	Tuberibacillus calidus	Tuberibacillus calidus	99.9987
+GCA_000430705.1	Arthrobacter castelli	Arthrobacter sp.	Arthrobacter castelli	Arthrobacter castelli	99.9999
+GCA_000430725.1	Azohydromonas australica	Leptothrix cholodnii	Azohydromonas australica	Azohydromonas australica	99.9959
+GCA_000430745.1	Fictibacillus gelatini	--	Fictibacillus gelatini	Fictibacillus gelatini	100
+GCA_000430765.1	Bacillus kribbensis	--	Bacillus kribbensis	Bacillus kribbensis	99.9997
+GCA_000430785.1	Bacillus panaciterrae	--	Bacillus panaciterrae	Bacillus panaciterrae	99.999
+GCA_000430805.1	Chitinilyticum aquatile	Chitinolyticbacter meiyuanensis	Chitinilyticum aquatile	Chitinilyticum aquatile	100
+GCA_000430825.1	Chryseobacterium daeguense	Chryseobacterium sp.	Chryseobacterium daeguense	Chryseobacterium daeguense	100
+GCA_000430845.1	Chryseobacterium gregarium	Chryseobacterium sp.	Chryseobacterium gregarium	Chryseobacterium gregarium	99.9988
+GCA_000430865.1	Deinococcus ficus	Deinococcus ficus	Deinococcus ficus	Deinococcus ficus	100
+GCA_000430885.1	Desulfallas alcoholivorax	--	Desulfallas alcoholivorax	Desulfallas alcoholivorax	99.9981
+GCA_000438845.1	Clostridioides difficile	Clostridioides difficile	Clostridioides difficile	Peptoclostridium difficile	100
+GCA_000439065.1	Prevotella intermedia	Prevotella intermedia	Prevotella intermedia	Prevotella intermedia	99.9999
+GCA_000439085.1	Leminorella grimontii	Leminorella richardii	Leminorella grimontii	Leminorella grimontii	100
+GCA_000439105.1	Terrisporobacter glycolicus	Romboutsia sp.	Terrisporobacter glycolicus	Terrisporobacter glycolicus	100
+GCA_000439125.1	Blautia producta	Blautia producta	Blautia producta	Blautia producta	99.9993
+GCA_000472405.1	Cutibacterium acnes	Cutibacterium acnes	Cutibacterium acnes	Cutibacterium acnes	100
+GCA_000472485.1	Pontibacter actiniarum	Pontibacter actiniarum	Pontibacter actiniarum	Pontibacter actiniarum	100
+GCA_000472905.1	Alicyclobacillus pomorum	--	Alicyclobacillus pomorum	Alicyclobacillus pomorum	100
+GCA_000473365.1	Adhaeribacter aquaticus	--	Adhaeribacter aquaticus	Adhaeribacter aquaticus	100
+GCA_000474945.1	Solimonas soli	Solimonas sp.	Solimonas soli	Solimonas soli	100
+GCA_000482365.1	Porphyromonas uenonis	Porphyromonas asaccharolytica	Porphyromonas asaccharolytica	Porphyromonas uenonis	99.9951
+GCA_000482445.1	Xanthomonas oryzae	Xanthomonas oryzae	Xanthomonas oryzae	Xanthomonas oryzae	99.9988
+GCA_000482465.1	Runella limosa	Runella sp.	Runella limosa	Runella limosa	99.9985
+GCA_000482485.1	Paucisalibacillus globulus	--	Paucisalibacillus globulus	Paucisalibacillus globulus	100
+GCA_000482505.1	Leptotrichia trevisanii	Leptotrichia trevisanii	Leptotrichia hofstadii	Leptotrichia trevisanii	99.9968
+GCA_000482705.1	Glycomyces arizonensis	Micromonospora sp.	Glycomyces arizonensis	Glycomyces arizonensis	99.9997
+GCA_000482725.1	Psychromonas arctica	Vibrio alginolyticus	Psychromonas arctica	Psychromonas arctica	99.999
+GCA_000482745.1	Desulfovibrio alaskensis	Desulfovibrio alaskensis	Desulfovibrio alaskensis	Desulfovibrio alaskensis	99.9995
+GCA_000482765.1	Meiothermus taiwanensis	Meiothermus ruber	Meiothermus ruber	Meiothermus taiwanensis	99.9985
+GCA_000482785.1	Derxia gummosa	Leptothrix cholodnii	Derxia gummosa	Derxia gummosa	99.9993
+GCA_000482805.1	Deinococcus murrayi	Deinococcus sp.	Deinococcus murrayi	Deinococcus murrayi	99.9991
+GCA_000482825.1	Thermodesulfovibrio islandicus	Thermodesulfovibrio yellowstonii	Thermodesulfovibrio yellowstonii	Thermodesulfovibrio islandicus	100
+GCA_000482845.1	Anaerobiospirillum succiniciproducens	--	Anaerobiospirillum succiniciproducens	Anaerobiospirillum succiniciproducens	99.9985
+GCA_000482865.1	Actinokineospora inagensis	Alloactinosynnema sp.	Actinokineospora inagensis	Actinokineospora inagensis	100
+GCA_000483125.1	Atopobium fossor	--	Atopobium fossor	Atopobium fossor	100
+GCA_000483165.1	Acholeplasma multilocale	Mesoplasma syrphidae	Acholeplasma multilocale	Acholeplasma multilocale	100
+GCA_000484635.1	Comamonas badia	Comamonas sp.	Comamonas badia	Comamonas badia	100
+GCA_000484655.1	Blautia wexlerae	Blautia sp.	Blautia massiliensis	Blautia wexlerae	100
+GCA_000484675.1	Bifidobacterium choerinum	Bifidobacterium choerinum	Bifidobacterium choerinum	Bifidobacterium choerinum	100
+GCA_000485555.1	Mycoplasma salivarium	Mycoplasma hyosynoviae	Mycoplasma salivarium	Mycoplasma salivarium	100
+GCA_000504285.1	Actinospica robiniae	Catenulispora acidiphila	Actinospica robiniae	Actinospica robiniae	100
+GCA_000510645.1	Thermicanus aegyptius	--	Thermicanus aegyptius	Thermicanus aegyptius	100
+GCA_000510805.1	Ignatzschineria larvae	--	Ignatzschineria larvae	Ignatzschineria larvae	99.9976
+GCA_000512735.1	Thermocrinis ruber	Thermocrinis ruber	Thermocrinis ruber	Thermocrinis ruber	100
+GCA_000512915.1	Barnesiella viscericola	Barnesiella viscericola	Barnesiella viscericola	Barnesiella viscericola	100
+GCA_000515255.1	Rhodovibrio salinarum	--	Rhodovibrio salinarum	Rhodovibrio salinarum	100
+GCA_000515355.1	Promicromonospora kroppenstedtii	Isoptericola variabilis	Promicromonospora kroppenstedtii	Promicromonospora kroppenstedtii	99.9996
+GCA_000515395.1	Jiangella gansuensis	Kribbella flavida	Jiangella gansuensis	Jiangella gansuensis	100
+GCA_000516535.1	Leptotrichia goodfellowii	Leptotrichia goodfellowii	Leptotrichia goodfellowii	Leptotrichia goodfellowii	100
+GCA_000517025.1	Halonatronum saccharophilum	--	Halonatronum saccharophilum	Halonatronum saccharophilum	99.9999
+GCA_000517065.1	Alkaliflexus imshenetskii	--	Alkaliflexus imshenetskii	Alkaliflexus imshenetskii	100
+GCA_000517085.1	Saccharicrinis fermentans	--	Saccharicrinis fermentans	Saccharicrinis fermentans	100
+GCA_000517565.1	Desulfurella acetivorans	--	Desulfurella multipotens	Desulfurella acetivorans	100
+GCA_000518085.1	Bartonella grahamii	Bartonella grahamii	--	Bartonella grahamii	99.9982
+GCA_000518105.1	Bartonella vinsonii	Bartonella vinsonii	Bartonella vinsonii	Bartonella vinsonii	100
+GCA_000518125.1	Borrelia coriaceae	Borrelia turicatae	Borrelia coriaceae	Borrelia coriaceae	99.9873
+GCA_000518145.1	Vibrio albensis	Vibrio cholerae	Vibrio cholerae	Vibrio albensis	99.9991
+GCA_000518165.1	Bartonella elizabethae	Bartonella elizabethae	Bartonella elizabethae	Bartonella elizabethae	99.9999
+GCA_000518185.1	Bartonella clarridgeiae	Bartonella clarridgeiae	Bartonella clarridgeiae	Bartonella clarridgeiae	99.9975
+GCA_000518205.1	Facklamia sourekii	--	Facklamia sourekii	Facklamia sourekii	99.9999
+GCA_000518225.1	Helicobacter pametensis	Helicobacter sp.	Helicobacter pametensis	Helicobacter pametensis	99.998
+GCA_000518245.1	Brachyspira alvinipulli	Brachyspira intermedia	Brachyspira alvinipulli	Brachyspira alvinipulli	99.9913
+GCA_000518265.1	Actinomadura oligospora	Actinomadura sp.	Actinomadura oligospora	Actinomadura oligospora	100
+GCA_000518285.1	Entomoplasma lucivorax	Entomoplasma luminosum	Entomoplasma lucivorax	Entomoplasma lucivorax	100
+GCA_000518305.1	Mycoplasma imitans	Mycoplasma gallisepticum	Mycoplasma imitans	Mycoplasma imitans	99.9989
+GCA_000518545.1	Hallella seregens	Prevotella dentalis	Prevotella dentalis	Hallella seregens	100
+GCA_000518565.1	Thermoanaerobacter thermocopriae	Thermoanaerobacter mathranii	Thermoanaerobacter mathranii	Thermoanaerobacter thermocopriae	99.9968
+GCA_000518585.1	Agrobacterium larrymoorei	Agrobacterium larrymoorei	Agrobacterium larrymoorei	Rhizobium larrymoorei	100
+GCA_000518605.1	Shewanella fidelis	Shewanella pealeana	Shewanella fidelis	Shewanella fidelis	99.9998
+GCA_000518625.1	Roseomonas gilardii	Roseomonas gilardii	Roseomonas gilardii	Roseomonas gilardii	100
+GCA_000518645.1	Curvibacter gracilis	Delftia tsuruhatensis	Curvibacter gracilis	Curvibacter gracilis	99.9998
+GCA_000518665.1	Microvirga flocculans	Microvirga ossetica	Microvirga flocculans	Microvirga flocculans	100
+GCA_000518685.1	Eubacterium xylanophilum	--	Eubacterium xylanophilum	Eubacterium xylanophilum	100
+GCA_000518705.1	Shewanella colwelliana	Shewanella marisflavi	Shewanella colwelliana	Shewanella colwelliana	100
+GCA_000518725.1	Mesoplasma seiffertii	Mesoplasma syrphidae	Mesoplasma seiffertii	Mesoplasma seiffertii	100
+GCA_000518745.1	Phaseolibacter flectens	--	Phaseolibacter flectens	Phaseolibacter flectens	100
+GCA_000518765.1	Ruminococcus flavefaciens	--	Ruminococcus flavefaciens	Ruminococcus flavefaciens	99.9989
+GCA_000518785.1	Rhizobium selenitireducens	Rhizobium sp.	Rhizobium selenitireducens	Rhizobium selenitireducens	99.9999
+GCA_000518805.1	Shewanella waksmanii	Shewanella pealeana	Shewanella waksmanii	Shewanella waksmanii	100
+GCA_000518825.1	Mesoplasma chauliocola	Mesoplasma chauliocola	Mesoplasma chauliocola	Mesoplasma chauliocola	99.9894
+GCA_000519105.1	Butyricimonas virosa	Butyricimonas faecalis	Butyricimonas faecalis	Butyricimonas virosa	100
+GCA_000519125.1	Desulfocurvus vexinensis	Pseudodesulfovibrio aespoeensis	Desulfocurvus vexinensis	Desulfocurvus vexinensis	99.9987
+GCA_000519185.1	Paraburkholderia nodosa	Paraburkholderia sp.	Paraburkholderia nodosa	Paraburkholderia nodosa	99.9999
+GCA_000519205.1	Amycolatopsis taiwanensis	Amycolatopsis methanolica	Amycolatopsis taiwanensis	Amycolatopsis taiwanensis	100
+GCA_000519265.1	Desulfonatronum lacustre	--	Desulfonatronum lacustre	Desulfonatronum lacustre	100
+GCA_000519285.1	Thermacetogenium phaeum	Thermacetogenium phaeum	Thermacetogenium phaeum	Thermacetogenium phaeum	99.9947
+GCA_000519325.1	Patulibacter minatonensis	Baekduia soli	Patulibacter minatonensis	Patulibacter minatonensis	100
+GCA_000519345.1	Deinococcus pimensis	Deinococcus maricopensis	Deinococcus pimensis	Deinococcus pimensis	99.9996
+GCA_000526235.1	Acholeplasma granularum	Acholeplasma laidlawii	Acholeplasma granularum	Acholeplasma granularum	100
+GCA_000526375.1	Aminiphilus circumscriptus	--	Aminiphilus circumscriptus	Aminiphilus circumscriptus	100
+GCA_000526395.1	Aminobacterium mobile	Aminobacterium colombiense	Aminobacterium mobile	Aminobacterium mobile	100
+GCA_000526435.1	Caldicoprobacter oshimai	--	Caldicoprobacter oshimai	Caldicoprobacter oshimai	100
+GCA_000526675.1	Atopobacter phocae	--	Atopobacter phocae	Atopobacter phocae	100
+GCA_000526695.1	Carnimonas nigrificans	--	Carnimonas nigrificans	Carnimonas nigrificans	100
+GCA_000526835.1	Entomoplasma somnilux	Entomoplasma somnilux	Entomoplasma somnilux	Entomoplasma somnilux	100
+GCA_000526855.1	Entomoplasma luminosum	Entomoplasma luminosum	Entomoplasma luminosum	Entomoplasma luminosum	100
+GCA_000526875.1	Leptospira licerasiae	--	Leptospira licerasiae	Leptospira licerasiae	100
+GCA_000526895.1	Bartonella doshiae	Bartonella grahamii	Bartonella doshiae	Bartonella doshiae	100
+GCA_000526915.1	Mycobacterium genavense	Mycobacterium florentinum	Mycobacterium triplex	Mycobacterium genavense	100
+GCA_000526955.1	Mycoplasma cricetuli	Mycoplasma columborale	Mycoplasma cricetuli	Mycoplasma cricetuli	100
+GCA_000527155.1	Haloglycomyces albus	--	Haloglycomyces albus	Haloglycomyces albus	100
+GCA_000585335.1	Cloacibacillus evryensis	Cloacibacillus porcorum	Cloacibacillus evryensis	Cloacibacillus evryensis	100
+GCA_000585375.1	Cryptosporangium arvum	Actinoplanes sp.	Cryptosporangium arvum	Cryptosporangium arvum	100
+GCA_000585415.1	Sphingomonas jaspsi	Sphingomonas sp.	Sphingomonas jaspsi	Sphingomonas jaspsi	100
+GCA_000597725.1	Sulfurospirillum arcachonense	--	Sulfurospirillum arcachonense	Sulfurospirillum arcachonense	100
+GCA_000619805.1	Sulfurihydrogenibium subterraneum	Sulfurihydrogenibium azorense	Sulfurihydrogenibium subterraneum	Sulfurihydrogenibium subterraneum	99.9995
+GCA_000619845.1	Alkanindiges illinoisensis	--	Alkanindiges illinoisensis	Alkanindiges illinoisensis	100
+GCA_000619885.1	Balneatrix alpica	--	Balneatrix alpica	Balneatrix alpica	99.9986
+GCA_000620005.1	Mycoplasma spumans	Mycoplasma maculosum	Mycoplasma spumans	Mycoplasma spumans	99.9911
+GCA_000620025.1	Zymobacter palmae	Zymobacter palmae	Zymobacter palmae	Zymobacter palmae	99.9999
+GCA_000620045.1	Halomonas halodenitrificans	Halomonas sp.	Halomonas halodenitrificans	Halomonas halodenitrificans	100
+GCA_000620065.1	Meiothermus cerbereus	Meiothermus ruber	Meiothermus cerbereus	Meiothermus cerbereus	99.999
+GCA_000620085.1	Marinobacterium jannaschii	--	Marinobacterium jannaschii	Marinobacterium jannaschii	100
+GCA_000620105.1	Microvirgula aerodenitrificans	Laribacter hongkongensis	Microvirgula aerodenitrificans	Microvirgula aerodenitrificans	100
+GCA_000620125.1	Clostridiisalibacter paucivorans	--	Clostridiisalibacter paucivorans	Clostridiisalibacter paucivorans	99.9984
+GCA_000620145.1	Deefgea rivuli	--	Deefgea rivuli	Deefgea rivuli	100
+GCA_000620305.1	Desulfitibacter alkalitolerans	Thermoclostridium stercorarium	Desulfitibacter alkalitolerans	Desulfitibacter alkalitolerans	99.9939
+GCA_000620765.1	Desulfovermiculus halophilus	--	Desulfovermiculus halophilus	Desulfovermiculus halophilus	100
+GCA_000620785.1	Pseudonocardia acaciae	Kutzneria albida	Pseudonocardia acaciae	Pseudonocardia acaciae	100
+GCA_000620925.1	Conchiformibius steedae	Kingella kingae	Conchiformibius steedae	Conchiformibius steedae	100
+GCA_000620945.1	Clostridium viride	Syntrophobotulus glycolicus	Clostridium viride	Clostridium viride	100
+GCA_000620965.1	Campylobacter upsaliensis	Campylobacter upsaliensis	Campylobacter upsaliensis	Campylobacter upsaliensis	100
+GCA_000620985.1	Brochothrix thermosphacta	Brochothrix thermosphacta	Brochothrix thermosphacta	Brochothrix thermosphacta	99.9999
+GCA_000621005.1	Campylobacter cuniculorum	Campylobacter cuniculorum	Campylobacter cuniculorum	Campylobacter cuniculorum	100
+GCA_000621025.1	Brackiella oedipodis	--	Brackiella oedipodis	Brackiella oedipodis	99.998
+GCA_000621045.1	Acinetobacter baylyi	Acinetobacter baylyi	Acinetobacter baylyi	Acinetobacter baylyi	100
+GCA_000621065.1	Acinetobacter tandoii	Acinetobacter sp.	Acinetobacter tandoii	Acinetobacter tandoii	100
+GCA_000621085.1	Mycoplasma gallinarum	Mycoplasma gallinaceum	Mycoplasma gallinarum	Mycoplasma gallinarum	100
+GCA_000621105.1	Mannheimia granulomatis	Mannheimia granulomatis	Mannheimia granulomatis	Mannheimia granulomatis	100
+GCA_000621125.1	Maribacter antarcticus	--	Maribacter antarcticus	Maribacter antarcticus	99.9994
+GCA_000621145.1	Desulfobulbus elongatus	--	Desulfobulbus elongatus	Desulfobulbus elongatus	100
+GCA_000621165.1	Enterovibrio calviensis	Grimontia hollisae	Enterovibrio calviensis	Enterovibrio calviensis	99.9997
+GCA_000621185.1	Franconibacter pulveris	Cronobacter dublinensis	Franconibacter pulveris	Franconibacter pulveris	99.998
+GCA_000621205.1	Halotalea alkalilenta	Halotalea alkalilenta	Halotalea alkalilenta	Halotalea alkalilenta	99.9996
+GCA_000621225.1	Pseudomonas mosselii	Pseudomonas putida	Pseudomonas entomophila	Pseudomonas mosselii	99.9997
+GCA_000621245.1	Pseudomonas monteilii	Pseudomonas sp.	Pseudomonas putida	Pseudomonas monteilii	100
+GCA_000621265.1	Pseudomonas fulva	Pseudomonas fulva	Pseudomonas fulva	Pseudomonas fulva	99.9979
+GCA_000621285.1	Ruminococcus albus	Ruminococcus albus	Ruminococcus albus	Ruminococcus albus	99.9982
+GCA_000621305.1	Thauera linaloolentis	Thauera humireducens	Thauera linaloolentis	Thauera linaloolentis	100
+GCA_000621325.1	Thiothrix lacustris	--	Thiothrix lacustris	Thiothrix lacustris	99.9995
+GCA_000621345.1	Pseudothermotoga elfii	Pseudothermotoga elfii	Pseudothermotoga elfii	Pseudothermotoga elfii	99.9985
+GCA_000621365.1	Legionella geestiana	Legionella geestiana	Legionella geestiana	Legionella geestiana	99.9988
+GCA_000621385.1	Legionella cherrii	Legionella cherrii	Legionella cherrii	Legionella cherrii	100
+GCA_000621445.1	Bacillus bogoriensis	--	Bacillus bogoriensis	Bacillus bogoriensis	100
+GCA_000621485.1	Alkaliphilus transvaalensis	--	Alkaliphilus transvaalensis	Alkaliphilus transvaalensis	100
+GCA_000621505.1	Ruminiclostridium cellobioparum	--	Ruminiclostridium cellobioparum	Ruminiclostridium cellobioparum	99.9982
+GCA_000621525.1	Legionella fairfieldensis	Legionella spiritensis	Legionella fairfieldensis	Legionella fairfieldensis	99.9974
+GCA_000621625.1	Crocinitomix catalasitica	--	Crocinitomix catalasitica	Crocinitomix catalasitica	99.9989
+GCA_000621645.1	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	99.9995
+GCA_000621665.1	Rhizobium undicola	Agrobacterium vitis	Rhizobium undicola	Rhizobium undicola	100
+GCA_000621685.1	Legionella sainthelensi	Legionella sainthelensi	Legionella sainthelensi	Legionella sainthelensi	100
+GCA_000621705.1	Prolixibacter bellariivorans	--	Prolixibacter bellariivorans	Prolixibacter bellariivorans	100
+GCA_000621725.1	Prevotella brevis	Prevotella ruminicola	Prevotella ruminicola	Prevotella brevis	99.9998
+GCA_000622145.1	Paracoccus yeei	Paracoccus yeei	Paracoccus mutanolyticus	Paracoccus yeei	99.9996
+GCA_000622165.1	Mycoplasma molare	Mycoplasma neurolyticum	Mycoplasma molare	Mycoplasma molare	99.9911
+GCA_000622185.1	Legionella lansingensis	Legionella lansingensis	Legionella lansingensis	Legionella lansingensis	100
+GCA_000622205.1	Mycoplasma leonicaptivi	Mycoplasma felis	Mycoplasma leonicaptivi	Mycoplasma leonicaptivi	99.996
+GCA_000622225.1	Roseomonas mucosa	Roseomonas mucosa	Roseomonas mucosa	Roseomonas mucosa	99.9997
+GCA_000685805.1	Psychrobacter phenylpyruvicus	Psychrobacter sp.	Psychrobacter phenylpyruvicus	Psychrobacter phenylpyruvicus	100
+GCA_000685885.1	Entomoplasma melaleucae	Entomoplasma melaleucae	Entomoplasma melaleucae	Entomoplasma melaleucae	100
+GCA_000685905.1	Mycoplasma pirum	--	Mycoplasma pirum	Mycoplasma pirum	100
+GCA_000685985.1	Deinococcus radiodurans	Deinococcus radiodurans	Deinococcus radiodurans	Deinococcus radiodurans	100
+GCA_000686045.1	Fodinicurvata fenggangensis	--	Fodinicurvata fenggangensis	Fodinicurvata fenggangensis	100
+GCA_000686525.1	Desulfonatronovibrio hydrogenovorans	--	Desulfonatronovibrio hydrogenovorans	Desulfonatronovibrio hydrogenovorans	100
+GCA_000686545.1	Mesoplasma syrphidae	Mesoplasma syrphidae	Mesoplasma syrphidae	Mesoplasma syrphidae	99.9994
+GCA_000686565.1	Helicobacter bilis	Helicobacter bilis	Helicobacter bilis	Helicobacter bilis	100
+GCA_000686585.1	Mycoplasma lipofaciens	Mycoplasma fermentans	Mycoplasma lipofaciens	Mycoplasma lipofaciens	99.9989
+GCA_000686605.1	Streptococcus sobrinus	Streptococcus sobrinus	Streptococcus sobrinus	Streptococcus sobrinus	100
+GCA_000686625.1	Sphingobacterium thalpophilum	Sphingobacterium thalpophilum	Sphingobacterium thalpophilum	Sphingobacterium thalpophilum	99.9998
+GCA_000686645.1	Desulfofundulus thermocisternus	--	Desulfofundulus thermocisternus	Desulfofundulus thermocisternus	99.9983
+GCA_000686665.1	Clostridium saccharogumia	Erysipelotrichaceae bacterium	Clostridium saccharogumia	Clostridium saccharogumia	99.9998
+GCA_000686705.1	Clostridium hydrogeniformans	--	Clostridium hydrogeniformans	Clostridium hydrogeniformans	100
+GCA_000686725.1	Clostridium akagii	--	Clostridium akagii	Clostridium akagii	99.9991
+GCA_000686885.1	Flavobacterium sasangense	Flavobacterium haoranii	Flavobacterium sasangense	Flavobacterium sasangense	100
+GCA_000686905.1	Marinospirillum insulare	--	Marinospirillum insulare	Marinospirillum insulare	99.9986
+GCA_000687165.1	Acidovorax oryzae	Acidovorax avenae	Acidovorax oryzae	Acidovorax oryzae	100
+GCA_000687535.1	Helicobacter rodentium	Helicobacter apodemus	Helicobacter rodentium	Helicobacter rodentium	100
+GCA_000687735.1	Acholeplasma equifetale	Acholeplasma hippikon	Acholeplasma equifetale	Acholeplasma equifetale	100
+GCA_000687755.1	Taylorella asinigenitalis	Taylorella asinigenitalis	Taylorella asinigenitalis	Taylorella asinigenitalis	100
+GCA_000687775.1	Mycoplasma felifaucium	Mycoplasma maculosum	Mycoplasma felifaucium	Mycoplasma felifaucium	100
+GCA_000687795.1	Mycoplasma testudinis	--	Mycoplasma testudinis	Mycoplasma testudinis	100
+GCA_000687815.1	Mycoplasma elephantis	Mycoplasma californicum	Mycoplasma elephantis	Mycoplasma elephantis	100
+GCA_000687835.1	Acholeplasma modicum	--	Acholeplasma modicum	Acholeplasma modicum	100
+GCA_000687855.1	Mycoplasma glycophilum	Mycoplasma glycophilum	Mycoplasma glycophilum	Mycoplasma glycophilum	100
+GCA_000687875.1	Acidocella facilis	Acidiphilium multivorum	Acidocella facilis	Acidocella facilis	100
+GCA_000688235.1	Terasakiella pusilla	Terasakiella sp.	Terasakiella pusilla	Terasakiella pusilla	100
+GCA_000688255.1	Simplicispira psychrophila	Acidovorax sp.	Simplicispira psychrophila	Simplicispira psychrophila	100
+GCA_000688275.1	Pseudomonas plecoglossicida	Pseudomonas plecoglossicida	Pseudomonas putida	Pseudomonas plecoglossicida	100
+GCA_000688295.1	Pseudooceanicola nanhaiensis	Roseivivax sp.	Pseudooceanicola nanhaiensis	Pseudooceanicola nanhaiensis	100
+GCA_000688395.1	Haematomicrobium sanguinis	Micrococcus luteus	Haematomicrobium sanguinis	Haematomicrobium sanguinis	100
+GCA_000688415.1	Corynebacterium pseudodiphtheriticum	--	Corynebacterium pseudodiphtheriticum	Corynebacterium pseudodiphtheriticum	100
+GCA_000688435.1	Corynebacterium halotolerans	Corynebacterium halotolerans	Corynebacterium halotolerans	Corynebacterium halotolerans	100
+GCA_000688495.1	Acinetobacter towneri	Acinetobacter towneri	Acinetobacter towneri	Acinetobacter towneri	100
+GCA_000688515.1	Afifella pfennigii	Stappia indica	Afifella pfennigii	Afifella pfennigii	100
+GCA_000690815.1	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	100
+GCA_000701265.1	Legionella wadsworthii	Legionella cherrii	Legionella wadsworthii	Legionella wadsworthii	99.9989
+GCA_000701405.1	Deinococcus marmoris	Deinococcus sp.	Deinococcus swuensis	Deinococcus marmoris	99.9961
+GCA_000701425.1	Deinococcus frigens	Deinococcus sp.	Deinococcus swuensis	Deinococcus frigens	100
+GCA_000701445.1	Brevundimonas bacteroides	Brevundimonas subvibrioides	Brevundimonas bacteroides	Brevundimonas bacteroides	100
+GCA_000701465.1	Paraoerskovia marina	Cellulosimicrobium cellulans	Paraoerskovia marina	Paraoerskovia marina	100
+GCA_000701485.1	Mycoplasma sturni	Mycoplasma columborale	Mycoplasma sturni	Mycoplasma sturni	100
+GCA_000701505.1	Dyadobacter crusticola	--	Dyadobacter crusticola	Dyadobacter crusticola	100
+GCA_000701525.1	Mesoplasma grammopterae	Mesoplasma florum	Mesoplasma florum	Mesoplasma grammopterae	99.9963
+GCA_000701585.1	Acidiphilium angustum	Acidiphilium multivorum	Acidiphilium rubrum	Acidiphilium angustum	100
+GCA_000701665.1	Agathobaculum desmolans	--	Agathobaculum desmolans	Agathobaculum desmolans	99.9993
+GCA_000701685.1	Gemella sanguinis	Gemella sanguinis	Gemella sanguinis	Gemella sanguinis	99.9997
+GCA_000701705.1	Bilophila wadsworthia	--	Bilophila wadsworthia	Bilophila wadsworthia	99.9992
+GCA_000701745.1	Campylobacter jejuni	Campylobacter jejuni	Campylobacter jejuni	Campylobacter jejuni	99.9988
+GCA_000701785.1	Mycoplasma alvi	--	Mycoplasma alvi	Mycoplasma alvi	100
+GCA_000701805.1	Mycoplasma iners	Mycoplasma columbinum	Mycoplasma iners	Mycoplasma iners	99.9992
+GCA_000701825.1	Mycoplasma collis	Mycoplasma neurolyticum	Mycoplasma collis	Mycoplasma collis	99.9999
+GCA_000701845.1	Mycoplasma columborale	Mycoplasma columborale	Mycoplasma columborale	Mycoplasma columborale	100
+GCA_000701865.1	Mycoplasma felis	Mycoplasma felis	Mycoplasma felis	Mycoplasma felis	99.9983
+GCA_000702665.1	Desulfovibrio alcoholivorans	Desulfovibrio magneticus	Desulfovibrio alcoholivorans	Desulfovibrio alcoholivorans	100
+GCA_000702705.1	Mycoplasma simbae	Mycoplasma bovigenitalium	Mycoplasma simbae	Mycoplasma simbae	100
+GCA_000702725.1	Mesoplasma photuris	Mesoplasma syrphidae	Mesoplasma photuris	Mesoplasma photuris	100
+GCA_000702745.1	Mycoplasma cloacale	Mycoplasma cloacale	Mycoplasma cloacale	Mycoplasma cloacale	100
+GCA_000702765.1	Acholeplasma hippikon	Acholeplasma hippikon	Acholeplasma hippikon	Acholeplasma hippikon	100
+GCA_000702785.1	Mycoplasma primatum	Mycoplasma agalactiae	Mycoplasma primatum	Mycoplasma primatum	100
+GCA_000702805.1	Mycoplasma anseris	Mycoplasma anseris	Mycoplasma anseris	Mycoplasma anseris	100
+GCA_000711715.1	Sphingomonas astaxanthinifaciens	Sphingomonas ginsengisoli	Sphingomonas astaxanthinifaciens	Sphingomonas astaxanthinifaciens	100
+GCA_000711725.1	Roseomonas aerilata	Roseomonas gilardii	Roseomonas aerilata	Roseomonas aerilata	100
+GCA_000711735.1	Desulfovibrio frigidus	--	Desulfovibrio frigidus	Desulfovibrio frigidus	100
+GCA_000711795.1	Vibrio pacinii	Vibrio tubiashii	Vibrio pacinii	Vibrio pacinii	99.9985
+GCA_000711805.1	Vibrio rhizosphaerae	Vibrio gazogenes	Vibrio rhizosphaerae	Vibrio rhizosphaerae	99.996
+GCA_000711815.1	Pseudothermotoga hypogea	Pseudothermotoga hypogea	Pseudothermotoga hypogea	Pseudothermotoga hypogea	99.9996
+GCA_000711825.1	Clostridium aminophilum	--	Clostridium aminophilum	Clostridium aminophilum	100
+GCA_000711875.1	Andreprevotia chitinilytica	Chitinolyticbacter meiyuanensis	Andreprevotia chitinilytica	Andreprevotia chitinilytica	100
+GCA_000711885.1	Chromobacterium haemolyticum	Chromobacterium haemolyticum	Chromobacterium haemolyticum	Chromobacterium haemolyticum	100
+GCA_000711895.1	Photorhabdus australis	Photorhabdus asymbiotica	Photorhabdus laumondii	Photorhabdus australis	99.9955
+GCA_000711955.1	Nevskia soli	Solimonas sp.	Nevskia soli	Nevskia soli	99.9999
+GCA_000711965.1	Actinomyces israelii	Actinomyces sp.	Actinomyces israelii	Actinomyces israelii	99.9985
+GCA_000711975.1	Desulfohalotomaculum alkaliphilum	--	Desulfohalotomaculum alkaliphilum	Desulfohalotomaculum alkaliphilum	99.9997
+GCA_000711985.1	Pararheinheimera texasensis	--	Pararheinheimera texasensis	Rheinheimera texasensis	100
+GCA_000712035.1	Salinicoccus luteus	Salinicoccus halodurans	Salinicoccus luteus	Salinicoccus luteus	100
+GCA_000712165.1	Ureaplasma canigenitalium	--	Ureaplasma canigenitalium	Ureaplasma canigenitalium	100
+GCA_000712175.1	Mycoplasma columbinum	Mycoplasma columbinum	Mycoplasma columbinum	Mycoplasma columbinum	100
+GCA_000712185.1	Mycoplasma opalescens	--	Mycoplasma opalescens	Mycoplasma opalescens	99.999
+GCA_000969705.1	Nitriliruptor alkaliphilus	Egicoccus halophilus	Nitriliruptor alkaliphilus	Nitriliruptor alkaliphilus	100
+GCA_900167055.1	Lysobacter spongiicola	Lysobacter maris	Lysobacter spongiicola	Lysobacter spongiicola	100
+GCA_900167065.1	Desulfovibrio bizertensis	--	Desulfovibrio bizertensis	Desulfovibrio bizertensis	99.9993
+GCA_900167125.1	Desulfovibrio gracilis	--	Desulfovibrio gracilis	Desulfovibrio gracilis	100
+GCA_900167155.1	Enterovibrio nigricans	Grimontia hollisae	Enterovibrio nigricans	Enterovibrio nigricans	100
+GCA_900167165.1	Carboxydocella sporoproducens	Carboxydocella thermautotrophica	Carboxydocella thermautotrophica	Carboxydocella sporoproducens	100
+GCA_900167195.1	Pseudomonas aeruginosa	Pseudomonas aeruginosa	Pseudomonas aeruginosa	Pseudomonas aeruginosa	100
+GCA_900167235.1	Desulfococcus multivorans	Desulfococcus multivorans	Desulfococcus multivorans	Desulfococcus multivorans	99.9994
+GCA_900167245.1	Lactobacillus lindneri	Lactobacillus lindneri	Lactobacillus lindneri	Lactobacillus lindneri	99.9998
+GCA_900167305.1	Garciella nitratireducens	--	Garciella nitratireducens	Garciella nitratireducens	99.9998
+GCA_900167325.1	Megasphaera cerevisiae	--	Megasphaera cerevisiae	Megasphaera cerevisiae	99.9986
+GCA_900167345.1	Vibrio cincinnatiensis	Vibrio cincinnatiensis	Vibrio cincinnatiensis	Vibrio cincinnatiensis	100
+GCA_900167405.1	Globicatella sulfidifaciens	Erysipelothrix rhusiopathiae	Globicatella sulfidifaciens	Globicatella sulfidifaciens	100
+GCA_900167435.1	Marinactinospora thermotolerans	Nocardiopsis gilva	Marinactinospora thermotolerans	Marinactinospora thermotolerans	99.9981
+GCA_900167445.1	Maledivibacter halophilus	--	Maledivibacter halophilus	Maledivibacter halophilus	99.999
+GCA_900175965.1	Rubrobacter radiotolerans	Rubrobacter radiotolerans	Rubrobacter radiotolerans	Rubrobacter radiotolerans	100
+GCA_900176005.1	Thermanaeromonas toyohensis	--	Thermanaeromonas toyohensis	Thermanaeromonas toyohensis	100
+GCA_900176035.1	Desulfonispora thiosulfatigenes	--	Desulfonispora thiosulfatigenes	Desulfonispora thiosulfatigenes	100
+GCA_900176045.1	Nitratiruptor tergarcus	Nitratiruptor sp.	Nitratiruptor tergarcus	Nitratiruptor tergarcus	100
+GCA_900176075.1	Pasteurella testudinis	--	Pasteurella testudinis	Pasteurella testudinis	99.9987
+GCA_900176115.1	Peptoniphilus asaccharolyticus	Streptococcus pseudoporcinus	Peptoniphilus asaccharolyticus	Peptoniphilus asaccharolyticus	100
+GCA_900176135.1	Hymenobacter roseosalivarius	Hymenobacter sp.	Hymenobacter roseosalivarius	Hymenobacter roseosalivarius	100
+GCA_900176145.1	Sulfobacillus thermosulfidooxidans	--	Sulfobacillus thermosulfidooxidans	Sulfobacillus thermosulfidooxidans	100
+GCA_900176155.1	Corynebacterium glucuronolyticum	Corynebacterium frankenforstense	Corynebacterium glucuronolyticum	Corynebacterium glucuronolyticum	100
+GCA_900176165.1	Deinococcus hopiensis	Deinococcus sp.	Deinococcus hopiensis	Deinococcus hopiensis	100
+GCA_900176275.1	Andreprevotia lacus	Chitinolyticbacter meiyuanensis	Andreprevotia lacus	Andreprevotia lacus	99.9984
+GCA_900176595.1	Aquiflexum balticum	Belliella baltica	Aquiflexum balticum	Aquiflexum balticum	100
+GCA_900177275.1	Pseudogulbenkiania subflava	Pseudogulbenkiania sp.	Pseudogulbenkiania subflava	Pseudogulbenkiania subflava	100
