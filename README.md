@@ -13,6 +13,7 @@ fIDBAC integrated an accuracy bacterial identification, automated strain typing 
 * Python3\
  The packages that need to be installed are "Biopython scipy skbio gzip Levenshtein".
 * NCBI BLAST+ [2.10.1](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST)
+* kmerfinder [1.0.9](https://bitbucket.org/genomicepidemiology/kmer-finder/src/master/)
 * FastANI [here](https://github.com/ParBLiSS/FastANI)
 * Prokka [1.14.6](https://github.com/tseemann/prokka)
 * Prodigal [V2.6.3](http://prodigal.ornl.gov)
