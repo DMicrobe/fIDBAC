@@ -1,6 +1,6 @@
 accession	organism specise	kmerfinder(Com)	kmerfinder(Type)	fIDBAC	ANI(%)
 NCTC10002	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	98.182
-NCTC10004	Klebsiella aerogenes	Klebsiella aerogenes	Klebsiella pneumoniae	Klebsiella pneumoniae	98.9248
+NCTC10004	Klebsiella pneumoniae	Klebsiella aerogenes	Klebsiella pneumoniae	Klebsiella pneumoniae	98.9248
 NCTC10005	Enterobacter cloacae	Enterobacter cloacae	Enterobacter cloacae	Enterobacter cloacae	99.9946
 NCTC10016	Elizabethkingia meningoseptica	Elizabethkingia meningoseptica	Elizabethkingia meningoseptica	Elizabethkingia meningoseptica	100
 NCTC10035	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7114
@@ -16,7 +16,7 @@ NCTC10124	Mycoplasma synoviae	Mycoplasma synoviae	Mycoplasma synoviae	Mycoplasma
 NCTC10204	Pasteurella multocida subsp. gallicida	Pasteurella multocida	Pasteurella multocida	Pasteurella multocida	100
 NCTC10211	Serratia marcescens	Serratia marcescens	Serratia marcescens	Serratia marcescens	99.9944
 NCTC10212	Neisseria animalis	Neisseria animalis	Neisseria animalis	Neisseria animalis	100
-NCTC10213	Klebsiella edwardsii var. atlantae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	98.9553
+NCTC10213	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	98.9553
 NCTC10217	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.7622
 NCTC10246	Klebsiella pneumoniae	Klebsiella pneumoniae	--	Klebsiella pneumoniae	99.9964
 NCTC10258	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	--	Stenotrophomonas maltophilia	98.2829
@@ -29,7 +29,7 @@ NCTC10314	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Kleb
 NCTC10344	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.066
 NCTC10345	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.1089
 NCTC10360	Plesiomonas shigelloides	Plesiomonas shigelloides	Plesiomonas shigelloides	Plesiomonas shigelloides	100
-NCTC10361	Escherichia coli	Escherichia coli	Shigella sonnei	Shigella boydii	98.5924
+NCTC10361	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.5924
 NCTC10382	Pasteurella multocida	Pasteurella multocida	Pasteurella multocida	Pasteurella multocida	98.9147
 NCTC10389	Streptococcus equinus	Streptococcus equinus	Streptococcus equinus	Streptococcus equinus	99.1432
 NCTC10396	Edwardsiella tarda	Edwardsiella tarda	Edwardsiella tarda	Edwardsiella tarda	99.9837
@@ -74,7 +74,7 @@ NCTC10699	Pasteurella mairii	Pasteurella aerogenes	Pasteurella mairii	Pasteurell
 NCTC10702	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8124
 NCTC10703	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8689
 NCTC10705	Salmonella enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.8604
-NCTC10708	Streptococcus milleri	Streptococcus milleri	Streptococcus constellatus	Streptococcus constellatus	98.0047
+NCTC10708	Streptococcus constellatus	Streptococcus milleri	Streptococcus constellatus	Streptococcus constellatus	98.0047
 NCTC10717	Suttonella indologenes	--	Suttonella indologenes	Suttonella indologenes	100
 NCTC10722	Pasteurella multocida	Pasteurella multocida	--	Pasteurella multocida	98.8743
 NCTC10723	Fusobacterium necrogenes	Fusobacterium mortiferum	--	Fusobacterium necrogenes	100
@@ -87,7 +87,7 @@ NCTC10737	Shewanella putrefaciens	Shewanella putrefaciens	Shewanella baltica	She
 NCTC10757	Escherichia coli	Escherichia coli	--	Escherichia coli	97.8504
 NCTC10758	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.5714
 NCTC10764	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.1628
-NCTC10766	Escherichia alkalescens	Escherichia coli	Escherichia coli	Escherichia coli	99.8097
+NCTC10766	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	99.8097
 NCTC10768	Citrobacter koseri	Citrobacter koseri	Citrobacter koseri	Citrobacter koseri	98.9576
 NCTC10782	Pseudomonas aeruginosa	Pseudomonas aeruginosa	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.339
 NCTC10786	Citrobacter koseri	Citrobacter koseri	Citrobacter koseri	Citrobacter koseri	99.8393
@@ -103,7 +103,7 @@ NCTC10833	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Stap
 NCTC10839	Haemophilus haemolyticus	Haemophilus haemolyticus	Haemophilus influenzae	Haemophilus haemolyticus	95.6334
 NCTC10848	Serratia rubidaea	Serratia rubidaea	Serratia rubidaea	Serratia rubidaea	92.6776
 NCTC10850	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.9871
-NCTC10855	Escherichia aurescens	Escherichia coli	Shigella sonnei	Shigella boydii	98.1329
+NCTC10855	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.1329
 NCTC10860	Pseudomonas pseudoalcaligenes	Pseudomonas oleovorans	Pseudomonas oleovorans	Pseudomonas pseudoalcaligenes	100
 NCTC10863	Escherichia coli	Shigella flexneri	Escherichia coli	Escherichia coli	98.696
 NCTC10864	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.1845
@@ -191,10 +191,10 @@ NCTC11142	Corynebacterium renale	Corynebacterium renale	Corynebacterium renale	C
 NCTC11150	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7311
 NCTC11151	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	99.7399
 NCTC11168	Campylobacter jejuni subsp. jejuni	Campylobacter jejuni	Campylobacter jejuni	Campylobacter jejuni	99.9985
-NCTC11169	Streptococcus milleri	Streptococcus milleri	Streptococcus anginosus	Streptococcus anginosus	95.152
-NCTC11181	Escherichia coli	Escherichia coli	Shigella sonnei	Shigella boydii	98.5705
+NCTC11169	Streptococcus anginosus	Streptococcus milleri	Streptococcus anginosus	Streptococcus anginosus	95.152
+NCTC11181	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.5705
 NCTC11186	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.9637
-NCTC11189	Streptococcus viridans	Streptococcus mitis	Streptococcus gwangjuense	Streptococcus mitis	94.5447
+NCTC11189	Streptococcus mitis	Streptococcus mitis	Streptococcus gwangjuense	Streptococcus mitis	94.5447
 NCTC11192	Legionella pneumophila	Legionella pneumophila	Legionella pneumophila	Legionella pneumophila	99.9999
 NCTC11193	Legionella pneumophila	Legionella pneumophila	Legionella pneumophila	Legionella pneumophila	99.9888
 NCTC11228	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	98.9517
@@ -203,7 +203,7 @@ NCTC11242	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalac
 NCTC11290	Streptococcus acidominimus	Streptococcus pluranimalium	Streptococcus halotolerans	Streptococcus thoraltensis	82.3741
 NCTC11320	Staphylococcus hominis	Staphylococcus hominis	Staphylococcus hominis	Staphylococcus hominis	99.9996
 NCTC11327	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	99.9998
-NCTC11341	Escherichia coli	Escherichia coli	Shigella sonnei	Shigella boydii	98.6978
+NCTC11341	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.6978
 NCTC11343	Sphingobacterium multivorum	Sphingobacterium sp.	Sphingobacterium multivorum	Sphingobacterium multivorum	100
 NCTC11352	Campylobacter lari	Campylobacter lari	Campylobacter lari	Campylobacter lari	100
 NCTC11360	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	99.1727
@@ -245,10 +245,10 @@ NCTC11543	Serratia grimesii	Serratia proteamaculans	Serratia grimesii	Serratia g
 NCTC11544	Serratia quinivorans	Serratia quinivorans	Serratia quinivorans	Serratia quinivorans	99.9888
 NCTC11558	Streptococcus macacae	Streptococcus mutans	Streptococcus macacae	Streptococcus macacae	100
 NCTC11561	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.6609
-NCTC11564	Streptococcus equisimilis	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	95.58
-NCTC11571	Enterobacter cloacae	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	99.1266
-NCTC11579	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter hormaechei	99.0097
-NCTC11588	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter hormaechei	98.9801
+NCTC11564	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	95.58
+NCTC11571	Enterobacter cloacae	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter cloacae	99.1266
+NCTC11579	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter cloacae	99.0097
+NCTC11588	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter cloacae	98.9801
 NCTC11637	Helicobacter pylori	Helicobacter pylori	Helicobacter pylori	Helicobacter pylori	99.9991
 NCTC11683	Klebsiella oxytoca	Klebsiella sp.	Klebsiella oxytoca	Klebsiella grimontii	99.3507
 NCTC11686	Klebsiella oxytoca	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.0541
@@ -317,7 +317,7 @@ NCTC12127	Shimwellia blattae	Shimwellia blattae	Shimwellia blattae	Shimwellia bl
 NCTC12143	Campylobacter coli	Campylobacter coli	Campylobacter coli	Campylobacter coli	98.7135
 NCTC12146	Klebsiella terrigena	Raoultella ornithinolytica	Raoultella terrigena	Raoultella terrigena	99.1248
 NCTC12156	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	99.9999
-NCTC12158	Klebsiella planticola	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	99.0595
+NCTC12158	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	99.0595
 NCTC12167	Streptococcus vestibularis	Streptococcus vestibularis	Streptococcus vestibularis	Streptococcus vestibularis	98.4462
 NCTC12168	Ochrobactrum anthropi	Ochrobactrum anthropi	Ochrobactrum anthropi	Ochrobactrum anthropi	99.9973
 NCTC12171	Ochrobactrum intermedium	Ochrobactrum anthropi	Ochrobactrum intermedium	Ochrobactrum intermedium	99.9993
@@ -388,7 +388,7 @@ NCTC13014	Stenotrophomonas africana	Stenotrophomonas maltophilia	Stenotrophomona
 NCTC13033	Streptomyces griseus	Streptomyces griseus	Streptomyces fulvissimus	Streptomyces griseus	100
 NCTC13046	Brachyspira pilosicoli	Brachyspira pilosicoli	Brachyspira pilosicoli	Brachyspira pilosicoli	98.8518
 NCTC13095	Klebsiella planticola	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	99.3808
-NCTC13096	Klebsiella planticola	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	99.5822
+NCTC13096	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	Raoultella ornithinolytica	99.5822
 NCTC13097	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	99.1082
 NCTC13098	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	96.7568
 NCTC13125	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.897
@@ -405,7 +405,7 @@ NCTC13140	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Stap
 NCTC13141	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8614
 NCTC13142	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.2784
 NCTC13143	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.6617
-NCTC13145	Proteus vulgaris	Proteus vulgaris	Proteus vulgaris	Providencia rustigianii	99.9722
+NCTC13145	Proteus vulgaris	Proteus vulgaris	Proteus vulgaris	Providencia vulgaris	99.9722
 NCTC13148	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.8882
 NCTC13167	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.9164
 NCTC13169	Enterococcus faecium	Enterococcus faecium	Enterococcus faecium	Enterococcus faecium	99.6152
@@ -417,7 +417,7 @@ NCTC13216	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.
 NCTC13251	Bordetella pertussis	Bordetella pertussis	Bordetella pertussis	Bordetella pertussis	99.9981
 NCTC13276	Streptococcus pneumoniae	Streptococcus pneumoniae	Streptococcus pneumoniae	Streptococcus pneumoniae	99.9981
 NCTC13277	Staphylococcus aureus MRSA 252	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.6651
-NCTC13292	Legionella donaldsonii	--	Legionella feeleii	Legionella feeleii	93.7303
+NCTC13292	Legionella feeleii	--	Legionella feeleii	Legionella feeleii	93.7303
 NCTC13297	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.1469
 NCTC13298	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.2012
 NCTC13299	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7207
@@ -425,7 +425,7 @@ NCTC13300	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Stap
 NCTC13301	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.7279
 NCTC13305	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.7649
 NCTC13347	Salmonella enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	99.9191
-NCTC13349	Salmonella enteritidis	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.9391
+NCTC13349	Salmonella enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.9391
 NCTC13351	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.9856
 NCTC13352	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.9929
 NCTC13353	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	98.3048
@@ -440,7 +440,7 @@ NCTC13384	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.
 NCTC13388	Burkholderia oklahomensis	Burkholderia oklahomensis	Burkholderia oklahomensis	Burkholderia oklahomensis	99.9986
 NCTC13394	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8082
 NCTC13395	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8364
-NCTC13406	Enterobacter cloacae	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	99.874
+NCTC13406	Enterobacter cloacae	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter cloacae	99.874
 NCTC13420	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	98.0005
 NCTC13421	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.7094
 NCTC13422	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.8456
@@ -459,7 +459,7 @@ NCTC13452	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.
 NCTC13461	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	98.3767
 NCTC13462	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.3228
 NCTC13463	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.6991
-NCTC13464	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter hormaechei	99.0208
+NCTC13464	Enterobacter cloacae	Enterobacter hormaechei	Enterobacter hormaechei	Enterobacter cloacae	99.0208
 NCTC13465	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.0507
 NCTC13482	Neisseria gonorrhoeae	Neisseria gonorrhoeae	Neisseria meningitidis	Neisseria gonorrhoeae	99.5792
 NCTC13519	Achromobacter spanius	Achromobacter spanius	Achromobacter spanius	Achromobacter spanius	99.9998
@@ -549,11 +549,11 @@ NCTC4133	Staphylococcus epidermidis	Staphylococcus warneri	Staphylococcus warner
 NCTC4136	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.9169
 NCTC4137	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.0977
 NCTC4163	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.1211
-NCTC4168	Escherichia dispar	--	Escherichia coli	Shigella boydii	97.0463
+NCTC4168	Escherichia coli	--	Escherichia coli	Escherichia coli	97.0463
 NCTC4169	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	98.19
 NCTC4174	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.5531
 NCTC4199	Proteus mirabilis	Proteus mirabilis	Proteus mirabilis	Proteus mirabilis	99.3199
-NCTC4450	Escherichia coli	Escherichia coli	Shigella sonnei	Shigella boydii	97.6095
+NCTC4450	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	97.6095
 NCTC4656	Corynebacterium pseudotuberculosis	Corynebacterium pseudotuberculosis	Corynebacterium pseudotuberculosis	Corynebacterium pseudotuberculosis	98.759
 NCTC4670	Streptococcus dysgalactiae subsp. dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	98.6322
 NCTC4671	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	99.2978
@@ -577,7 +577,7 @@ NCTC5656	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staph
 NCTC5657	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7854
 NCTC5658	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.0617
 NCTC5660	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.2544
-NCTC5661	Staphylococcus aureus	Staphylococcus pseudintermedius	--	Staphylococcus pseudintermedius	99.4093
+NCTC5661	Staphylococcus pseudintermedius	Staphylococcus pseudintermedius	--	Staphylococcus pseudintermedius	99.4093
 NCTC5663	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.1845
 NCTC5664	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.1547
 NCTC5706	Salmonella enterica subsp. enterica serovar Java	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.9694
@@ -601,7 +601,7 @@ NCTC6137	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staph
 NCTC6175	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	98.8201
 NCTC6176	Streptococcus equi subsp zooepidemicus	Streptococcus equi	Streptococcus equi	Streptococcus equi	97.5551
 NCTC6180	Streptococcus equi subsp. zooepidemicus	Streptococcus equi	Streptococcus equi	Streptococcus equi	97.4142
-NCTC6181	Streptococcus equisimilis	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	96.2708
+NCTC6181	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	96.2708
 NCTC6267	Citrobacter freundii	Citrobacter braakii	Citrobacter freundii	Citrobacter braakii	96.2534
 NCTC6385	Salmonella enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.887
 NCTC6482	Salmonella enterica subsp. enterica serovar Madelia	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.3708
@@ -613,8 +613,8 @@ NCTC6802	Salmonella enterica	Salmonella enterica	Salmonella enterica	Salmonella 
 NCTC6933	Providencia rustigianii	Providencia rustigianii	Providencia rustigianii	Providencia rustigianii	99.2264
 NCTC6966	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.1542
 NCTC7121	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.0726
-NCTC7136	Streptococcus equisimilis	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	95.5889
-NCTC7151	Staphylococcus aureus	Staphylococcus pseudintermedius	Staphylococcus delphini	Staphylococcus pseudintermedius	99.3512
+NCTC7136	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	Streptococcus dysgalactiae	95.5889
+NCTC7151	Staphylococcus pseudintermedius	Staphylococcus pseudintermedius	Staphylococcus delphini	Staphylococcus pseudintermedius	99.3512
 NCTC7152	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.6453
 NCTC7291	Staphylococcus warneri	Staphylococcus warneri	Staphylococcus warneri	Staphylococcus warneri	99.6994
 NCTC7292	Staphylococcus saprophyticus	Staphylococcus saprophyticus	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.9973
@@ -624,7 +624,7 @@ NCTC7349	Salmonella enterica subsp. arizonae	Salmonella enterica	Salmonella ente
 NCTC7360	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.5918
 NCTC7361	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7188
 NCTC7362	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.0175
-NCTC7364	Acinetobacter calcoaceticus	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.6602
+NCTC7364	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	Acinetobacter baumannii	97.6602
 NCTC7366	Streptococcus salivarius	Streptococcus salivarius	Streptococcus salivarius	Streptococcus salivarius	95.7257
 NCTC7414	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.2063
 NCTC7415	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.0274
@@ -643,7 +643,7 @@ NCTC7688	Staphylococcus saprophyticus subsp. saprophyticus	Staphylococcus saprop
 NCTC7692	Staphylococcus saprophyticus	Staphylococcus saprophyticus	Staphylococcus saprophyticus	Staphylococcus saprophyticus	98.8798
 NCTC7712	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.2485
 NCTC775	Enterococcus faecalis	Enterococcus faecalis	Enterococcus faecalis	Enterococcus faecalis	100
-NCTC7761	Klebsiella edwardsii	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.0687
+NCTC7761	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.0687
 NCTC7791	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	98.1706
 NCTC7799	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.8197
 NCTC7802	Staphylococcus saprophyticus	Staphylococcus hominis	Staphylococcus hominis	Staphylococcus hominis	98.5794
@@ -655,19 +655,19 @@ NCTC7857	Haemophilus parainfluenzae	Haemophilus parainfluenzae	Haemophilus parai
 NCTC7863	Streptococcus sanguinis	Streptococcus sanguinis	Streptococcus sanguinis	Streptococcus sanguinis	100
 NCTC7865	Streptococcus gordonii	Streptococcus gordonii	Streptococcus gordonii	Streptococcus gordonii	99.9992
 NCTC7868	Streptococcus gordonii	Streptococcus gordonii	Streptococcus gordonii	Streptococcus gordonii	95.7988
-NCTC7887	Staphylococcus aureus	Staphylococcus agnetis	Staphylococcus hyicus	Staphylococcus agnetis	96.909
+NCTC7887	Staphylococcus agnetis	Staphylococcus agnetis	Staphylococcus hyicus	Staphylococcus agnetis	96.909
 NCTC7908	Corynebacterium ulcerans	Corynebacterium ulcerans	Corynebacterium ulcerans	Corynebacterium ulcerans	99.9887
 NCTC7914	Pseudomonas putida	Pseudomonas putida	Pseudomonas putida	Pseudomonas plecoglossicida	87.3132
 NCTC7921	Escherichia coli	Escherichia coli	Escherichia coli	Escherichia coli	98.1919
 NCTC7922	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	97.8504
 NCTC7926	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.5429
 NCTC7927	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	97.827
-NCTC7944	Staphylococcus hyicus	Staphylococcus simulans	Staphylococcus simulans	Staphylococcus simulans	99.6278
+NCTC7944	Staphylococcus hyicus	Staphylococcus simulans	Staphylococcus simulans	Staphylococcus hyicus	99.6278
 NCTC7972	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	97.7809
 NCTC7990	Staphylococcus lugdunensis	Staphylococcus lugdunensis	Staphylococcus lugdunensis	Staphylococcus lugdunensis	99.4655
 NCTC8003	Escherichia coli	--	Shigella sonnei	Escherichia coli	98.9045
 NCTC8004	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	Staphylococcus aureus	99.8527
-NCTC8006	Escherichia dispar	Escherichia coli	Shigella sonnei	Shigella boydii	98.2281
+NCTC8006	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.2281
 NCTC8007	Escherichia coli	--	Shigella sonnei	Escherichia coli	98.6732
 NCTC8008	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.3747
 NCTC8009	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	98.6243
@@ -686,7 +686,7 @@ NCTC8185	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalact
 NCTC8187	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	99.2534
 NCTC8188	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	Streptococcus agalactiae	99.4801
 NCTC8193	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	98.8423
-NCTC8196	Escherichia coli	Escherichia marmotae	Escherichia marmotae	Escherichia marmotae	99.0806
+NCTC8196	Escherichia coli	Escherichia marmotae	Escherichia marmotae	Escherichia coli	99.0806
 NCTC8199	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	98.9648
 NCTC8224	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	98.9493
 NCTC8227	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	Streptococcus pyogenes	98.716
@@ -889,7 +889,7 @@ NCTC9657	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebs
 NCTC9660	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.062
 NCTC9661	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.4339
 NCTC9662	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.3177
-NCTC9667	Enterobacter aerogenes	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.043
+NCTC9667	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	Klebsiella pneumoniae	99.043
 NCTC9668	Enterobacter aerogenes	Klebsiella variicola	Klebsiella variicola	Klebsiella variicola	99.1269
 NCTC9684	Salmonella enterica subsp. enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.9285
 NCTC9695	Chromobacterium violaceum	Chromobacterium violaceum	Chromobacterium violaceum	Chromobacterium violaceum	98.5317
@@ -937,7 +937,7 @@ NCTC12120	Cedecea neteri	Cedecea neteri	--	Cedecea neteri	99.9672
 NCTC12123	Enterobacter asburiae	Enterobacter asburiae	--	Enterobacter asburiae	99.9953
 NCTC12124	Enterobacter amnigenus	Lelliottia amnigena	Lelliottia amnigena	Lelliottia amnigena	99.996
 NCTC12125	Kluyvera intermedia	Kluyvera intermedia	Kluyvera intermedia	Kluyvera intermedia	99.9779
-NCTC12126	Enterobacter cancerogenus	Enterobacter cancerogenus	Enterobacter cancerogenus	Enterobacter bugandensis	87.0834
+NCTC12126	Enterobacter cancerogenus	Enterobacter cancerogenus	Enterobacter cancerogenus	Enterobacter cancerogenus	99.8585
 NCTC12128	Escherichia fergusonii	Escherichia fergusonii	Escherichia fergusonii	Escherichia fergusonii	99.997
 NCTC12129	Escherichia hermannii	Atlantibacter hermannii	Atlantibacter hermannii	Atlantibacter hermannii	99.9933
 NCTC12130	Escherichia vulneris	Enterobacter sp.	Pseudescherichia vulneris	Escherichia vulneris	99.9885
@@ -959,7 +959,7 @@ NCTC12993	Kluyvera cryocrescens	Kluyvera intermedia	Kluyvera intermedia	Kluyvera
 NCTC12998	Raoultella planticola	Raoultella planticola	--	Raoultella planticola	99.9827
 NCTC129	Salmonella enterica subsp. enterica	Salmonella enterica	Salmonella enterica	Salmonella enterica	98.9899
 NCTC13032	Leclercia adecarboxylata	--	--	Leclercia adecarboxylata	99.9891
-NCTC13038	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	Raoultella planticola	85.6974
+NCTC13038	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	Raoultella terrigena	99.9919
 NCTC13307	Clostridioides difficile	Clostridioides difficile	--	Peptoclostridium difficile	99.999
 NCTC13348	Salmonella enterica subsp. enterica serovar Typhimurium	Salmonella enterica	Salmonella enterica	Salmonella enterica	99.9559
 NCTC13400	Escherichia coli	Escherichia coli	Shigella sonnei	Escherichia coli	99.9545

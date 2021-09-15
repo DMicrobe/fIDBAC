@@ -459,9 +459,9 @@ GCA_002073335.2	Vibrio cholerae	--	Vibrio cholerae	Vibrio cholerae	99.9954
 GCA_001471455.2	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	99.9846
 GCA_001525525.2	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	Vibrio cholerae	99.6205
 GCA_001471585.2	Vibrio cholerae	Vibrio cholerae	--	Vibrio cholerae	100
-GCA_002953395.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio antiquarius	98.1719
-GCA_002953335.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio antiquarius	98.0126
-GCA_002953355.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio chemaguriensis	98.1928
+GCA_002953395.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio diabolicus	98.1186
+GCA_002953335.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio diabolicus	97.9665
+GCA_002953355.1	Vibrio diabolicus	Vibrio diabolicus	Vibrio antiquarius	Vibrio diabolicus	98.1039
 GCA_002953375.1	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	97.29
 GCA_001558415.2	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	Vibrio fluvialis	100
 GCA_001558435.2	Vibrio harveyi	Vibrio harveyi	Vibrio harveyi	Vibrio harveyi	98.7082
